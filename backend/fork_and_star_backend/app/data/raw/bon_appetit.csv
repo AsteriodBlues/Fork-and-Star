@@ -1,0 +1,110 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 I have compiled and organized the data for Bon App\'e9tit's Best New Restaurants from 2022, 2023, and 2024.\
+Here is the combined list in CSV format, with a new 'Year' column and sorted by year:\
+\pard\pardeftab720\partightenfactor0
+\cf0 Code snippet\
+\
+ID,Name,City,Country,Award,Source List,Cuisine,Year\
+1,Agi\'92s Counter,Brooklyn,United States,,Bon App\'e9tit,Eastern European,2022\
+2,Baba\'92s Pantry,Kansas City,United States,,Bon App\'e9tit,Palestinian,2022\
+3,Bacanora,Phoenix,United States,,Bon App\'e9tit,Sonoran,2022\
+4,Bata,Tucson,United States,,Bon App\'e9tit,Fine Dining,2022\
+5,Birdie\'92s,Austin,United States,,Bon App\'e9tit,American,2022\
+6,Bocadillo Market,Chicago,United States,,Bon App\'e9tit,Spanish;Southern American,2022\
+7,Bonnie\'92s,Brooklyn,United States,,Bon App\'e9tit,Cantonese American,2022\
+8,Cafe Mochiko,Cincinnati,United States,,Bon App\'e9tit,Asian American Bakery;Ramen,2022\
+9,Cafe Mutton,Hudson,United States,,Bon App\'e9tit,Old World Cooking,2022\
+10,Canje,Austin,United States,,Bon App\'e9tit,Caribbean,2022\
+11,Common Thread,Savannah,United States,,Bon App\'e9tit,Farm-to-table,2022\
+12,DAYTRIP,Oakland,United States,,Bon App\'e9tit,Wine Bar;Fermentation,2022\
+13,Daru,Washington,United States,,Bon App\'e9tit,Indian,2022\
+14,Dear Annie,Cambridge,United States,,Bon App\'e9tit,Wine Bar;Seafood,2022\
+15,Dept. of Culture,Brooklyn,United States,,Bon App\'e9tit,Nigerian,2022\
+16,El Rincon del Maiz,Garland,United States,,Bon App\'e9tit,Mexican,2022\
+17,Gage & Tollner,Brooklyn,United States,,Bon App\'e9tit,Steakhouse,2022\
+18,Good Good Culture Club,San Francisco,United States,,Bon App\'e9tit,Asian Fusion,2022\
+19,Her Place,Philadelphia,United States,,Bon App\'e9tit,New American,2022\
+20,Irwin\'92s,Philadelphia,United States,,Bon App\'e9tit,Sicilian,2022\
+21,Juniper Cafe,Atlanta,United States,,Bon App\'e9tit,Vietnamese,2022\
+22,Kingfisher,San Diego,United States,,Bon App\'e9tit,Vietnamese Seafood,2022\
+23,Korshak Bagels,Philadelphia,United States,,Bon App\'e9tit,Bagels,2022\
+24,La Diabla Pozole y Mezcal,Denver,United States,,Bon App\'e9tit,Mexican,2022\
+25,La Onda,Fort Worth,United States,,Bon App\'e9tit,Mexican Seafood,2022\
+26,Lasita,Los Angeles,United States,,Bon App\'e9tit,Filipino,2022\
+27,Lengua Madre,New Orleans,United States,,Bon App\'e9tit,Mexican,2022\
+28,Los F\'e9lix,Miami,United States,,Bon App\'e9tit,Mesoamerican,2022\
+29,Lucian Books and Wine,Atlanta,United States,,Bon App\'e9tit,American,2022\
+30,Ma Der Lao Kitchen,Oklahoma City,United States,,Bon App\'e9tit,Lao,2022\
+31,March,Houston,United States,,Bon App\'e9tit,Mediterranean,2022\
+32,Mid-City Restaurant,Cincinnati,United States,,Bon App\'e9tit,American Comfort Food,2022\
+33,Mister Mao,New Orleans,United States,,Bon App\'e9tit,Global Fusion,2022\
+34,Morchella,Portland,United States,,Bon App\'e9tit,Foraged Foods,2022\
+35,One White Street,New York,United States,,Bon App\'e9tit,American,2022\
+36,Paradis Books & Bread,North Miami,United States,,Bon App\'e9tit,Bakery;Wine Bar,2022\
+37,Ph\uc0\u7903 cific Standard Time,Seattle,United States,,Bon App\'e9tit,Vietnamese,2022\
+38,Quarter Sheets,Los Angeles,United States,,Bon App\'e9tit,Pizza,2022\
+39,Reese Bros Barbecue,San Antonio,United States,,Bon App\'e9tit,Texas Barbecue,2022\
+40,Regards,Portland,United States,,Bon App\'e9tit,Seafood,2022\
+41,Rep\'fablica,Portland,United States,,Bon App\'e9tit,Indigenous Mexican,2022\
+42,Seafood Sally\'92s,New Orleans,United States,,Bon App\'e9tit,Vietnamese-Cajun Fusion,2022\
+43,Semma,New York,United States,,Bon App\'e9tit,Southern Indian,2022\
+44,Sozai,Clawson,United States,,Bon App\'e9tit,Sushi,2022\
+45,Sunny\'92s Steakhouse,Miami,United States,,Bon App\'e9tit,Steakhouse,2022\
+46,Supperland,Charlotte,United States,,Bon App\'e9tit,Southern American,2022\
+47,The Nicolett,Lubbock,United States,,Bon App\'e9tit,West Texas Cuisine,2022\
+48,Uncle Lou,New York,United States,,Bon App\'e9tit,Cantonese,2022\
+49,Yangban Society,Los Angeles,United States,,Bon App\'e9tit,Korean American,2022\
+50,Z&Z Manoushe Bakery,Rockville,United States,,Bon App\'e9tit,Palestinian,2022\
+51,Bar Spero,Washington,United States,,Bon App\'e9tit,,2023\
+52,Brochu\'92s Family Tradition,Savannah,United States,,Bon App\'e9tit,Southern,2023\
+53,Chilte,Phoenix,United States,,Bon App\'e9tit,Mexican,2023\
+54,Dakar NOLA,New Orleans,United States,,Bon App\'e9tit,Senegalese,2023\
+55,Ensenada,Brooklyn,United States,,Bon App\'e9tit,Mexican Seafood,2023\
+56,Este,Austin,United States,,Bon App\'e9tit,Mexican Seafood,2023\
+57,Fishmonger,Atlanta,United States,,Bon App\'e9tit,Seafood,2023\
+58,Heavy Metal Sausage Co.,Philadelphia,United States,,Bon App\'e9tit,Modern American,2023\
+59,Indienne,Chicago,United States,,Bon App\'e9tit,Indian,2023\
+60,Kann + Sous\'f2l,Portland,United States,,Bon App\'e9tit,Haitian,2023\
+61,Kono,New York,United States,,Bon App\'e9tit,Japanese;Yakitori,2023\
+62,Kuya Lord,Los Angeles,United States,,Bon App\'e9tit,Filipino,2023\
+63,Ladder 4 Wine Bar,Detroit,United States,,Bon App\'e9tit,Wine Bar;American,2023\
+64,MaMou,New Orleans,United States,,Bon App\'e9tit,French,2023\
+65,Maty\'92s,Miami,United States,,Bon App\'e9tit,Peruvian,2023\
+66,Mo\'ebca,Cambridge,United States,,Bon App\'e9tit,Seafood,2023\
+67,Neng Jr.\'92s,Asheville,United States,,Bon App\'e9tit,Filipinx,2023\
+68,Noodle in a Haystack,San Francisco,United States,,Bon App\'e9tit,Japanese;Ramen,2023\
+69,Pietramala,Philadelphia,United States,,Bon App\'e9tit,Vegan,2023\
+70,Pijja Palace,Los Angeles,United States,,Bon App\'e9tit,Indian;American Pub,2023\
+71,Rubato,Quincy,United States,,Bon App\'e9tit,Hong Kong-style Cafe,2023\
+72,Seabird,Bainbridge Island,United States,,Bon App\'e9tit,Pacific Northwest Seafood,2023\
+73,Sedalia\'92s Oyster & Seafood,Oklahoma City,United States,,Bon App\'e9tit,Seafood,2023\
+74,Shuggie\'92s,San Francisco,United States,,Bon App\'e9tit,Minimal Waste;Pizza,2023\
+75,Agni,Columbus,United States,,Bon App\'e9tit,Global Tasting Menu,2024\
+76,Akahoshi Ramen,Chicago,United States,,Bon App\'e9tit,Ramen,2024\
+77,Alpenrausch,Portland,United States,,Bon App\'e9tit,Alpine,2024\
+78,Azizam,Los Angeles,United States,,Bon App\'e9tit,Persian,2024\
+79,Bar del Monte,Washington,United States,,Bon App\'e9tit,Italian;Basque,2024\
+80,Barbs B Q,Lockhart,United States,,Bon App\'e9tit,Texas Barbecue,2024\
+81,Bint\'fc Atelier,Charleston,United States,,Bon App\'e9tit,West African,2024\
+82,Corima,New York,United States,,Bon App\'e9tit,Progressive Mexican,2024\
+83,Four Kings,San Francisco,United States,,Bon App\'e9tit,Cantonese,2024\
+84,Hungry Eyes,New Orleans,United States,,Bon App\'e9tit,Global Southern Fusion,2024\
+85,King BBQ,North Charleston,United States,,Bon App\'e9tit,Chinese Southern Barbecue,2024\
+86,Kisser,Nashville,United States,,Bon App\'e9tit,Japanese Teahouse,2024\
+87,Meetinghouse,Philadelphia,United States,,Bon App\'e9tit,Pub Fare,2024\
+88,My Loup,Philadelphia,United States,,Bon App\'e9tit,Quebecois-French,2024\
+89,Oro by Nixta,Minneapolis,United States,,Bon App\'e9tit,Mexican;Vegetarian,2024\
+90,Pasar,Portland,United States,,Bon App\'e9tit,Indonesian,2024\
+91,Popoca,Oakland,United States,,Bon App\'e9tit,Salvadoran,2024\
+92,Sophon,Seattle,United States,,Bon App\'e9tit,Cambodian,2024\
+93,S\uc0\u7855 p S\u7917 a,Denver,United States,,Bon App\'e9tit,Vietnamese American,2024\
+94,T\'e2m T\'e2m,Miami,United States,,Bon App\'e9tit,Vietnamese,2024\
+}

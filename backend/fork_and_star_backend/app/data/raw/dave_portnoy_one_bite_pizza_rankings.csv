@@ -1,0 +1,1147 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ID,Name,City,Country,Score,Award,Source List,Cuisine\
+1,Monte's Restaurant,Portland,United States,10.0,N/A,One Bite Pizza Rankings,Pizza\
+2,Di Fara Pizza,Brooklyn,United States,9.4,N/A,One Bite Pizza Rankings,Pizza\
+3,Frank Pepe Pizzeria Napoletana - Chestnut Hill,Chestnut Hill,United States,9.4,N/A,One Bite Pizza Rankings,Pizza\
+4,DeLucia's Brick Oven Pizza,Raritan,United States,9.4,N/A,One Bite Pizza Rankings,Pizza\
+5,Luigi's Pizza,Brooklyn,United States,9.3,N/A,One Bite Pizza Rankings,Pizza\
+6,Lucali,Brooklyn,United States,9.3,N/A,One Bite Pizza Rankings,Pizza\
+7,John's of Bleecker Street,New York,United States,9.3,N/A,One Bite Pizza Rankings,Pizza\
+8,Oath Pizza - Nantucket,Nantucket,United States,9.3,N/A,One Bite Pizza Rankings,Pizza\
+9,Angelo's Coal Oven Pizzeria,New York,United States,9.3,N/A,One Bite Pizza Rankings,Pizza\
+10,Lazzara's Pizza,New York,United States,9.3,N/A,One Bite Pizza Rankings,Pizza\
+11,Halftime Pizza,Boston,United States,9.2,N/A,One Bite Pizza Rankings,Pizza\
+12,Ceres,New York,United States,9.2,N/A,One Bite Pizza Rankings,Pizza\
+13,Rosie's Subs and Pizza,Braintree,United States,9.2,N/A,One Bite Pizza Rankings,Pizza\
+14,De Lorenzo\'92s Tomato Pies,Robbinsville,United States,9.2,N/A,One Bite Pizza Rankings,Pizza\
+15,Sally's Apizza,New Haven,United States,9.2,N/A,One Bite Pizza Rankings,Pizza\
+16,Ceres,New York,United States,9.2,N/A,One Bite Pizza Rankings,Pizza\
+17,Best Pizza,Brooklyn,United States,9.1,N/A,One Bite Pizza Rankings,Pizza\
+18,Regina Pizzeria,Boston,United States,9.1,N/A,One Bite Pizza Rankings,Pizza\
+19,Johnny's Pizzeria,Mount Vernon,United States,9.1,N/A,One Bite Pizza Rankings,Pizza\
+20,Sauce Pizzeria,New York,United States,9.1,N/A,One Bite Pizza Rankings,Pizza\
+21,Angelo\'92s Pizzeria,Philadelphia,United States,9.1,N/A,One Bite Pizza Rankings,Pizza\
+22,Town Spa Pizza,Stoughton,United States,9.0,N/A,One Bite Pizza Rankings,Pizza\
+23,Denino's Greenwich Village,New York,United States,9.0,N/A,One Bite Pizza Rankings,Pizza\
+24,Ralph's Pizzeria,Nutley,United States,8.9,N/A,One Bite Pizza Rankings,Pizza\
+25,Mister O1- South Beach,Miami Beach,United States,8.9,N/A,One Bite Pizza Rankings,Pizza\
+26,Brooklyn Square Pizza,Jackson,United States,8.9,N/A,One Bite Pizza Rankings,Pizza\
+27,Conte's Pizza,Princeton,United States,8.9,N/A,One Bite Pizza Rankings,Pizza\
+28,Calabria Pizzeria & Restaurant,Livingston,United States,8.9,N/A,One Bite Pizza Rankings,Pizza\
+29,Modern Apizza,New Haven,United States,8.8,N/A,One Bite Pizza Rankings,Pizza\
+30,Nancy\'92s Towne House,Rahway,United States,8.8,N/A,One Bite Pizza Rankings,Pizza\
+31,Federici\'92s Family Restaurant,Freehold,United States,8.8,N/A,One Bite Pizza Rankings,Pizza\
+32,Pino\'92s Pizza,Brighton,United States,8.8,N/A,One Bite Pizza Rankings,Pizza\
+33,Angeloni\'92s Restaurant & Pizzeria,Caldwell,United States,8.8,N/A,One Bite Pizza Rankings,Pizza\
+34,Sorrento\'92s,Long Beach,United States,8.7,N/A,One Bite Pizza Rankings,Pizza\
+35,Fredi The PizzaMan,Melvindale,United States,8.7,N/A,One Bite Pizza Rankings,Pizza\
+36,F & F Pizzeria,Brooklyn,United States,8.7,N/A,One Bite Pizza Rankings,Pizza\
+37,Ignazio's,Brooklyn,United States,8.7,N/A,One Bite Pizza Rankings,Pizza\
+38,Columbia Inn Restaurant,Montville,United States,8.7,N/A,One Bite Pizza Rankings,Pizza\
+39,Nunzio's Pizzeria,Long Branch,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+40,Tommy\'92s Pizza,Bronx,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+41,Tenth Street Pasta & Pizza,Hoboken,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+42,Joe & Pat's Pizzeria,Staten Island,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+43,Williamsburg Pizza,Brooklyn,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+44,Patsy's Pizzeria,New York,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+45,Nove Italian Restaurant,Gansevoort,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+46,Umberto's Pizzeria & Restaurant,New Hyde Park,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+47,Rizzo's Fine Pizza,New York,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+48,Prince Street Pizza,New York,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+49,Pi Pizzeria,Nantucket,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+50,Patsy's Pizzeria,New York,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+51,Roseland Apizza,Derby,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+52,Papa\'92s Tomato Pies,Robbinsville,United States,8.6,N/A,One Bite Pizza Rankings,Pizza\
+53,Rosie's Pizza,Point Pleasant Beach,United States,8.5,N/A,One Bite Pizza Rankings,Pizza\
+54,Double Zero,New York,United States,8.5,N/A,One Bite Pizza Rankings,Pizza\
+55,Lil' Frankie's,New York,United States,8.5,N/A,One Bite Pizza Rankings,Pizza\
+56,Cape Cod Cafe,Brockton,United States,8.5,N/A,One Bite Pizza Rankings,Pizza\
+57,Tony's Place,West Roxbury,United States,8.5,N/A,One Bite Pizza Rankings,Pizza\
+58,Frank Pepe Pizzeria Napoletana,New Haven,United States,8.5,N/A,One Bite Pizza Rankings,Pizza\
+59,Brooklyn Pizza Masters,New York,United States,8.5,N/A,One Bite Pizza Rankings,Pizza\
+60,Joe's Pizza,New York,United States,8.5,N/A,One Bite Pizza Rankings,Pizza\
+61,John & Maria\'92s Pizzeria,East Haven,United States,8.5,N/A,One Bite Pizza Rankings,Pizza\
+62,Perfect Pizza,North Bergen,United States,8.5,N/A,One Bite Pizza Rankings,Pizza\
+63,Giordano's,Chicago,United States,8.4,N/A,One Bite Pizza Rankings,Pizza\
+64,Joe & Pat's Pizzeria,New York,United States,8.4,N/A,One Bite Pizza Rankings,Pizza\
+65,Colony Grill,Stamford,United States,8.4,N/A,One Bite Pizza Rankings,Pizza\
+66,Saba's Pizza,New York,United States,8.4,N/A,One Bite Pizza Rankings,Pizza\
+67,Pizza Sam,Jackson Heights,United States,8.4,N/A,One Bite Pizza Rankings,Pizza\
+68,Luigi's Pizza,New York,United States,8.4,N/A,One Bite Pizza Rankings,Pizza\
+69,John's of Times Square,New York,United States,8.4,N/A,One Bite Pizza Rankings,Pizza\
+70,Vinny Vincenz,New York,United States,8.4,N/A,One Bite Pizza Rankings,Pizza\
+71,Picciotto NYC,New York,United States,8.4,N/A,One Bite Pizza Rankings,Pizza\
+72,Best Pizza & Dive Bar,Amagansett,United States,8.4,N/A,One Bite Pizza Rankings,Pizza\
+73,Nick\'92s Pizza,Forest Hills,United States,8.4,N/A,One Bite Pizza Rankings,Pizza\
+74,Trattoria L'incontro,Astoria,United States,8.4,N/A,One Bite Pizza Rankings,Pizza\
+75,Vic's Italian Restaurant,Bradley Beach,United States,8.3,N/A,One Bite Pizza Rankings,Pizza\
+76,Black Sheep Pizza - Minneapolis,Minneapolis,United States,8.3,N/A,One Bite Pizza Rankings,Pizza\
+77,Antico Pizza,Atlanta,United States,8.3,N/A,One Bite Pizza Rankings,Pizza\
+78,Santillo's Brick Oven Pizza,Elizabeth,United States,8.3,N/A,One Bite Pizza Rankings,Pizza\
+79,Joe's Pizza,Santa Monica,United States,8.3,N/A,One Bite Pizza Rankings,Pizza\
+80,Speedy Romeo,New York,United States,8.3,N/A,One Bite Pizza Rankings,Pizza\
+81,Gato,New York,United States,8.3,N/A,One Bite Pizza Rankings,Pizza\
+82,Sauce,New York,United States,8.3,N/A,One Bite Pizza Rankings,Pizza\
+83,Surly Brewing,Minneapolis,United States,8.3,N/A,One Bite Pizza Rankings,Pizza\
+84,Pizzeria 'Lucci,Belmar,United States,8.3,N/A,One Bite Pizza Rankings,Pizza\
+85,Forbidden Pizza,New Orleans,United States,8.3,N/A,One Bite Pizza Rankings,Pizza\
+86,Patsy's Tavern & Restaurant,Paterson,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+87,Del Ponte's Coal Fired Pizza,Bradley Beach,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+88,Circles and Squares,Philadelphia,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+89,Lou Malnati's Pizzeria,Chicago,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+90,Saluggi's,New York,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+91,Brunetti Pizza,New York,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+92,Numero 28 Pizzeria - West Village,New York,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+93,Vito's Pizza,Santa Monica,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+94,Pope's Italian Restaurant,Saratoga Springs,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+95,Stromboli Pizza,New York,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+96,Bianchi's Pizza,Revere,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+97,Santarpio's Pizza,Boston,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+98,Florina Pizzeria & Paninoteca,Boston,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+99,Riko's Pizza,Stamford,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+100,Merilu Pizza Al Metro,New York,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+101,NY Pizza Suprema,New York,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+102,Brick Oven Pizza 33,New York,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+103,Rocco's Pizza Joint,New York,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+104,Pizza Time,Brooklyn,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+105,The Longshoreman,New York,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+106,Grand Pizza Shoreline,Clinton,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+107,Zuppardi\'92s Apizza,West Haven,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+108,Eleventh Street Pizza,Miami,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+109,Marc's Artisanal Pizzeria,Miami Beach,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+110,Cello's Pizzeria,Manhattan,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+111,PaciDough's Pizza Joint,Toms River,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+112,Il Supremo Pizza,Metairie,United States,8.2,N/A,One Bite Pizza Rankings,Pizza\
+113,Luigi's Famous Pizza,Lincroft,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+114,Prime Pizza,Los Angeles,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+115,Vito & Nick's Pizzeria,Chicago,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+116,Detroit Style Pizza Co,St Clair Shores,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+117,Cesare's Ristorante,Bristol,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+118,Renato's Pizza Master,Jersey City,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+119,Rebar Bar & Pizza,West Haven,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+120,Urban Tomato,Palisades Park,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+121,Lido Restaurant,Hackensack,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+122,Pizzata Pizzeria,Philadelphia,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+123,Pizza Jawn,Philadelphia,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+124,Wood Street Pizza,Philadelphia,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+125,Lo Duca Pizza,Brooklyn,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+126,Tacconelli\'92s Pizzeria,Philadelphia,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+127,Amore Pizzeria,Flushing,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+128,L\'92Arte Della Pizza Brooklyn,Brooklyn,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+129,Razza Pizza Artigianale,Jersey City,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+130,Domenick & Pia Pizzeria,Waterbury,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+131,Goodfellas Pizzeria,Indianapolis,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+132,Denino's Pizzeria Tavern,Staten Island,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+133,Basile's Pizza,Hoboken,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+134,Neapolitan Express,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+135,Famous Ben's Pizza,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+136,Lucali,Miami Beach,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+137,Totonno's,Brooklyn,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+138,Bronx Pizza,San Diego,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+139,Caputo's Pizzeria,Saratoga Springs,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+140,King Umberto's of Elmont,Elmont,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+141,Sal's Little Italy,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+142,Champion Pizza,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+143,Rubirosa,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+144,310 Bowery Bar,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+145,Cafe Daniello's,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+146,Freddie & Pepper's,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+147,Francesco's Pizzeria,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+148,Sacco Pizza,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+149,Luigi's Gourmet Grill,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+150,PizzArte,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+151,Pisa Pizza,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+152,Jiannetto's Pizza Truck,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+153,Lombardi's pizza,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+154,Nicoletta Pizzeria,New York,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+155,Heritage,Fort Lauderdale,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+156,Angelo\'92s Pizza,Wilkes Barre,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+157,Gerry\'92s Pizzeria,Wilkes Barre,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+158,Pizza Craft Artisan Pizzeria,Fort Lauderdale,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+159,Tucci\'92s Fire N Coal Pizza,Boca Raton,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+160,Pizzeria Giove,Staten Island,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+161,Pete & Elda\'92s Bar / Carmen\'92s Pizzeria,Neptune City,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+162,Slice,Long Island City,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+163,Bar Bucce,Miami,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+164,Flour Pizzeria & Cafe,Los Angeles,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+165,Corner Square,Bayonne,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+166,Leo's Hideout,San Antonio,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+167,Lovers Pizzeria,San Antonio,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+168,Smith & Lentz Brewing and Pizza,Nashville,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+169,St. Vito Focacceria,Nashville,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+170,PIZZ' AMICI,Chicago,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+171,Sullivan Street Bakery and Pizza,Manhattan,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+172,Spinachio Pizza,North Haledon,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+173,Peppi's Pizza,Miami,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+174,Emelio's Restaurant,Columbus,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+175,Eda's Pizzeria,Philadelphia,United States,8.1,N/A,One Bite Pizza Rankings,Pizza\
+176,Roberta's,Brooklyn,United States,8.0,N/A,One Bite Pizza Rankings,Pizza\
+177,Grimaldi's,Brooklyn,United States,8.0,N/A,One Bite Pizza Rankings,Pizza\
+178,La Margarita Pizza,New York,United States,8.0,N/A,One Bite Pizza Rankings,Pizza\
+179,East Village Pizza,New York,United States,8.0,N/A,One Bite Pizza Rankings,Pizza\
+180,Steamboat Wharf Pizza,Nantucket,United States,8.0,N/A,One Bite Pizza Rankings,Pizza\
+181,Lynwood Cafe,Randolph,United States,8.0,N/A,One Bite Pizza Rankings,Pizza\
+182,Fort Lee Pizzeria,Fort Lee,United States,8.0,N/A,One Bite Pizza Rankings,Pizza\
+183,Blocks Pizza Deli,Miami Beach,United States,8.0,N/A,One Bite Pizza Rankings,Pizza\
+184,Fort Lee Pizzeria,Fort Lee,United States,8.0,N/A,One Bite Pizza Rankings,Pizza\
+185,Maria's Pizza & Subs,Milltown,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+186,Mancini Pizza,East Brunswick,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+187,Natoli's Italian Deli,Secaucus,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+188,Amore Pizza by Jack Calandra,Nutley,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+189,The Galley Pizza & Eatery,Asbury Park,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+190,Brooklyn Pizza,Short Hills,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+191,Pizzette Miami,Miami Beach,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+192,Roma Pizzeria,North Bergen,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+193,Good Pizza,Philadelphia,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+194,Brooklyn's Brick Oven Pizzeria,Hackensack,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+195,Brother's Pizzeria,Staten Island,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+196,Lee's Tavern,Staten Island,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+197,Il Mattone West Village,New York,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+198,Artichoke Basille's Pizza,New York,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+199,Julian's Italian Pizzeria & Kitchen,San Antonio,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+200,Borrelli's,East Meadow,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+201,Tony's Pizza,Brooklyn,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+202,L'industrie Pizzeria,Brooklyn,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+203,Manhattan Brick Oven Pizza,New York,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+204,Made In New York Pizza,New York,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+205,Arturo's,New York,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+206,Sofia Pizza Shoppe,New York,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+207,Rock Pizza Scissors,New York,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+208,Patrizia's Pizza and Pasta,New York,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+209,Sabatini\'92s Pizza Inc,Exeter,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+210,Moby\'92s,East Hampton,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+211,Sicilian Oven,Boca Raton,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+212,Fresco By Scotto,New York,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+213,Amano Pizza,South Amboy,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+214,Grand Avenue Pizza,Astoria,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+215,Nunzio\'92s Pizzeria & Restaurant,Staten Island,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+216,Via Roma Pizza Bar,Brooklyn,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+217,Tony D\'92s Pizza,Caldwell,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+218,Gino\'92s Long Beach,Long Beach,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+219,Vince\'92s Pizzeria,Philadelphia,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+220,Pizza Shackamaxon,Philadelphia,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+221,Ernie\'92s Pizzeria,New Haven,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+222,Pizzeria La Rosa,New Rochelle,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+223,Angelino's Restaurant,Philadelphia,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+224,Eagle Brook Saloon,Norfolk,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+225,Vinnie's Mootz,Lyndhurst,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+226,Zarella Pizzeria & Taverna,Chicago,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+227,Ferraro's Pizzeria & Pub,Middlesex,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+228,Prince Street Pizza,Chicago,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+229,Casano's Pizza Parlor,Rutherford,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+230,Baker and Barista,Miami,United States,7.9,N/A,One Bite Pizza Rankings,Pizza\
+231,Pelham Pizza,Pelham,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+232,The Pizza Terminal,Verona,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+233,Brooklyn Square,Jackson,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+234,Pat's Pizza and Ristorante,Chicago,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+235,Zazzy's Pizza,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+236,Barnaby's of Northbrook,Northbrook,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+237,Michigan & Trumbull,Detroit,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+238,Tomatoes APizza,Farmington Hills,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+239,Marabella Pizza,Sunnyside,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+240,Lodi Pizza Restaurant,Lodi,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+241,Giotto Maestro della Pizza,Miami Beach,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+242,Napoli Wood Fired Pizza,Cliffside Park,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+243,Gaetano's Pizzeria,Clifton Heights,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+244,Pica's Restaurant,Upper Darby,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+245,Botanica Bar,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+246,Louie & Ernie's Pizza,Bronx,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+247,Leone's Pizza,Columbus,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+248,Pies & Pints - Lexington,Lexington,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+249,Round Pie Pizza Company,Staten Island,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+250,Luigi's Coal Oven Pizza,Fort Lauderdale,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+251,The New Park Tavern,East Rutherford,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+252,Vaccaro\'92s Pizza,Floral Park,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+253,Pat\'92s Pizza,Dorchester Center,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+254,Artichoke Basille's Pizza,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+255,Peperino,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+256,Nonna\'92s Pizza,White Plains,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+257,Adoro Lei,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+258,Serafina Meatpacking,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+259,Emmett's,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+260,XS Nightclub,Las Vegas,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+261,Acquolina,San Francisco,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+262,Krispy Pizza - Brooklyn,Brooklyn,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+263,Eddie\'92s Pizza,New Hyde Park,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+264,New Park Pizza,Howard Beach,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+265,Carmine's Pizzeria,Brooklyn,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+266,Salvo's Pizzabar,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+267,Frank's Trattoria,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+268,Rivoli Pizza,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+269,Pizza Da Solo,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+270,Joe's Pizza,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+271,La Bellezza,New York,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+272,Sam\'92s Restaurant,East Hampton,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+273,Fiori's Pizzaria,Pittsburgh,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+274,Grandpa's Pizza,Bonita Springs,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+275,Bird Pizzeria,Charlotte,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+276,Stretch Pizza,Manhattan,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+277,Zee's Pizzeria,New Orleans,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+278,St. Pizza,New Orleans,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+279,Boludo,Miami,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+280,Rocco's Pizzeria,Glen Burnie,United States,7.8,N/A,One Bite Pizza Rankings,Pizza\
+281,Ducali,Boston,United States,7.74,N/A,One Bite Pizza Rankings,Pizza\
+282,Il Buco Alimentari & Vineria,New York,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+283,Urban CoalHouse,Red Bank,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+284,Grana Pizza Cafe,Matawan,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+285,Bella Pizza,Hasbrouck Heights,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+286,Joey's House of Pizza,Nashville,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+287,Craft Pizza,Chicago,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+288,Joe's Pizza NYC,Ann Arbor,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+289,Curioni's Pizza,Lodi,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+290,Goodfellas Distillery,Lexington,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+291,Pugsley's Pizza,Bronx,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+292,Scarr's Pizza,New York,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+293,Harry's Italian,New York,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+294,Phil's Pizza,New York,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+295,Ciao Vineria con Cucina,New York,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+296,Pizza Barbone,Hyannis,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+297,Italian Village Pizzeria,New York,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+298,Il Rione,Cleveland,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+299,Song E Napule,New York,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+300,Vezzo,New York,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+301,Sfila Pizza,New York,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+302,Pepe Giallo,New York,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+303,3 Giovani,New York,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+304,Nick\'92s New Haven Style Pizzeria and Bar,Boca Raton,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+305,Rosario\'92s,Astoria,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+306,Nonna's,Florham Park,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+307,Mike's Pizza,New York,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+308,Table 87 - Brooklyn Heights,Brooklyn,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+309,Haymarket Pizza,Boston,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+310,Michael\'92s Famous Pan Pizza & Restaurant,Port Chester,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+311,Mike's Apizza & Restaurant,West Haven,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+312,Sal's Pizzeria,Mamaroneck,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+313,Cugino\'92s Italian Deli & Pizza,Las Vegas,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+314,Taglio Cucina & Pizzeria Romana,Port Charlotte,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+315,Industry Pizza & Slice Shop,Naples,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+316,Acre Pizza,Sebastopol,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+317,Mike & Lenny's Bar Pizza,Walpole,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+318,Strad Pizza,Scottsdale,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+319,Lucci's Pizza,Clifton,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+320,Barbaro,San Antonio,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+321,EVOLI Pizzeria & Bistro,Hackensack,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+322,Tramonto's Pizza,Ocean Township,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+323,Amici Pizza,Mesa,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+324,Argilla Brewing Co. @ Pietro's Pizza,Newark,United States,7.7,N/A,One Bite Pizza Rankings,Pizza\
+325,Sea Bright Pizzeria,Sea Bright,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+326,Little Italy Pizza & Pasta,Sayulita,Mexico,7.6,N/A,One Bite Pizza Rankings,Pizza\
+327,Michael's Original Pizzeria & Tavern,Chicago,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+328,Chimney Rock Inn,Bound Brook,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+329,Jimmy's Pizza Cafe,Chicago,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+330,Michael's Pastaria,Nutley,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+331,Squan Tavern,Manasquan,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+332,Arthur Avenue Wood Fired Pizza,Pleasantville,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+333,Bar Cargo,Chicago,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+334,Reservoir Restaurant,South Orange,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+335,Josie's Pizzeria,Lyndhurst,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+336,Charlie's Pizzeria,Philadelphia,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+337,Joe's Pizza,West Hollywood,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+338,John's Pizzeria,Jersey City,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+339,Red Pinto Tailgate Party,Orchard Park,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+340,Gino\'92s Restaurant,Brooklyn,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+341,Norm\'92s Pizza,Brooklyn,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+342,Pete\'92s Pizza,Daytona Beach,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+343,PizzaPapalis of Greektown,Detroit,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+344,Frank & Danny\'92s Pizzeria,New York,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+345,Pizza District,Boca Raton,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+346,Vincenza\'92s Pizza & Pasta,Cleveland,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+347,Salvatore\'92s Coal Oven Pizzeria,Port Washington,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+348,Reservoir Tavern,Boonton,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+349,La Capannina,Wainscott,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+350,Pizza Collective,New York,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+351,Primavera Pizza,Montauk,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+352,Village Square Pizza,New York,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+353,Young Joni,Minneapolis,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+354,Porrino\'92s Pizzeria,Little Ferry,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+355,Pizza Land,North Arlington,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+356,Buddy's Pizza,Dearborn,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+357,Johnny Pepperoni,Hoboken,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+358,Enzo Bruni La Pizza Gourmet,New York,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+359,Poopsie's,Pembroke,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+360,Motorino,New York,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+361,Cusumano,Old Forge,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+362,Cafe Rinaldi,Old Forge,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+363,Wayne Ale House & Pizza,Wayne,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+364,Gio's Pizza & Spaghetti House,Metairie,United States,7.6,N/A,One Bite Pizza Rankings,Pizza\
+365,Pizza Bruno,Orlando,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+366,Tavolino Pizzeria & Trattoria,Wallington,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+367,Maruca's Tomato Pies,Seaside Heights,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+368,Five Points Pizza East,Nashville,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+369,Prince Street Pizza,West Hollywood,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+370,Avellino Pizza & Pasta,Hartsdale,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+371,Amarone,Aventura,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+372,Detroit Frankie's Wood Fired Brick Oven,Lansing,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+373,Cloverleaf Bar & Restaurant,Eastpointe,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+374,Supino Pizzeria,Detroit,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+375,Sac's Place,Queens,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+376,Trattoria La Sorrentina,North Bergen,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+377,Apizza Grande,East Haven,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+378,Juliano's Restaurant,McKees Rocks,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+379,Mulberry Street Pizzeria,Beverly Hills,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+380,Red Wagon Pizza Co,Minneapolis,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+381,Red Front Pizza,Clifton Park,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+382,Arcaro & Genell,Old Forge,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+383,Scratch Brick Oven,Johnson City,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+384,Bocce Club Pizza,Amherst,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+385,Vincenzo\'92s Pizzeria,Waterbury,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+386,Napoli Pizza & Pasta,Astoria,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+387,Renzo\'92s Cafe Pizzeria,Boca Raton,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+388,Vince the Pizza Prince,Scranton,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+389,Maroni\'92s Pizza House,Scranton,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+390,Pennachio\'92s,Manorville,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+391,Pop\'92s Pizzas,New York,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+392,Love & Dough,DUMBO,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+393,Mama's Pizza,Saint Paul,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+394,Empire Slice House,Oklahoma City,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+395,Santucci's Original Square Pizza,Philadelphia,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+396,Kinchley's Tavern,Ramsey,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+397,Pizza Town USA,Elmwood Park,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+398,Da Nonna Rosa,Brooklyn,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+399,Palio Pizzeria,Hyannis,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+400,Louie's Pizza,Woburn,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+401,Royal Pizza,New York,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+402,Lambretta Pizzeria,Old Toronto,Canada,7.5,N/A,One Bite Pizza Rankings,Pizza\
+403,Mac's Pizza,Old Toronto,Canada,7.5,N/A,One Bite Pizza Rankings,Pizza\
+404,Braintree Brewhouse,Braintree,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+405,Laced Pizza & Pub,Foxborough,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+406,Manville Pizza & Restaurant,Manville,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+407,DeNucci's,Chicago,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+408,Emmy Squared Pizza: The Gulch,Nashville,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+409,Mona Lisa Pizza,Jackson Township,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+410,Nuovo York Pizza,Manhattan,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+411,Tower of Pizza,Metairie,United States,7.5,N/A,One Bite Pizza Rankings,Pizza\
+412,Da Legna at Nolo,New Haven,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+413,Brozinni Pizzeria at Speedway,Speedway,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+414,Massa Cafe Italiano,Elmwood Park,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+415,Taormina,Paterson,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+416,Bonci Pizzeria,Chicago,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+417,Villaggio's Italiano Restaurant,Hartsdale,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+418,Raceway Pizza & Ristorante,Yonkers,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+419,Coalfire,Chicago,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+420,Coalfire,Chicago,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+421,Apizza Brooklyn,Miami,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+422,Arturo's Osteria & Pizzeria,Maplewood,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+423,Three Guys From Italy,Kenilworth,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+424,Ferazzoli's Italian Kitchen,Rutherford,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+425,Barcelona's Restaurant,Garfield,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+426,Randazzo's Pizzeria,Philadelphia,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+427,Death By Pizza,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+428,Frisco's Pizza,New Haven,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+429,Enzo Claudio Pizzeria,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+430,Palermo's Cafe & Bakery,Little Ferry,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+431,Franzone's Pizzeria,Manayunk,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+432,Montesini Pizza,Philadelphia,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+433,Giovani's Bar & Grill,Philadelphia,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+434,Pietro's Pizza,Philadelphia,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+435,La Nonna Krispy Krust Pizza,Brooklyn,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+436,Side Piece Pizza,Las Vegas,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+437,Pizza Wagon,Brooklyn,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+438,Bonnie & Clyde\'92s Pizza Parlor,Louisville,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+439,Figs by Todd English,Boston,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+440,Pizzeria Beddia,Philadelphia,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+441,Union Park Pizza,Boston,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+442,Resca,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+443,Rosa\'92s Pizza,Maspeth,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+444,Pizza Garden,Flushing,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+445,Sam\'92s,Brooklyn,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+446,Lombardo\'92s,White Plains,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+447,Revello\'92s Pizza,Old Forge,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+448,Marinara Pizza,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+449,Vito\'92s Slices and Ices,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+450,Lucille,Madison,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+451,Nolita Pizza,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+452,Salvatore\'92s Tomato Pies,Madison,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+453,Vino\'92s Pizza,Lafayette Hill,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+454,DOUGH By Licastri,Staten Island,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+455,Caserta Pizzeria,Providence,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+456,Providence Coal Fired Pizza,Providence,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+457,Elegante Pizzeria,Brooklyn,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+458,Jet\'92s Pizza,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+459,Hi-Class Pizza,Bellerose,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+460,Pizza Time Ristorante,Boca Raton,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+461,Remo\'92s,Stamford,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+462,Romeo\'92s,Freehold,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+463,Alfredo\'92s Pizza Cafe,Scranton,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+464,Colombo\'92s Cafe & Pastries,Hyannis,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+465,Fierro\'92s Pizza,East Hampton,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+466,Pequod's Pizzeria,Chicago,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+467,GoreMade Pizza,Columbus,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+468,Marcello's Pizza & Subs,Atlanta,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+469,Napoli's Brick Oven Pizza,Hoboken,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+470,The Woodstock,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+471,Justino's Pizzeria,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+472,Stage Door Pizza,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+473,Filaga Pizzeria,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+474,L & B Spumoni Gardens,Brooklyn,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+475,Ciro's Pizzeria & Beerhouse,San Diego,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+476,Mama Mia's Restaurant,Saratoga Springs,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+477,Dani's House of Pizza,Kew Gardens,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+478,Brooklyn's Homeslice Pizzeria,Brooklyn,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+479,Paulie Gee's Slice Shop,Brooklyn,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+480,Margherita NYC,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+481,Il Piccolo Bufalo,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+482,Gnocco,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+483,Fusaro's,Nantucket,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+484,BAR,New Haven,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+485,Rosemary's Pizza,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+486,Upside Pizza,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+487,Prova Pizzabar,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+488,Famous Famiglia Pizzeria,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+489,Moustache Pitza,New York,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+490,Frankie's Pizza,Miami,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+491,Giorgio's Pizza,Indianapolis,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+492,Terrazza,Old Toronto,Canada,7.4,N/A,One Bite Pizza Rankings,Pizza\
+493,Geno D's Pizza,Charlotte,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+494,Sharpies Pizza + Cocktails,Chicago,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+495,Freddy's Pizza,Cicero,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+496,Romeo's Pizza Italian American,Freehold Township,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+497,Belgiovine's Pizza,Montclair,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+498,That's Amore Pizzeria,Metairie,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+499,Parlor Pizza Bar West Loop,Chicago,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+500,Bazemore Pizza Company,Upper Arlington,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+501,Grotto Pizza,Wilmington,United States,7.4,N/A,One Bite Pizza Rankings,Pizza\
+502,Round Swamp Farm,Montauk,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+503,Unregular Pizza,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+504,Prince Street Pizza,Miami,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+505,Pizzeria Ora,Chicago,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+506,Low Fidelity,Jersey City,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+507,Sauce & Barrel,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+508,Pizza Pazza,Miami,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+509,Inattesco Pizzabar,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+510,Nicholas Barrel & Roost,Red Bank,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+511,Venice Pizza & Trattoria,North White Plains,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+512,Little Italian Pizza,Pompano Beach,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+513,Crispelli's Bakery & Pizzeria,Berkley,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+514,Terre Del Sapore,Coral Gables,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+515,Crispelli's Bakery & Pizzeria,Berkley,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+516,Crispelli's Bakery & Pizzeria,Berkley,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+517,Deluca's Restaurant,Lansing,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+518,NeoPapalis,Ann Arbor,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+519,Niki's Pizza,Detroit,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+520,Santoni's Pizzeria,Garfield,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+521,Tony & Joe's Pizzeria,Conshohocken,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+522,Caf\'e9 Carmela,Philadelphia,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+523,Sam's Boardwalk Style Pizza,Havertown,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+524,Pizza Rock,Las Vegas,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+525,Gennaro's Pizza Parlor,Saratoga Springs,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+526,Paulie Gee's,Brooklyn,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+527,Pasquale Jones,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+528,Baker's Pizza,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+529,Joey's Pizzeria,Dennis Port,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+530,Pie Pie Pizza,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+531,Serafina Broadway,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+532,Teresa's Brick Oven Pizza & Cafe,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+533,Harry's Italian Pizza Bar,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+534,Marinara Pizza,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+535,Pizza Village,Montauk,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+536,Tomasso\'92s Pizza and Subs,Boca Raton,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+537,Pizza Tropical,Miami,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+538,Giuseppe's Steel City Pizza,Port Orange,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+539,Shelley\'92s Pizza,Wilkes Barre,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+540,Campania Coal Fired Pizza,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+541,The Brick Fire Baked Pizza,Hoboken,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+542,La Nova Pizzeria,Buffalo,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+543,Mary Lou\'92s Pizza,Old Forge,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+544,Emilio\'92s of Morris Park,Bronx,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+545,Gigino Trattoria,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+546,Strawberry\'92s Pub & Pizza,Woodbridge,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+547,Manco & Manco Pizza,Ocean City,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+548,Nino\'92s Pizza & Subs,Boston,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+549,Freddy\'92s Pizzeria,Whitestone,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+550,House of Pizza & Calzones,Brooklyn,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+551,Pizza Pazza,Miami,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+552,Sauce & Bread,New York,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+553,Pizzeria Rustico,Boston,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+554,Oakwood Pizza Edison,Edison,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+555,Sal's Pizza Factory,Charlotte,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+556,Ranalli's Pizza Bar - Lincoln Park,Chicago,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+557,Pizza RIA,Manchester Township,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+558,Cafe Sitaly,Wilmington,United States,7.3,N/A,One Bite Pizza Rankings,Pizza\
+559,Zeneli Pizzeria,New Haven,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+560,Tommy's Tavern + Tap,Sea Bright,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+561,Joe's Rotisseria,Roselle Park,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+562,DeSano Pizza Bakery,Nashville,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+563,Collins Pizza,Miami,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+564,Zoni's Coal Fired Pizza,Red Bank,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+565,Cafe La Buca,Pompano Beach,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+566,Pie-Sci Pizza,Detroit,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+567,Capri Pizza,Kenilworth,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+568,Outta Hand Pizza,Westfield,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+569,Pie-Sci Pizza,Detroit,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+570,Beto's Pizza,Pittsburgh,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+571,Sal & Carmine's Pizza,New York,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+572,Pizza Barn,Yonkers,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+573,Bella Blu,New York,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+574,Wedgewood Fernando's Pizza - Austintown,Youngstown,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+575,Sparky's Pizzeria and Grill,Jackson,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+576,Buckhead Pizza,Atlanta,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+577,Fellini's Pizza,Atlanta,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+578,Vesta Wood Fired Pizza & Bar,East Rutherford,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+579,Mario's Classic Pizza,Hoboken,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+580,Dona Bella Pizza,New York,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+581,Emily - West Village,New York,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+582,Good Pie,Las Vegas,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+583,Corner Slice,New York,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+584,Caf\'e9 Crust,Southampton,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+585,Proto's Pizza,New York,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+586,Sophie T's Pizza,Nantucket,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+587,Pizza Pete's,New York,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+588,Cafe Fiorello,New York,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+589,Company,New York,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+590,La Leggenda Pizzeria,Miami Beach,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+591,Sir Pizza,Key Biscayne,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+592,Dusal\'92s Italian Restaurant,Freehold,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+593,Conte\'92s Pizza,Delray Beach,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+594,New England Pizza House No 1,Hyannis,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+595,John\'92s Pizza Restaurant,Naugatuck,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+596,Grandma\'92s Original Pizza,Brooklyn,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+597,Manero\'92s Pizza,New York,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+598,Eleven B,New York,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+599,Tommy\'92s Pizza,Providence,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+600,Al Forno Restaurant,Providence,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+601,Butchertown Pizza Hall,Louisville,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+602,La Pizza,University City,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+603,Lucia Pizza,Flushing,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+604,VIPizza,Bayside,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+605,Collins Pizza,Miami,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+606,Petralunga,North Bay Village,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+607,Lusha Pizza,Chicago,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+608,Bacino's,Chicago,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+609,312 Pizza Company,Nashville,United States,7.2,N/A,One Bite Pizza Rankings,Pizza\
+610,Talula's,Asbury Park,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+611,Brothers Pizza,East Brunswick,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+612,Bryne's Grilled Pizza,Indianapolis,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+613,Black Magic Pizza,Orlando,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+614,PizzeRizzo,Hollywood Studios,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+615,Bongiorno's Cucina Italiana & Pizzeria,Chicago,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+616,Pizzeria Portofino,Chicago,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+617,Spacca Napoli,Chicago,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+618,The Bread Factory,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+619,PIZZANISTA!,Los Angeles,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+620,Big Louie's Pizzeria,Pompano Beach,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+621,Chicago Pizza and Oven Grinder Company,Chicago,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+622,Salerno's Pizza,Chicago,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+623,Piece Brewery & Pizzeria,Chicago,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+624,Harry's Pizzeria,Miami,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+625,Mootz Pizzeria + Bar,Detroit,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+626,Caf\'e9 Villa,Chatham,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+627,Maxi's Pizza, Subs & Bar,Philadelphia,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+628,Mineo's Pizza House,Pittsburgh,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+629,Pizzeria Stella,Philadelphia,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+630,La Pizza Fresca Ristorante,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+631,Brooklyn Boys Pizza and Deli,Edison,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+632,Red's Savoy Pizza,Minneapolis,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+633,Star Tavern,Orange,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+634,Minervini\'92s Pizzeria & Restaurant,East Haven,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+635,Re Sette,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+636,City Pizza,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+637,La Bellezza Pizza,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+638,Armand's Pizzeria,Elmwood Park,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+639,Geo's Pizza,Chicago,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+640,Villa Pizza,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+641,The Wig & Pen Pizza Pub,Iowa City,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+642,Avalon Downtown Pizzeria,Youngstown,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+643,IL Brigante,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+644,Salerno\'92s Cafe,Old Forge,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+645,Todaro Pizza,Clemson,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+646,Post Office Pies,Birmingham,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+647,Feroce Ristorante,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+648,Fellini Pizzeria,Providence,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+649,Benny Marzano's,Blacksburg,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+650,Cosmo's Original Little Italy Pizza,Lawrenceville,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+651,Cucina Bene,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+652,Majestic Pizza,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+653,Eddie & Sam's NY Pizza,Tampa,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+654,DC Pie - Brickell,Miami,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+655,Porta,Jersey City,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+656,Emporio,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+657,Sorbillo Pizzeria,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+658,Dirty Water Dough,Boston,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+659,Vinnie's Pizzeria,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+660,Kiss My Slice,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+661,Il Corallo Trattoria,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+662,New York Sal's Pizza,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+663,Uncle Mario's Brick Oven Pizza,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+664,Grafa Pizza,Miami Beach,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+665,Nick's Pizza,Deerfield Beach,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+666,Main Street Pizza Company,Farmingdale,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+667,Capizzi,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+668,P&G Pizza and Deli,Southampton,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+669,Villa Milano,Manhasset,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+670,Zia Maria-Chelsea,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+671,Lions & Tigers & Squares Detroit Pizza,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+672,BarDough,New York,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+673,LowBrow Pizza & Beer,Naples,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+674,Mattenga's Pizzeria,San Antonio,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+675,Vinnie's Pizzeria & Restaurant,Bloomfield,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+676,Pizza Pizza,Miami,United States,7.1,N/A,One Bite Pizza Rankings,Pizza\
+677,Picasso\'92s Pizza,Buffalo,United States,7.0,N/A,One Bite Pizza Rankings,Pizza\
+678,Brier Hill Pizza & Wings,Youngstown,United States,7.0,N/A,One Bite Pizza Rankings,Pizza\
+679,Fiore's Pizza,New York,United States,7.0,N/A,One Bite Pizza Rankings,Pizza\
+680,Michael's Ali Coal Fired Pizza,Winter Garden,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+681,The Big Cheese,Miami,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+682,Alibi of Troy,Troy,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+683,Bell's Greek Pizza,East Lansing,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+684,Buon Pane Italiano Bakery,Miami Beach,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+685,Campus Corner,Villanova,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+686,Aumm Aumm,North Bergen,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+687,Imperial Pizza,Secane,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+688,Tony's Famous Tomato Pie,Philadelphia,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+689,Nino's 46,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+690,Mariella Pizza,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+691,Sicilia Fine Italian Specialties,Columbus,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+692,Girello,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+693,Bleecker Street Pizza,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+694,Steve's Pizza,Miami,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+695,Pizza Girls WPB,West Palm Beach,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+696,Juliana's Pizza,Brooklyn,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+697,Rocco's Pizzeria,Vineyard Haven,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+698,Mama's Pizzeria,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+699,Joe G Pizza & Restaurant,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+700,Ovest Pizzoteca by Luzzo's,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+701,10th Avenue Pizza & Cafe,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+702,Gotham Pizza,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+703,Village Pizza,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+704,Anthony\'92s,Watertown,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+705,Belltown Pizza,Stamford,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+706,M & S Pizza II,Rockaway Township,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+707,Prova Pizzabar,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+708,Biga Contemporary Pizza,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+709,Famous Calabria,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+710,Sotto 13,New York,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+711,Glenville Pizza,Greenwich,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+712,Pizzeria Lola,Minneapolis,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+713,The Big Cheese,Miami,United States,6.9,N/A,One Bite Pizza Rankings,Pizza\
+714,Abate Apizza & Restaurant,New Haven,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+715,IL Forno Brick Oven Pizza,Secaucus,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+716,L'Antica Pizzeria da Michele,Los Angeles,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+717,Aurelio's Pizza,Homewood,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+718,Banchero Miami,Miami Beach,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+719,Art Of Pizza,Chicago,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+720,Ottava Via,Detroit,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+721,Pucci's Pizza,Miami,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+722,Frank's Pizzeria,Newark,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+723,Pizza Rustica,Miami Beach,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+724,Pucci's Pizza,Miami,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+725,Ottava Via,Detroit,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+726,Georgio's Pizza,East Lansing,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+727,Nino's AQ,Queens,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+728,Fratelli La Bufala,Miami Beach,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+729,Piazza Di Pizza,Moonachie,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+730,Philly Style Pizza,Philadelphia,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+731,Tony Novante's Pizza and Wing Boss,Union City,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+732,Pasta by Hudson,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+733,Enjay's Pizza,Philadelphia,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+734,Zio's Brick Oven Pizza,Philadelphia,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+735,MAMA'S TOO!,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+736,Cossetta Alimentari,Saint Paul,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+737,Football Pizza,Minneapolis,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+738,Casabianca Pizzeria,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+739,Palermo's 95th,Oak Lawn,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+740,Pizza House,Ann Arbor,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+741,Belleria Pizzeria,Youngstown,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+742,Imperial Pizza,Buffalo,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+743,Slice Downtown,Atlanta,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+744,The Original Goodfella's Brick Oven Pizza,Staten Island,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+745,Tony Boloney's,Hoboken,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+746,Benny Tudino's Pizzeria,Hoboken,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+747,SIM\'d2 PIZZA,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+748,Starbucks Reserve Roastery,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+749,Little Vincent's Pizza,Huntington,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+750,Melani Pizzeria,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+751,Giordano's Restaurant,Oak Bluffs,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+752,1000 Degrees Neapolitan Pizzeria,Boston,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+753,Bricco Ristorante Italiano,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+754,Nizza,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+755,Aperitivo Pizza Bar,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+756,La Trattoria,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+757,Garlic New York Pizza Bar,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+758,Posto,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+759,J's Pizza,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+760,Vinny\'92s Restaurant & Pizzeria,Naugatuck,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+761,Andiamo,Miami,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+762,Rose & Joe\'92s Italian Bakery,Astoria,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+763,Pizza Brain,Philadelphia,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+764,Frankie Feds,Freehold,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+765,Pizza Time Restaurant,Avenel,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+766,Brooklyn Boys Pizza & Pasta,Boca Raton,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+767,Vinnie\'92s Pizzeria & Ristorante,Boonton,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+768,Foggy Bakery & BBQ,Nantucket,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+769,British Beer Company,Hyannis,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+770,Pizza Barbone,Hyannis,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+771,Astro\'92s Pizza,Amagansett,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+772,Hard Knox Pizzeria,Knoxville,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+773,Pizza Brutta,Madison,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+774,Spinelli\'92s Pizzeria,Louisville,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+775,MEZZE Kosher Restaurant & Pizzeria Queens,Rego Park,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+776,Saverio\'92s Authentic Pizza Napoletana,Massapequa,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+777,Artistic Pizza,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+778,Cascarino\'92s Brick Oven Pizzeria & Ristorante,Whitestone,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+779,Krave It Sandwich Shop & Eatery,Bayside,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+780,Pizza 7,Saratoga Springs,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+781,Claudio Pizzeria,New York,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+782,East Side Pizza,Miami,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+783,Arigna Irish Pub & Coal Fire Kitchen,North Providence,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+784,Zio Casual Italian,Charlotte,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+785,Royal Pizza,San Antonio,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+786,Cuts & Slices,Manhattan,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+787,A1 Pizza,Lyndhurst,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+788,Jojo's Pizza,Little Falls Township,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+789,Pizza Lobo Logan Square,Chicago,United States,6.8,N/A,One Bite Pizza Rankings,Pizza\
+790,Medusa Stone Fired Kitchen,Asbury Park,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+791,Pasquale's Pizza & Pasta,Indianapolis,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+792,I Love Pizza,Miami Beach,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+793,Delicious Pizza,Los Angeles,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+794,Zuccarelli,Pompano Beach,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+795,Leo's Pizza,Miami,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+796,New York Pizza & Restaurant,Miami,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+797,New York Pizza & Restaurant,Miami,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+798,Trattoria Napoli,Union City,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+799,In Riva,Philadelphia,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+800,Gennaro's Pizza,Pittsburgh,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+801,Tre Sorelle,New York,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+802,John & Tony's,New York,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+803,Filippi's Pizza Grotto Pacific Beach,San Diego,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+804,Fino Wood Fired Pizza & Bar,Watertown,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+805,Village Pizzeria,Floral Park,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+806,Giovanni\'92s Pizzeria & Restaurant,Hoboken,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+807,Strong\'92s Brick Oven Pizzeria,Lawrenceburg,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+808,Villa Monte Restaurant,Staten Island,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+809,Franco & Vinny\'92s,Fort Lauderdale,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+810,Millie\'92s Old World Meatballs & Pizza,Morristown,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+811,Cittanuova,East Hampton,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+812,Crust,Cleveland,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+813,Pepperoni\'92s,East Hampton,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+814,Rosa's Pizza,Middle Village,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+815,Sal's Pizzeria,Brooklyn,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+816,Rinas Pizzeria & Cafe,Boston,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+817,Eataly Boston,Boston,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+818,La Mia Pizza,New York,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+819,Buchetta Brick Oven Pizza,New York,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+820,Primavera Pizza & Pasta,New York,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+821,Shakespeare\'92s Pizza - Downtown,Columbia,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+822,Via Trenta Pizzoteca,New York,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+823,PeppeBroni\'92s Pizza,Morgantown,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+824,Davenport\'92s Pizza Palace,Mountain Brook,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+825,Faccia Luna Pizzeria,State College,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+826,Federal Hill Pizza Providence,Providence,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+827,Beebe\'92s,Long Island City,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+828,Dragon By The Sea,Nantucket,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+829,La Pizza of Roseland,Roseland,United States,6.7,N/A,One Bite Pizza Rankings,Pizza\
+830,Johnny Mac House of Spirits,Asbury Park,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+831,Miami's Best Pizza,Coral Gables,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+832,Tonelli's,Lafayette Hill,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+833,Allegro Pizza and Grill,Philadelphia,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+834,Allegro Pizza and Grill,Philadelpha,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+835,Mario\'92s Pizzeria Massapequa,Massapequa,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+836,Broders Cucina Italiana,Minneapolis,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+837,Mike\'92s Pizza Palace,Naugatuck,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+838,Sazio,Delray Beach,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+839,Colasante's Ristorante & Pub,Morgantown,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+840,Pizza Joint,Augusta,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+841,Mama Rosa Pizza and Pasta,Rutherford,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+842,Napoli Pizza,Daytona Beach,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+843,Not Ray's Pizza,Brooklyn,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+844,Muzzarella Pizza,New York,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+845,Pizza Time,Columbia,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+846,Union St Pizza,Brooklyn,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+847,Galleria Umberto,Boston,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+848,Chilmark General Store,Chilmark,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+849,Nick's Pizza,New York,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+850,Two Boots West Village,New York,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+851,Pizza Rollio,New York,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+852,Cassiano's Pizza,New York,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+853,Pizza By Cert\'e9,New York,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+854,Sciortino\'92s Pizza Pasta & M,Perth Amboy,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+855,Dewey\'92s Pizza,Saint Louis,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+856,Ribalta Mo\'92,New York,United States,6.6,N/A,One Bite Pizza Rankings,Pizza\
+857,Museum of Pizza,Brooklyn,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+858,Brenz Pizza Co.,Knoxville,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+859,Rivington Pizza,New York,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+860,Square Pizza,New York,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+861,Hope Pizza Restaurant,Stamford,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+862,Pasquale\'92s Pizza,Boonton,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+863,Bond 45,New York,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+864,Casa D'amici,Morgantown,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+865,Pazzo's Pizza Pub,Lexington,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+866,Lorenzo & Sons Pizza,Philadelphia,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+867,Pies on Wheels,Saratoga Springs,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+868,Oath Pizza - East 67th Street,New York,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+869,Boomershine Pizzeria,Bluff City,United States,6.5,N/A,One Bite Pizza Rankings,Pizza\
+870,Siena Pizza & Cannoli,New York,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+871,Eric Gordon's Greek's Pizzeria,Bloomington,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+872,Nino's Restaurant & Pizzeria,Lodi,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+873,Benny Fierro's,Pittsburgh,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+874,Pizza Al's,Morgantown,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+875,Bearno's By the Bridge,Louisville,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+876,The O Patio & Pub,Columbus,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+877,Bruno Bros Pizza,Austintown,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+878,Hawthorne's NY Pizza & Bar,Charlotte,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+879,Georgio Pizzeria,New York,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+880,Kest\'e9 Pizza & Vino,New York,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+881,Bill's Pizzeria Kitchen + Grille,Hopkinton,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+882,Regina Pizzeria,Mashantucket,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+883,Rocky\'92s Pizza Bar and Restaurant,New York,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+884,Va Bene,New York,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+885,Claudio Pizzeria,New York,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+886,Don Antonio,New York,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+887,Belmora Pizza & Restaurant,New York,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+888,Siena Pizza,New York,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+889,Paisans Pizzeria,Cicero,United States,6.4,N/A,One Bite Pizza Rankings,Pizza\
+890,Old Fashioned Pizza,New York,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+891,Casola\'92s Pizzeria & Sub Shop,Miami,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+892,Spris,Miami Beach,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+893,Margari Pizza,New York,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+894,Palio Pizzeria,Hyannis,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+895,Torino Restaurant and Bar,Hyannis,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+896,Dulono's Pizza,Minneapolis,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+897,Frank From Philly & Andrea Pizza,Minneapolis,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+898,Sottosuolo NYC,New York,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+899,Il Forno Pizza,New York,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+900,Little Italy Pizza,New York,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+901,Francesca's Restaurant & Pizzeria,Hampton Bays,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+902,Sutton Pizzeria,New York,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+903,B Side Pizza & Wine Bar,New York,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+904,Tavola,New York,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+905,Kiss My Slice,New York,United States,6.3,N/A,One Bite Pizza Rankings,Pizza\
+906,Upper Crust Pizza,Celebration,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+907,Green Lantern Pizza,Madison Heights,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+908,Axis Pizza,Philadelphia,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+909,Hello Pizza,Edina,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+910,Rosella\'92s Pizzeria,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+911,Imo\'92s Pizza,Saint Louis,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+912,Casa Barilla,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+913,Pizza Di Roma,Madison,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+914,Fortina - Brooklyn,Brooklyn,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+915,B & W Deli & Pizzeria,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+916,Gino's East - Magnificent Mile,Chicago,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+917,Krispy Pizza,Jersey City,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+918,Rossetti's Pizza,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+919,Black Square Pizza,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+920,Five50 Pizza Bar,Las Vegas,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+921,Alphonso's Pizzeria & Trattoria,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+922,Da Gennaro,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+923,Lombardi's Pizza,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+924,Moto Pizza,Sandwich,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+925,Baldie's Pizza & Subs,Lakeville,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+926,Full Moon Pizzeria,Bronx,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+927,Broadway Pizza & Restaurant,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+928,Farinella Bakery Pizza,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+929,Iggy's Pizzeria,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+930,Stella's Pizza,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+931,Famous Original Ray's Pizza,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+932,La Vera Pizzeria & Restaurant,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+933,Giuseppe's Pizza,New York,United States,6.2,N/A,One Bite Pizza Rankings,Pizza\
+934,Panera Bread,New York,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+935,Mother Bear's Pizza Campus,Bloomington,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+936,Panera Bread,New York,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+937,Explorers Den,Philadelphia,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+938,LaScala's Pronto,Philadelphia,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+939,Aiello's Pizza,Pittsburgh,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+940,Pizza Bar,Miami Beach,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+941,Big Al\'92s Chicago Style Pizza,New York,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+942,Whole Foods Market,New York,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+943,Ian\'92s Pizza by the Slice,Madison,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+944,Sausages Pizza & Pastabilities,Montauk,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+945,Little Italy Pizza,New York,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+946,Lenny\'92s Pizza,Miami Beach,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+947,Piola - Miami Beach,Miami Beach,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+948,B & B Pizza,Hyannis,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+949,Cheesy Pizza,New York,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+950,Percy's Pizza,New York,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+951,PieTana,Lexington,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+952,Mellow Mushroom,Alpharetta,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+953,Marino's Pizza,Saratoga Springs,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+954,Solo Pizza,New York,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+955,Isola,Edgartown,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+956,PQR,New York,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+957,Radio City Pizza,New York,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+958,Deli On Madison,New York,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+959,Enoteca Roma,Chicago,United States,6.1,N/A,One Bite Pizza Rankings,Pizza\
+960,Chuck E. Cheese's,West Melbourne,United States,6.0,N/A,One Bite Pizza Rankings,Pizza\
+961,Benvenuti Pizzeria,New York,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+962,Noble Roman's Craft Pizza & Pub,Westfield,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+963,Piu Bello Pizzeria Restaurant,Atlanta,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+964,Pranzo Pizza & Pasta,New York,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+965,Underground Pizza,New York,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+966,Evel Pie,Las Vegas,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+967,Little Gio's Pizza,New York,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+968,Stella Barra Pizzeria & Wine Bar,Santa Monica,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+969,First Class Pizza To Go,Lincoln,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+970,NYC Pizza,New York,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+971,Healthy Choice Gourmet Deli & Pizza,New York,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+972,Faraci Pizza,Ballwin,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+973,La Manda\'92s Restaurant,White Plains,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+974,Justin\'92s Pizza,Bronx,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+975,Antonio\'92s Pizza,Providence,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+976,T\'92s Pizza Kitchen,Stamford,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+977,Craigville Pizza & Mexican,Centerville,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+978,Muse Pizza,Nantucket,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+979,Joey Pepperoni's Pizza,New York,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+980,Chelsea Pizza 23,New York,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+981,Anthony's Coal Fired Pizza & Wings,North Miami,United States,5.9,N/A,One Bite Pizza Rankings,Pizza\
+982,Brothers Pizza,Charles Town,United States,5.8,N/A,One Bite Pizza Rankings,Pizza\
+983,Pi Pizzeria - Delmar Loop,Saint Louis,United States,5.8,N/A,One Bite Pizza Rankings,Pizza\
+984,Jack\'92s Pizza Hyannis,Hyannis,United States,5.8,N/A,One Bite Pizza Rankings,Pizza\
+985,Springs Pizza,East Hampton,United States,5.8,N/A,One Bite Pizza Rankings,Pizza\
+986,Mediterraneo Restaurant,New York,United States,5.8,N/A,One Bite Pizza Rankings,Pizza\
+987,The Original Impellizeri's Pizza,Louisville,United States,5.8,N/A,One Bite Pizza Rankings,Pizza\
+988,Home Slice Pizza,Austin,United States,5.8,N/A,One Bite Pizza Rankings,Pizza\
+989,Luna Ristorante,New York,United States,5.8,N/A,One Bite Pizza Rankings,Pizza\
+990,Da Nico Ristorante,New York,United States,5.8,N/A,One Bite Pizza Rankings,Pizza\
+991,Pushcart Pizzeria,Boston,United States,5.8,N/A,One Bite Pizza Rankings,Pizza\
+992,Bella Vita Pizzeria,New York,United States,5.8,N/A,One Bite Pizza Rankings,Pizza\
+993,Paisan\'92s,Madison,United States,5.7,N/A,One Bite Pizza Rankings,Pizza\
+994,Angelo Bellini,New York,United States,5.7,N/A,One Bite Pizza Rankings,Pizza\
+995,Famous Amadeus Pizza,New York,United States,5.7,N/A,One Bite Pizza Rankings,Pizza\
+996,Stella 34 Trattoria,New York,United States,5.6,N/A,One Bite Pizza Rankings,Pizza\
+997,Naked City Pizza Shop,Las Vegas,United States,5.6,N/A,One Bite Pizza Rankings,Pizza\
+998,Angelo's Pizzeria,Princeton,United States,5.5,N/A,One Bite Pizza Rankings,Pizza\
+999,Pizzarita's,San Antonio,United States,5.5,N/A,One Bite Pizza Rankings,Pizza\
+1000,Soho 99 Cents Cheese Pizza,New York,United States,5.4,N/A,One Bite Pizza Rankings,Pizza\
+1001,LA Traviata Pizzeria,New York,United States,5.4,N/A,One Bite Pizza Rankings,Pizza\
+1002,New York Pizza Depot,Ann Arbor,United States,5.4,N/A,One Bite Pizza Rankings,Pizza\
+1003,Adriatico's New York Style Pizza,Columbus,United States,5.4,N/A,One Bite Pizza Rankings,Pizza\
+1004,Upper Crust Pizzeria,Beverly Hills,United States,5.4,N/A,One Bite Pizza Rankings,Pizza\
+1005,Sunnyside Pizza,Sunnyside,United States,5.4,N/A,One Bite Pizza Rankings,Pizza\
+1006,Flavors of Italy Bistro,New York,United States,5.4,N/A,One Bite Pizza Rankings,Pizza\
+1007,Manhattan Pizzeria,Manhattan Beach,United States,5.4,N/A,One Bite Pizza Rankings,Pizza\
+1008,42nd Street Pizza,New York,United States,5.4,N/A,One Bite Pizza Rankings,Pizza\
+1009,Ben's Pizzeria,New York,United States,5.4,N/A,One Bite Pizza Rankings,Pizza\
+1010,Fat Boy's Pizza,Metairie,United States,5.4,N/A,One Bite Pizza Rankings,Pizza\
+1011,Primanti Bros,Fort Lauderdale,United States,5.3,N/A,One Bite Pizza Rankings,Pizza\
+1012,Las Vegas Motor Speedway,Las Vegas,United States,5.3,N/A,One Bite Pizza Rankings,Pizza\
+1013,Pizza Luce,Minneapolis,United States,5.3,N/A,One Bite Pizza Rankings,Pizza\
+1014,Mangia - Flatiron,New York,United States,5.2,N/A,One Bite Pizza Rankings,Pizza\
+1015,Casey's General Store,Coralville,United States,5.2,N/A,One Bite Pizza Rankings,Pizza\
+1016,Felcaro Pizzeria,Boston,United States,5.2,N/A,One Bite Pizza Rankings,Pizza\
+1017,Olio e Pi\'fa,New York,United States,5.2,N/A,One Bite Pizza Rankings,Pizza\
+1018,D Napoli Pizza,New York,United States,5.2,N/A,One Bite Pizza Rankings,Pizza\
+1019,Edison\'92s Pizza Kitchen,Cleveland,United States,5.1,N/A,One Bite Pizza Rankings,Pizza\
+1020,Bazbeaux Pizza,Indianapolis,United States,5.1,N/A,One Bite Pizza Rankings,Pizza\
+1021,Biggie's Pizza,Jacksonville Beach,United States,5.1,N/A,One Bite Pizza Rankings,Pizza\
+1022,Rosario's Pizza,New York,United States,5.1,N/A,One Bite Pizza Rankings,Pizza\
+1023,Naples 45 Ristorante E Pizzeria,New York,United States,5.1,N/A,One Bite Pizza Rankings,Pizza\
+1024,Uncle Paul's Pizza,New York,United States,5.1,N/A,One Bite Pizza Rankings,Pizza\
+1025,Snacks,Las Vegas,United States,5.0,N/A,One Bite Pizza Rankings,Pizza\
+1026,Patzeria Perfect Pizza,New York,United States,5.0,N/A,One Bite Pizza Rankings,Pizza\
+1027,$1 Pizza,New York,United States,4.9,N/A,One Bite Pizza Rankings,Pizza\
+1028,Tony + Benny's,LaGuardia Airport,United States,4.9,N/A,One Bite Pizza Rankings,Pizza\
+1029,99 Cent Fresh Pizza,New York,United States,4.9,N/A,One Bite Pizza Rankings,Pizza\
+1030,Gaslight Pizzeria,New York,United States,4.9,N/A,One Bite Pizza Rankings,Pizza\
+1031,Previti Pizza,New York,United States,4.9,N/A,One Bite Pizza Rankings,Pizza\
+1032,Time Square Dollar Pizza,New York,United States,4.9,N/A,One Bite Pizza Rankings,Pizza\
+1033,Mama Mia 44 SW,New York,United States,4.9,N/A,One Bite Pizza Rankings,Pizza\
+1034,Tony\'92s Baltimore Grill,Atlantic City,United States,4.9,N/A,One Bite Pizza Rankings,Pizza\
+1035,King of Fire Pizza,Charlotte,United States,4.9,N/A,One Bite Pizza Rankings,Pizza\
+1036,Planet Pizza,Orlando,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1037,Three Brothers From Italy,Seaside Heights,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1038,Adrienne's Pizzabar,New York,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1039,W4 Pizza,New York,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1040,Trenta Tre Pizzeria,New York,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1041,Salt & Pepper,New York,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1042,Friendly Gourmet Pizza,New York,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1043,Big Lou's Pizza,San Antonio,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1044,Yankee Pizza,New York,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1045,La Rossa,New York,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1046,Pazza Notte,New York,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1047,Pasta Lovers,New York,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1048,The Slice Hut at Neon Gardens,Chicago,United States,4.8,N/A,One Bite Pizza Rankings,Pizza\
+1049,Little Caesars Pizza,Princeton,United States,4.6,N/A,One Bite Pizza Rankings,Pizza\
+1050,Don Giovanni Ristorante,New York,United States,4.6,N/A,One Bite Pizza Rankings,Pizza\
+1051,My Pie Pizzeria Romana,New York,United States,4.3,N/A,One Bite Pizza Rankings,Pizza\
+1052,Mom\'92s New York Pizza,Miami Beach,United States,4.3,N/A,One Bite Pizza Rankings,Pizza\
+1053,Pizza De Miami,Miami Beach,United States,4.2,N/A,One Bite Pizza Rankings,Pizza\
+1054,Anthony's Pizza VI,Charles Town,United States,4.2,N/A,One Bite Pizza Rankings,Pizza\
+1055,Little Italy Pizza,New York,United States,4.2,N/A,One Bite Pizza Rankings,Pizza\
+1056,Picasso Pizza,New York,United States,4.2,N/A,One Bite Pizza Rankings,Pizza\
+1057,Pomodoro Pizza,New York,United States,4.2,N/A,One Bite Pizza Rankings,Pizza\
+1058,Pizza Chef,Whitestone,United States,4.2,N/A,One Bite Pizza Rankings,Pizza\
+1059,Meadowlands Racing and Entertainment,East Rutherford,United States,4.2,N/A,One Bite Pizza Rankings,Pizza\
+1060,Pomodoro Ristorante & Pizzeria,New York,United States,4.2,N/A,One Bite Pizza Rankings,Pizza\
+1061,Big Nick's Burger & Pizza Joint Too,New York,United States,4.2,N/A,One Bite Pizza Rankings,Pizza\
+1062,Pizza Italia,New York,United States,4.2,N/A,One Bite Pizza Rankings,Pizza\
+1063,Allora,Mandarina,Mexico,4.1,N/A,One Bite Pizza Rankings,Pizza\
+1064,Ascot Racecourse,Bracknell Forest,United Kingdom,4.1,N/A,One Bite Pizza Rankings,Pizza\
+1065,Fat Lorenzo's,Minneapolis,United States,4.1,N/A,One Bite Pizza Rankings,Pizza\
+1066,Napolese Pizzeria,Indianapolis,United States,4.1,N/A,One Bite Pizza Rankings,Pizza\
+1067,Wild,New York,United States,4.1,N/A,One Bite Pizza Rankings,Pizza\
+1068,Carve,New York,United States,4.1,N/A,One Bite Pizza Rankings,Pizza\
+1069,A Slice of New York,New York,United States,4.1,N/A,One Bite Pizza Rankings,Pizza\
+1070,Pizza Park,New York,United States,4.0,N/A,One Bite Pizza Rankings,Pizza\
+1071,Libretto's Pizzeria,New York,United States,3.9,N/A,One Bite Pizza Rankings,Pizza\
+1072,Mata\'92s Greek Pizza & Griders,Anniston,United States,3.9,N/A,One Bite Pizza Rankings,Pizza\
+1073,Slice Of Edgartown,Edgartown,United States,3.8,N/A,One Bite Pizza Rankings,Pizza\
+1074,Pizza Hut,North Bergen,United States,3.8,N/A,One Bite Pizza Rankings,Pizza\
+1075,Talladega Superspeedway,Talladega,United States,3.8,N/A,One Bite Pizza Rankings,Pizza\
+1076,Shangri-La Kitchen,Nantucket,United States,3.8,N/A,One Bite Pizza Rankings,Pizza\
+1077,Poppy Pizza,Mashpee,United States,3.8,N/A,One Bite Pizza Rankings,Pizza\
+1078,Mariella Pizza,New York,United States,3.7,N/A,One Bite Pizza Rankings,Pizza\
+1079,Daniela Trattoria,New York,United States,3.6,N/A,One Bite Pizza Rankings,Pizza\
+1080,Cheetah Pizza,Edina,United States,3.4,N/A,One Bite Pizza Rankings,Pizza\
+1081,Justino's Pizzeria,New York,United States,3.4,N/A,One Bite Pizza Rankings,Pizza\
+1082,5 Boroughs Pizza,New York,United States,3.4,N/A,One Bite Pizza Rankings,Pizza\
+1083,Secret Pizza,Las Vegas,United States,3.4,N/A,One Bite Pizza Rankings,Pizza\
+1084,The Grotto Pizzeria & Ristorante,New York,United States,3.3,N/A,One Bite Pizza Rankings,Pizza\
+1085,Stromboli Pizza,New York,United States,3.2,N/A,One Bite Pizza Rankings,Pizza\
+1086,Sbarro,New York,United States,3.2,N/A,One Bite Pizza Rankings,Pizza\
+1087,La Gusto Pizza,New York,United States,3.2,N/A,One Bite Pizza Rankings,Pizza\
+1088,Rico's Pizza,Gary,United States,3.2,N/A,One Bite Pizza Rankings,Pizza\
+1089,Bonanno's New York Pizzeria,Las Vegas,United States,3.2,N/A,One Bite Pizza Rankings,Pizza\
+1090,Bonanno's New York Pizzeria,Las Vegas,United States,3.2,N/A,One Bite Pizza Rankings,Pizza\
+1091,Cottage Inn Pizza - Ann Arbor,Ann Arbor,United States,3.1,N/A,One Bite Pizza Rankings,Pizza\
+1092,Z Deli Pizzeria,New York,United States,3.1,N/A,One Bite Pizza Rankings,Pizza\
+1093,McDonald's,Orlando,United States,2.9,N/A,One Bite Pizza Rankings,Pizza\
+1094,Hank's Pizza,New York,United States,2.9,N/A,One Bite Pizza Rankings,Pizza\
+1095,Rocky's Number II,New York,United States,2.8,N/A,One Bite Pizza Rankings,Pizza\
+1096,Canyon Pizza,State College,United States,2.8,N/A,One Bite Pizza Rankings,Pizza\
+1097,Cheska\'92s,New York,United States,2.8,N/A,One Bite Pizza Rankings,Pizza\
+1098,Wawa,Glen Burnie,United States,2.8,N/A,One Bite Pizza Rankings,Pizza\
+1099,Intrepid Summer Movie Series,New York,United States,2.7,N/A,One Bite Pizza Rankings,Pizza\
+1100,Da Vinci Pizza,New York,United States,2.5,N/A,One Bite Pizza Rankings,Pizza\
+1101,King's Pizza,Clearwater,United States,2.4,N/A,One Bite Pizza Rankings,Pizza\
+1102,Stanton Pizza,New York,United States,2.4,N/A,One Bite Pizza Rankings,Pizza\
+1103,Fenway Park,Boston,United States,2.4,N/A,One Bite Pizza Rankings,Pizza\
+1104,Square Pizza & Chicken,New York,United States,2.2,N/A,One Bite Pizza Rankings,Pizza\
+1105,Steve's Pizza,New York,United States,2.2,N/A,One Bite Pizza Rankings,Pizza\
+1106,Pizza Al Fresco,Palm Beach,United States,2.2,N/A,One Bite Pizza Rankings,Pizza\
+1107,Ciro\'92s Pizza Pomodoro,London,United Kingdom,2.1,N/A,One Bite Pizza Rankings,Pizza\
+1108,IPizzaNY,New York,United States,2.1,N/A,One Bite Pizza Rankings,Pizza\
+1109,Costco,Clifton,United States,1.9,N/A,One Bite Pizza Rankings,Pizza\
+1110,Jekyll & Hyde,New York,United States,1.9,N/A,One Bite Pizza Rankings,Pizza\
+1111,Hell\'92s Kitchen Pizza,New York,United States,1.9,N/A,One Bite Pizza Rankings,Pizza\
+1112,Cafe Viva,New York,United States,1.8,N/A,One Bite Pizza Rankings,Pizza\
+1113,Canal Pizza,New York,United States,1.7,N/A,One Bite Pizza Rankings,Pizza\
+1114,Highline Pizza,New York,United States,1.7,N/A,One Bite Pizza Rankings,Pizza\
+1115,Encore Beach Club,Las Vegas,United States,1.4,N/A,One Bite Pizza Rankings,Pizza\
+1116,Rocky's Pizza 14th St,New York,United States,1.4,N/A,One Bite Pizza Rankings,Pizza\
+1117,Lincoln Financial Field,Philadelphia,United States,1.2,N/A,One Bite Pizza Rankings,Pizza\
+1118,Milk Bar East Village,New York,United States,1.2,N/A,One Bite Pizza Rankings,Pizza\
+1119,Rubby's Pizzeria,New York,United States,1.2,N/A,One Bite Pizza Rankings,Pizza\
+1120,Buca di Beppo Italian Restaurant,New York,United States,1.2,N/A,One Bite Pizza Rankings,Pizza\
+1121,Backroom Pizza,Ann Arbor,United States,1.2,N/A,One Bite Pizza Rankings,Pizza\
+1122,Catfish Biff's Pizza & Subs,Columbus,United States,1.2,N/A,One Bite Pizza Rankings,Pizza\
+1123,Fox's Pizza Den,Charleston,United States,1.2,N/A,One Bite Pizza Rankings,Pizza\
+1124,Georgio's Gourmet Pizza,Chicago,United States,1.1,N/A,One Bite Pizza Rankings,Pizza\
+1125,Pizza Gaga,New York,United States,0.9,N/A,One Bite Pizza Rankings,Pizza\
+1126,The Post,Louisville,United States,0.2,N/A,One Bite Pizza Rankings,Pizza\
+1127,Churchill Downs,Louisville,United States,0.2,N/A,One Bite Pizza Rankings,Pizza\
+1128,F & M Slice Pizza,New York,United States,0.2,N/A,One Bite Pizza Rankings,Pizza\
+1129,Cumberland Farms,Nantucket,United States,0.1,N/A,One Bite Pizza Rankings,Pizza\
+1130,Open Market,New York,United States,0.1,N/A,One Bite Pizza Rankings,Pizza\
+1131,Amtrak,New York,United States,0.08,N/A,One Bite Pizza Rankings,Pizza\
+1132,7-Eleven,New York,United States,0.02,N/A,One Bite Pizza Rankings,Pizza\
+1133,BD Best Pizza,New York,United States,0.01,N/A,One Bite Pizza Rankings,Pizza\
+1134,Dante\'92s Inferno,Cleveland,United States,0.0,N/A,One Bite Pizza Rankings,Pizza\
+1135,Blaze Fast Fire\'92d Pizza,Los Angeles,United States,0.0,N/A,One Bite Pizza Rankings,Pizza\
+1136,Caf\'e9 Muse,New York,United States,0.0,N/A,One Bite Pizza Rankings,Pizza\
+1137,Rich\'92s Grilled Pizza,Augusta,United States,0.0,N/A,One Bite Pizza Rankings,Pizza\
+1138,Industry Kitchen,New York,United States,0.0,N/A,One Bite Pizza Rankings,Pizza\
+1139,Goodfellas Pizzeria,Lexington,United States,0.0,N/A,One Bite Pizza Rankings,Pizza}

@@ -1,0 +1,108 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ID,Name,City,Country,Award,Source List,Cuisine\
+1,Jay\'92s BBQ Shack,Abilene,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+2,Dayne\'92s Craft Barbecue,Aledo,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+3,InterStellar BBQ,Austin,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+4,LeRoy and Lewis Barbecue,Austin,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+5,Briscuits,Austin,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+6,Franklin Barbecue,Austin,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+7,KG BBQ,Austin,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+8,La Barbecue,Austin,United States,Michelin star,Texas Monthly BBQ Joints 2025,BBQ\
+9,Mum Foods Smokehouse and Delicatessen,Austin,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+10,Stiles Switch BBQ,Austin,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+11,1701 Barbecue,Beaumont,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+12,Miller\'92s Smokehouse,Belton,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+13,LJ\'92s BBQ,Brenham,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+14,Mimsy\'92s Craft Barbecue,Crockett,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+15,Slow Bone BBQ,Dallas,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+16,Smokey Joe\'92s BBQ,Dallas,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+17,North Texas Smoke BBQ,Decatur,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+18,Cattleack Barbeque,Farmers Branch,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+19,Smoak Town BBQ,Fate,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+20,Goldee\'92s Barbecue,Fort Worth,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+21,Sabar BBQ,Fort Worth,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+22,Panther City BBQ,Fort Worth,United States,Michelin Guide,Texas Monthly BBQ Joints 2025,BBQ\
+23,Rossler\'92s Blue Cord Barbecue,Harker Heights,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+24,Truth Barbeque,Houston,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+25,Brisket & Rice,Houston,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+26,Pinkerton\'92s Barbecue,Houston,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+27,Snow\'92s BBQ,Lexington,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+28,Barbs B Q,Lockhart,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+29,Sunbird Barbecue,Longview,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+30,B4 Barbeque,Mabank,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+31,The Half Acre,Midland,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+32,Bar-A-BBQ,Montgomery,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+33,Jennings & Co. BBQ,Montgomery,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+34,Brendyn\'92s BBQ,Nacogdoches,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+35,Rejino Barbeque,Olton,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+36,Yearby\'92s Barbecue & Waterice,Pilot Point,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+37,LaVaca BBQ,Port Lavaca,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+38,Redbird BBQ,Port Neches,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+39,2M Smokehouse,San Antonio,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+40,Reese Bros Barbecue,San Antonio,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+41,GW\'92s BBQ,San Juan,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+42,Burnt Bean Co.,Seguin,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+43,Butter\'92s BBQ,Sinton,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+44,CorkScrew BBQ,Spring,United States,Michelin star,Texas Monthly BBQ Joints 2025,BBQ\
+45,Rosemeyer Bar-B-Q,Spring,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+46,Slaughter\'92s BBQ,Sulphur Springs,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+47,Louie Mueller Barbecue,Taylor,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+48,Teddy\'92s Barbecue,Weslaco,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+49,Evie Mae\'92s Pit Barbeque,Wolfforth,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+50,Helberg Barbecue,Woodway,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+51,Hurtado Barbecue,Arlington,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+52,Smoke \'92N Ash BBQ,Arlington,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+53,Distant Relatives,Austin,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+54,Micklethwait Barbecue,Austin,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+55,Rollin Smoke BBQ,Austin,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+56,Terry Black\'92s Barbecue,Austin,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+57,Space City B-B-Q,Baytown,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+58,Blood Bros. BBQ,Bellaire,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+59,Schoepf\'92s BBQ,Belton,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+60,Vera\'92s Backyard Bar-B-Que,Brownsville,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+61,Louie\'92s Craft BBQ,Buda,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+62,Nik\'92s Not Normal,Canyon Lake,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+63,1775 Texas Pit BBQ,College Station,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+64,Weaver\'92s BBQ,Dayton,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+65,Henry\'92s Barbecue,Del Valle,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+66,Choche\'92s BBQ & Bar,Eagle Pass,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+67,Desert Oak Barbecue,El Paso,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+68,Hallelujah! BBQ,El Paso,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+69,Brix Barbecue,Fort Worth,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+70,Smoke-A-Holics BBQ,Fort Worth,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+71,Eaker Barbecue,Fredericksburg,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+72,East TX Rust BBQ,Gilmer,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+73,Baker Boys BBQ,Gonzales,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+74,Zavala\'92s Barbecue,Grand Prairie,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+75,Feges BBQ,Houston,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+76,Gatlin\'92s BBQ,Houston,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+77,J-Bar-M Barbecue,Houston,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+78,Roegels Barbecue Co,Houston,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+79,BBQ Fiends,Hutto,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+80,JW\'92s Barbecue,Jacksonville,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+81,Brett\'92s BBQ Shop,Katy,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+82,Kreuz Market,Lockhart,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+83,Jim\'e9nez y Friends,Lubbock,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+84,Brick Vault Brewery & Barbecue,Marathon,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+85,Hutchins BBQ,McKinney,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+86,El Sancho Tex Mex BBQ,Mission,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+87,Patriotic Pig Smokehouse,North Richland Hills,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+88,Brantley Creek Barbecue,Odessa,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+89,Killen\'92s Barbecue,Pearland,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+90,Brotherton\'92s Black Iron Barbecue,Pflugerville,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+91,Harlem Road Texas BBQ,Richmond,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+92,Smoke Sessions Barbecue,Royse City,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+93,Black Board Bar B Q,Sisterdale,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+94,Pitforks & Smokerings BBQ,Slaton,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+95,Pustka Family Barbeque,Temple,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+96,Hill City Chop House,Tolar,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+97,Tejas Chocolate + Barbecue,Tomball,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+98,Stanley\'92s Famous Pit Barbecue,Tyler,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+99,Kelly\'92s Hill Country BBQ,Wimberley,United States,,Texas Monthly BBQ Joints 2025,BBQ\
+100,Mout\'92s Barbeque,Winnie,United States,,Texas Monthly BBQ Joints 2025,BBQ}

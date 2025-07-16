@@ -1,0 +1,502 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ID,Name,City,Country,Award,Source List,Years Featured,Cuisine\
+1,Altius,Pittsburgh,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2020, 2024, 2025",Contemporary American\
+2,Ariana,Bend,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary European\
+3,Arrowleaf Bistro,Winthrop,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary American\
+4,Babette's Cafe,Atlanta,USA,,OpenTable's Most Romantic Restaurants,2018,French\
+5,BakerStreet,Fort Wayne,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Contemporary American\
+6,Bartolotta's Lake Park Bistro,Milwaukee,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",French\
+7,Baxter's Lakeside Grille,Lake Ozark,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",American\
+8,Benvenuti's,Norman,USA,,OpenTable's Most Romantic Restaurants,2018,Italian\
+9,The Bistro at Gervasi Vineyard,Canton,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2024",Italian\
+10,Bistro L'Hermitage,Woodbridge,VA,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2024, 2025",French\
+11,Bistro San Martin,Arlington,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary American\
+12,Black Cat,Boulder,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Contemporary American\
+13,Bob's Steak & Chop House,Various Locations,USA,,OpenTable's Most Romantic Restaurants,2018,Steakhouse\
+14,Bolete Restaurant,Bethlehem,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary American\
+15,Bookbinder's Seafood and Steakhouse,Richmond,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019, 2022",Steakhouse\
+16,Bouchard Restaurant and Inn,Newport,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary French\
+17,Caf\'e9 Monarch,Scottsdale,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2020, 2022, 2023, 2024, 2025",Contemporary American\
+18,Cafe Provence,Prairie Village,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2020, 2022, 2024",French American\
+19,Caprice Bistro,Wilmington,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",French\
+20,Carlo & Johnny,Cincinnati,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2020, 2022, 2023, 2024, 2025",Steakhouse\
+21,Chandlers Steakhouse,Boise,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2022, 2024, 2025",Steakhouse\
+22,Charleston,Baltimore,USA,,OpenTable's Most Romantic Restaurants,2018,American\
+23,Charleston Grill,Charleston,USA,,OpenTable's Most Romantic Restaurants,2018,American\
+24,Chez Francois - Vermilion,Vermilion,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary French\
+25,Christopher's World Grille,Bryan,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Steakhouse\
+26,Circa 1886,Charleston,USA,,OpenTable's Most Romantic Restaurants,2018,Southern\
+27,Claire's at the Depot,Warrenton,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Contemporary American\
+28,Collage Restaurant,St. Augustine,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2020, 2022, 2024, 2025",Global, International\
+29,Connors Steak & Seafood - Huntsville,Huntsville,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019, 2023",Steakhouse\
+30,Donatello,Tampa,USA,,OpenTable's Most Romantic Restaurants,2018,Italian\
+31,El Gaucho - Tacoma,Tacoma,USA,,OpenTable's Most Romantic Restaurants,2018,Steak\
+32,Enzo's on the Lake,Longwood,USA,,OpenTable's Most Romantic Restaurants,2018,Italian\
+33,Erling Jensen The Restaurant,Memphis,USA,,OpenTable's Most Romantic Restaurants,2018,Continental\
+34,Erminia Ristorante,New York,USA,,OpenTable's Most Romantic Restaurants,2018,Italian\
+35,The Fig Tree Restaurant,Charlotte,USA,,OpenTable's Most Romantic Restaurants,2018,Continental\
+36,Flight Restaurant & Wine Bar - Memphis,Memphis,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2020, 2022, 2024, 2025",American\
+37,Folk's Folly Prime Steak House,Memphis,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Steakhouse\
+38,Four Winds Steakhouse,Wills Point,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Steakhouse\
+39,Franklinville Inn,Franklinville,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2024, 2025",Steak\
+40,Frog Hollow Tavern,Augusta,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary American\
+41,The Gamekeeper,Boone,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",American\
+42,Geronimo,Santa Fe,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2020, 2022, 2023, 2024, 2025",Fusion / Eclectic\
+43,Gracie's,Providence,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Contemporary American\
+44,The Grill - The Ritz-Carlton, Naples,Naples,USA,,OpenTable's Most Romantic Restaurants,2018,Steakhouse\
+45,Hanover Street Chophouse,Manchester,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Steak\
+46,Harvest Beat,Seattle,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Vegan\
+47,Hugo's Cellar - Four Queens,Las Vegas,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2024",Continental\
+48,The Inn at Little Washington,Washington,USA,,OpenTable's Most Romantic Restaurants,2018,American\
+49,The Ivy Inn Restaurant,Charlottesville,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2022, 2024, 2025",Contemporary American\
+50,Jeff Ruby's Steakhouse - Louisville,Louisville,USA,,OpenTable's Most Romantic Restaurants,"2018, 2022",Steak\
+51,Katherine's Steakhouse,Mesquite,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Steakhouse\
+52,L'Auberge Chez Francois,Great Falls,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2020, 2022, 2024, 2025",French\
+53,La Fable,Rehoboth Beach,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",French\
+54,Latitudes on Sunset Key,Key West,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2023, 2024, 2025",Contemporary American\
+55,Le Vallauris,Palm Springs,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2024",French\
+56,Le Yaca,Williamsburg,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2024, 2025",French\
+57,Lemaire at The Jefferson Hotel,Richmond,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2022, 2024",Contemporary American\
+58,Lewnes' SteakHouse,Annapolis,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019, 2020",Steakhouse\
+59,Mahogany Prime,Various Locations,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Steak\
+60,The Melting Pot,Various Locations,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Fondue\
+61,Mizuna,Denver,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Contemporary French\
+62,Mucca Osteria,Portland,USA,,OpenTable's Most Romantic Restaurants,2018,Italian\
+63,Nineteen61,Lakeland,USA,,OpenTable's Most Romantic Restaurants,2018,Latin / Spanish\
+64,Nocturne,Denver,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary American\
+65,The Ocean House Restaurant - Cape Cod,Dennis Port,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary American\
+66,Orchids at Palm Court,Cincinnati,USA,,OpenTable's Most Romantic Restaurants,"2018",Contemporary American\
+67,Over The Moon Cafe,Tacoma,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2024",American\
+68,Oyster Loft,Pismo Beach,USA,,OpenTable's Most Romantic Restaurants,2018,Seafood\
+69,Paseo Grill,Oklahoma City,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",American\
+70,Pellana,Peabody,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Steakhouse\
+71,Peninsula Grill,Charleston,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2020, 2024",American\
+72,Perry's Steakhouse & Grille - Birmingham,Birmingham,USA,,OpenTable's Most Romantic Restaurants,2018,Steakhouse\
+73,Peter Shields Inn,Cape May,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019, 2020",American\
+74,Pier W,Cleveland,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2022, 2023, 2024, 2025",Contemporary American\
+75,The Precinct,Cincinnati,USA,,OpenTable's Most Romantic Restaurants,"2018, 2022",Steak\
+76,The Prime Rib - Baltimore (The Original),Baltimore,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",American\
+77,Red Prime Steak,Oklahoma City,USA,,OpenTable's Most Romantic Restaurants,2018,Steakhouse\
+78,The Refectory Restaurant & Bistro,Columbus,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary French / American\
+79,Restaurant L,Cincinnati,USA,,OpenTable's Most Romantic Restaurants,2018,French\
+80,Restaurant Lorena's,Maplewood,USA,,OpenTable's Most Romantic Restaurants,2018,French\
+81,Ristorante Lombardo,Buffalo,USA,,OpenTable's Most Romantic Restaurants,2018,Italian\
+82,River Cafe,Brooklyn,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2024, 2025",American\
+83,Rudy & Paco Restaurant & Bar,Galveston,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Seafood\
+84,Russell's Steaks, Chops, and More,Williamsville,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2022, 2024",Steak\
+85,Ryan's Restaurant,Winston-Salem,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2019, 2022, 2024, 2025",Steak\
+86,The Saddle River Inn,Saddle River,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019, 2020",French\
+87,Saint Jacques French Cuisine,Raleigh,USA,,OpenTable's Most Romantic Restaurants,2018,French\
+88,Scalini Fedeli - Chatham,Chatham,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019",Italian\
+89,Second Empire Restaurant and Tavern,Raleigh,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary American\
+90,Signature, Inspired by Chef Andrew Weissman,San Antonio,USA,,OpenTable's Most Romantic Restaurants,2018,American\
+91,Southern Social,Germantown,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2020, 2022, 2023, 2025",American\
+92,St. John's Restaurant,Chattanooga,USA,,OpenTable's Most Romantic Restaurants,2018,American\
+93,Stonehouse at San Ysidro Ranch,Santa Barbara,USA,,OpenTable's Top 100 Romantic Restaurants,"2018, 2024, 2025",Contemporary American\
+94,The Tailor and the Cook,Utica,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary American\
+95,Tony's - St. Louis,St. Louis,USA,,OpenTable's Most Romantic Restaurants,2018,Italian\
+96,Truluck's Seafood, Steak and Crab House - Austin Arboretum,Austin,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019, 2025",Seafood\
+97,The Victor Cafe,Philadelphia,USA,,OpenTable's Most Romantic Restaurants,"2018, 2019, 2020",Italian\
+98,Vintage Year,Montgomery,USA,,OpenTable's Most Romantic Restaurants,2018,American\
+100,Webb Custom Kitchen,Gastonia,USA,,OpenTable's Most Romantic Restaurants,2018,Contemporary American\
+101,801 Chophouse \'96 Des Moines,Des Moines,USA,,OpenTable's Most Romantic Restaurants,2019,Steakhouse\
+103,Atlantis Steakhouse - Atlantis Casino Resort Spa,Reno,USA,,OpenTable's Most Romantic Restaurants,2019,Steakhouse\
+107,Belvedere Inn Restaurant and Bar,Lancaster,USA,,OpenTable's Top 100 Romantic Restaurants,"2019, 2024, 2025",American\
+110,Bohanan's Prime Steaks and Seafood,San Antonio,USA,,OpenTable's Top 100 Romantic Restaurants,"2019, 2022, 2025",Steakhouse\
+117,Chef's Table at the Edgewater,Winter Garden,USA,,OpenTable's Most Romantic Restaurants,"2019, 2020",American\
+118,Chimney Park,Windsor,USA,,OpenTable's Most Romantic Restaurants,"2019, 2020",Contemporary American\
+124,Aurelia at Castle Hill,Newport,USA,,OpenTable's Most Romantic Restaurants,2019,Farm-to-table\
+125,Flagstaff House,Boulder,USA,,OpenTable's Top 100 Romantic Restaurants,"2019, 2024, 2025",Contemporary American\
+126,Fleurie,Charlottesville,USA,,OpenTable's Most Romantic Restaurants,2019,French\
+133,Gracie's,Providence,USA,,OpenTable's Most Romantic Restaurants,"2019",Contemporary American\
+138,Jag's Steak & Seafood,West Chester,USA,,OpenTable's Top 100 Romantic Restaurants,"2019, 2022, 2025",Steakhouse\
+139,Joe Vicari's Andiamo Italian Steakhouse @ The D Las Vegas,Las Vegas,USA,,OpenTable's Most Romantic Restaurants,2019,Italian\
+144,Le Yaca - Williamsburg,Williamsburg,USA,,OpenTable's Top 100 Romantic Restaurants,"2019, 2024, 2025",French\
+147,Lon's at The Hermosa,Paradise Valley,USA,,OpenTable's Top 100 Romantic Restaurants,"2019, 2020, 2022, 2023, 2024, 2025",American\
+148,Mahogany Prime Steakhouse - Tulsa,Tulsa,USA,,OpenTable's Most Romantic Restaurants,2019,Steak\
+149,Majorelle at The Lowell,New York,USA,,OpenTable's Most Romantic Restaurants,2019,French\
+150,Melting Pot - Charlotte - Lake Norman,Huntersville,USA,,OpenTable's Most Romantic Restaurants,2019,Fondue\
+151,Millwright's Restaurant,Simsbury,USA,,OpenTable's Top 100 Romantic Restaurants,"2019, 2024, 2025",American\
+152,Minerva's - Sioux Falls,Sioux Falls,USA,,OpenTable's Most Romantic Restaurants,2019,American\
+154,Mo's A Place for Steaks - Milwaukee,Milwaukee,USA,,OpenTable's Most Romantic Restaurants,2019,Steak\
+155,Montalcino Ristorante Italiano,Issaquah,USA,,OpenTable's Most Romantic Restaurants,"2019, 2020",Italian\
+157,Myron's at Alon Town Center,San Antonio,USA,,OpenTable's Most Romantic Restaurants,2019,Steak\
+170,Sorrento Ristorante Italiano,Houston,USA,,OpenTable's Most Romantic Restaurants,"2019",Italian\
+171,Strip Steakhouse,Avon / Avon Lake,USA,,OpenTable's Most Romantic Restaurants,2019,Steakhouse\
+176,Wally's Desert Turtle,Rancho Mirage,USA,,OpenTable's Top 100 Romantic Restaurants,"2019, 2025",Contemporary American\
+178,Aba - Chicago,Chicago,USA,,OpenTable's Most Romantic Restaurants,2020,Mediterranean\
+179,Allora,Sacramento,USA,,OpenTable's Top 100 Romantic Restaurants,"2020, 2024",Seafood\
+181,Annie Gunn's,Chesterfield,USA,,OpenTable's Most Romantic Restaurants,2020,American\
+182,Arethusa al Tavolo,Bantam,USA,,OpenTable's Most Romantic Restaurants,2020,Contemporary American\
+183,The Restaurant at Auberge du Soleil,Rutherford,USA,,OpenTable's Most Romantic Restaurants,2020,French\
+184,Barclay Prime,Philadelphia,USA,,OpenTable's Most Romantic Restaurants,"2020",Steakhouse\
+185,Barolo Grill,Denver,USA,,OpenTable's Top 100 Romantic Restaurants,"2020, 2025",Italian\
+186,Blue Ridge Grill,Atlanta,USA,,OpenTable's Most Romantic Restaurants,2020,American\
+187,BOCA,Cincinnati,USA,,OpenTable's Top 100 Romantic Restaurants,"2020, 2022, 2024, 2025",Contemporary European\
+188,Boka,Chicago,USA,,OpenTable's Most Romantic Restaurants,2020,Contemporary American\
+189,Bones,Atlanta,USA,,OpenTable's Most Romantic Restaurants,"2020, 2022",Steak\
+190,Boulevard,San Francisco,USA,,OpenTable's Most Romantic Restaurants,2020,Californian\
+191,Brewery Bhavana - Downtown,Raleigh,USA,,OpenTable's Most Romantic Restaurants,2020,Brewery\
+192,Bull & Bear Steakhouse,Lake Buena Vista,USA,,OpenTable's Most Romantic Restaurants,2020,Unspecified\
+193,Butcher & Singer,Philadelphia,USA,,OpenTable's Top 100 Romantic Restaurants,"2020, 2025",Steak\
+194,Ca Del Sole,North Hollywood,USA,,OpenTable's Most Romantic Restaurants,"2020, 2022",Italian\
+195,Caf\'e9 Ba-Ba-Reeba,Chicago,USA,,OpenTable's Most Romantic Restaurants,2020,Tapas / Small Plates\
+196,Cafe Juanita,Kirkland,USA,,OpenTable's Most Romantic Restaurants,2020,Italian\
+199,The Capital Grille - Baltimore,Baltimore,USA,,OpenTable's Most Romantic Restaurants,2020,Steakhouse\
+200,The Capital Grille - Boston,Boston,USA,,OpenTable's Most Romantic Restaurants,2020,Steakhouse\
+201,The Capital Grille - Lombard,Lombard,USA,,OpenTable's Most Romantic Restaurants,2020,Steakhouse\
+202,The Capital Grille - Minneapolis,Minneapolis,USA,,OpenTable's Most Romantic Restaurants,2020,Steakhouse\
+203,The Capital Grille - Costa Mesa,Costa Mesa,USA,,OpenTable's Most Romantic Restaurants,2020,Steakhouse\
+206,Chez Billy Sud,Washington,USA,,OpenTable's Most Romantic Restaurants,2020,French\
+208,Chops Lobster Bar - Atlanta,Atlanta,USA,,OpenTable's Most Romantic Restaurants,2020,Steak\
+210,Dominick's Steakhouse,Scottsdale,USA,,OpenTable's Top 100 Romantic Restaurants,"2020, 2022, 2023",Steakhouse\
+211,Eddie V's - 5th Street,Austin,USA,,OpenTable's Most Romantic Restaurants,2020,Seafood\
+212,Eddie V's - Orlando,Orlando,USA,,OpenTable's Most Romantic Restaurants,2020,Seafood\
+213,Estiatorio Milos \'96 Midtown New York,New York,USA,,OpenTable's Most Romantic Restaurants,2020,Seafood\
+214,Fat Canary,Williamsburg,USA,,OpenTable's Most Romantic Restaurants,2020,Contemporary American\
+217,Gibsons Italia,Chicago,USA,,OpenTable's Most Romantic Restaurants,2020,Italian\
+218,Girl & the Goat,Chicago,USA,,OpenTable's Most Romantic Restaurants,2020,Contemporary American\
+219,GW Fins,New Orleans,USA,,OpenTable's Top 100 Romantic Restaurants,"2020, 2022, 2023, 2025",Seafood\
+220,J-Prime Steakhouse San Antonio,San Antonio,USA,,OpenTable's Most Romantic Restaurants,"2020, 2022",Steakhouse\
+221,Jacques' Brasserie at L'Auberge Chez Francois,Great Falls,USA,,OpenTable's Most Romantic Restaurants,2020,French\
+222,joan's in the Park,Saint Paul,USA,,OpenTable's Most Romantic Restaurants,2020,American\
+223,Joe's Seafood, Prime Steak & Stone Crab,Chicago,USA,,OpenTable's Most Romantic Restaurants,"2020",Seafood\
+224,Joe's Seafood, Prime Steak & Stone Crab - Las Vegas,Las Vegas,USA,,OpenTable's Most Romantic Restaurants,"2020, 2023",Seafood\
+225,Joe's Seafood, Prime Steak & Stone Crab - Washington DC,Washington,USA,,OpenTable's Most Romantic Restaurants,2020,Seafood\
+226,Kokkari Estiatorio,San Francisco,USA,,OpenTable's Most Romantic Restaurants,2020,Mediterranean\
+228,La Grotta,Atlanta,USA,,OpenTable's Most Romantic Restaurants,2020,Italian\
+229,Le Colonial - Chicago,Chicago,USA,,OpenTable's Most Romantic Restaurants,2020,Vietnamese\
+230,Le Diplomate,Washington,USA,,OpenTable's Top 100 Romantic Restaurants,"2020, 2021, 2023",French\
+233,The Love,Philadelphia,USA,,OpenTable's Most Romantic Restaurants,2020,American\
+234,Durham - M Sushi,Durham,USA,,OpenTable's Most Romantic Restaurants,2020,Sushi\
+235,Mama's Fish House,Hawaii,USA,,OpenTable's Most Romantic Restaurants,"2020, 2023",Fish\
+236,Mamma Maria,Boston,USA,,OpenTable's Most Romantic Restaurants,"2020, 2022",Italian\
+237,Maple & Ash - Chicago,Chicago,USA,,OpenTable's Most Romantic Restaurants,2020,Steakhouse\
+238,Marcel,Atlanta,USA,,OpenTable's Most Romantic Restaurants,"2020, 2022",Steakhouse\
+239,March\'e9 Moderne,Newport Beach,USA,,OpenTable's Most Romantic Restaurants,2020,French\
+240,Miro's Restaurant,Palm Springs,USA,,OpenTable's Most Romantic Restaurants,2020,Modern European\
+242,Ocean 44,Scottsdale,USA,,OpenTable's Top 100 Romantic Restaurants,"2020, 2023",Seafood\
+243,Ocean Prime - Tampa,Tampa,USA,,OpenTable's Most Romantic Restaurants,"2020, 2023",Seafood\
+244,The Optimist,Atlanta,USA,,OpenTable's Most Romantic Restaurants,2020,Seafood\
+245,Pappas Bros. Steakhouse - Galleria,Houston,USA,,OpenTable's Most Romantic Restaurants,"2020",Steakhouse\
+246,Parc,Philadelphia,USA,,OpenTable's Most Romantic Restaurants,"2020, 2021, 2023",French\
+249,Restaurant IRON,Pensacola,USA,,OpenTable's Most Romantic Restaurants,2020,Southern\
+250,RL Restaurant,Chicago,USA,,OpenTable's Most Romantic Restaurants,2020,American\
+251,Rosmarino Osteria Italiana,Newberg,USA,,OpenTable's Top 100 Romantic Restaurants,"2020, 2022",Italian\
+252,RPM Italian - Chicago,Chicago,USA,,OpenTable's Most Romantic Restaurants,2020,Italian\
+253,RPM Steak,Chicago,USA,,OpenTable's Most Romantic Restaurants,2020,Steak\
+254,Ruth's Chris Steak House - Baton Rouge,Baton Rouge,USA,,OpenTable's Most Romantic Restaurants,2020,Steakhouse\
+256,Salt at The Ritz-Carlton,Amelia Island,USA,,OpenTable's Most Romantic Restaurants,"2020, 2019",Contemporary American\
+257,SINATRA \'96 Encore at Wynn Las Vegas,Las Vegas,USA,,OpenTable's Most Romantic Restaurants,2020,Italian\
+258,Sorellina Boston,Boston,USA,,OpenTable's Most Romantic Restaurants,2020,Italian\
+259,Sotto,Cincinnati,USA,,OpenTable's Most Romantic Restaurants,"2020, 2023",Italian\
+261,St. Anselm - DC,Washington,USA,,OpenTable's Most Romantic Restaurants,2020,Contemporary American\
+262,Steak 44,Phoenix,USA,,OpenTable's Top 100 Romantic Restaurants,"2020, 2022, 2023",Steakhouse\
+263,Steak 48 - Chicago,Chicago,USA,,OpenTable's Most Romantic Restaurants,2020,Steakhouse\
+264,Talula\'92s Garden,Philadelphia,USA,,OpenTable's Most Romantic Restaurants,"2020, 2023",American\
+265,Tar & Roses,Santa Monica,USA,,OpenTable's Most Romantic Restaurants,2020,American\
+266,Tony's of Indianapolis,Indianapolis,USA,,OpenTable's Most Romantic Restaurants,2020,Steakhouse\
+267,Truluck's - Ocean's Finest Seafood & Crab - Austin Downtown,Austin,USA,,OpenTable's Most Romantic Restaurants,2020,Seafood\
+268,Truluck's - Ocean's Finest Seafood & Crab - Naples,Naples,USA,,OpenTable's Most Romantic Restaurants,"2020, 2023",Seafood\
+269,Uchi Dallas,Dallas,USA,,OpenTable's Most Romantic Restaurants,2020,Sushi\
+270,Uchi Houston,Houston,USA,,OpenTable's Most Romantic Restaurants,2020,Sushi\
+271,Uchiko Austin,Austin,USA,,OpenTable's Most Romantic Restaurants,2020,Sushi\
+273,Virtu Honest Craft,Scottsdale,USA,,OpenTable's Most Romantic Restaurants,2020,Modern European\
+274,10 West Restaurant & Bar,Noblesville,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Contemporary American\
+275,740 Front,Louisville,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+276,1933 Lounge by St Elmo in Fishers,Fishers,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+277,3 Arts Club Cafe at RH Chicago,Chicago,USA,,OpenTable's Top 100 Romantic Restaurants,"2021, 2023",American\
+278,Acova,Denver,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Comfort Food\
+279,Aliano's Ristorante - East Dundee,East Dundee,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Italian\
+280,Anthonie\'92s Market Grill,Fulshear,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+281,Auburn Road Vineyard. Winery. Enoteca.,Swedesboro,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Winery\
+282,Baldamar,Roseville,USA,,OpenTable's Top 100 Romantic Restaurants,"2021, 2022, 2023, 2024, 2025",Steak\
+283,The Barrel Club,Oak Lawn,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+284,The Beach House,Bristol,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Contemporary American\
+285,The Blackwall Barn and Lodge gambrills,Gambrills,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+286,Brasserie Libert\'e9,Washington,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Contemporary French / American\
+287,Brigantine at Portside Pier,San Diego,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Seafood\
+288,Bugsy and Meyer\'92s Steakhouse - Flamingo Las Vegas,Las Vegas,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+289,C-Level,San Diego,USA,,OpenTable's Top 100 Romantic Restaurants,"2021, 2022, 2023",Cocktail Bar\
+290,Jula's on the Potomac,Alexandria,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Contemporary American\
+291,Cafe Du Soleil,New York,USA,,OpenTable's Top 100 Romantic Restaurants,2021,French\
+292,The Cake Bake Shop - Carmel City Center,Carmel / Westfield,USA,,OpenTable's Top 100 Romantic Restaurants,"2021, 2023",American\
+293,California Dreaming - Columbia - Priority Seating,Columbia,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+294,Casa Santo Stefano,Tampa,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Sicilian\
+295,Charlie's Coastal Bistro (L'etoile Verte),Hilton Head Island,USA,,OpenTable's Top 100 Romantic Restaurants,"2021, 2023, 2025",Seafood\
+296,Charlie's on Prior,Prior Lake,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Contemporary American\
+297,Chelo's Waterfront Bar & Grille - Warwick,Warwick,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+298,Chop Block and Brew - Harrah's Ak-Chin Casino Resort,Maricopa,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+299,Clark's Seafood and Chop House,Little River,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Seafood\
+300,Cooper's Hawk Winery & Restaurant - Downers Grove, IL,Downers Grove,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+301,Coyote Crossing - Conshohocken,Conshohocken,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Mexican\
+302,Crush - MGM Grand,Las Vegas,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Continental\
+303,Da Francesco's Ristorante & Bar,Shelby Township,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Italian\
+304,Del Vino Vineyards,Northport,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Winery\
+305,Dog Watch Cafe,Mystic,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+306,Downtown Chandler (DC) Steakhouse,Chandler,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+307,The Edge Restaurant & Bar,Jackson,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Contemporary American\
+308,Estefan Kitchen Orlando,Kissimmee,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Latin / Spanish\
+309,Felix Trattoria,Venice,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Italian\
+310,Fia,Santa Monica,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Italian\
+311,Fig & Lily Garden,Morristown,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Mediterranean\
+312,Forza Storico,Atlanta,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Italian\
+313,Frank,Beverly,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Farm-to-table\
+314,The Front Porch - Leonardtown,Leonardtown,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Southern\
+315,Greg Norman Australian Grille,North Myrtle Beach,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+316,The HC Tavern + Kitchen,Fishers,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+317,Heirloom,Virginia Beach,USA,,OpenTable's Top 100 Romantic Restaurants,"2021, 2022",Farm-to-table\
+318,Herb & Sea,Encinitas,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Californian\
+319,The Hidden House,Chandler,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+320,Hyde Park Prime Steakhouse - Daytona Beach,Daytona Beach,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+321,Iron Whale,Asbury Park,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Seafood\
+322,J. Michael's Prime,Canton,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+323,JaK's Grill - Issaquah,Issaquah,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steak\
+324,Jerry Longo's Meatball & Martini's,Dover,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Italian\
+325,Kitchen + Kocktails by Kevin Kelley - Dallas,Dallas,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Southern\
+326,Kobe Japanese Steakhouse - St. Petersburg,St. Petersburg,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Japanese\
+327,Kona Grill - Boca Park,Las Vegas,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Contemporary American\
+328,La Fina,Andover,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+329,The Lakefront Restaurant,Chicago,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+330,Le Bilboquet - Denver,Denver,USA,,OpenTable's Top 100 Romantic Restaurants,2021,French\
+331,Le Colonial - Atlanta,Atlanta,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Vietnamese\
+332,Lena's Wood-Fired Pizza + Tap,Alexandria,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Italian\
+333,Limoncello - Locust Point,Baltimore,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Italian\
+334,Lititz Springs Inn and Spa,Lititz,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+335,Rooftop at the Envoy,Boston,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Bar / Lounge / Bottle Service\
+336,Mama Por Dios - Rancho Cucamonga,Rancho Cucamonga,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Mexican\
+337,Matteo\'92s Ristorante Italiano,Las Vegas,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Italian\
+338,Meat Market Tampa,Tampa,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+339,Mi Casa Grill Cantina,Las Vegas,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Mexican\
+340,Mojave,Sandy Springs,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Latin American\
+341,Newport Vineyards & Taproot Brewery,Middletown,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+342,Nolan's on Canandaigua Lake,Canandaigua,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steak\
+343,Offshore Rooftop,Chicago,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Contemporary American\
+344,One10 Modern Italian,Melville,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Italian\
+345,Orion's Roof Garden & Dining,Virginia Beach,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Fusion / Eclectic\
+346,Osteria I Nonni,Saint Paul,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Italian\
+347,Papi Cuisine,Baltimore,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Global, International\
+348,Paradise Park | Pizza + Patio,Chicago,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Pizzeria\
+349,Perry's Steakhouse & Grille - Coral Gables,Coral Gables,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+350,Pier 6 Seafood & Oyster House,Kemah / Seabrook,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Seafood\
+351,RH Rooftop Restaurant at RH Minneapolis,Edina,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+352,Rooftop at Providence G,Providence,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+353,Smith & Wollensky - Las Vegas,Las Vegas,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+354,solita Tacos & Margaritas - Huntington Beach,Huntington Beach,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Mexican\
+355,Spire73,Los Angeles,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Californian\
+356,Steak 48 - Philadelphia,Philadelphia,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+357,Stella,New Hope,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+358,Sugar Factory American Brasserie Restaurant,Dover,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+359,Tavern in the Square - Burlington,Burlington,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+360,Tavern on the Wharf,Plymouth,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+361,Teak - St Pete Pier,St. Petersburg,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+362,Telef\'e8ric Barcelona - Palo Alto,Palo Alto,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Spanish\
+363,Terra - Eataly Dallas,Dallas,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Italian\
+364,Toca Madera - Scottsdale,Scottsdale,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Mexican\
+365,Valentina,Encinitas,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Contemporary European\
+366,Ventanas at the Modern,Fort Lee,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Contemporary Latin\
+367,Water Grill - Forum Shops Caesar Palace,Las Vegas,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Seafood\
+368,The Western Door Steakhouse -Seneca Niagara Resort & Casino,Niagara Falls,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+369,Bahama Breeze - Woodbridge - Woodbridge Center,Woodbridge,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Caribbean\
+370,Hearthstone Kitchen & Cellar - Red Rock Casino, Resort & Spa,Las Vegas,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+371,Pangea Restaurant and Bar,Garland,USA,,OpenTable's Top 100 Romantic Restaurants,2021,American\
+372,Veritas,Jackson,USA,,OpenTable's Top 100 Romantic Restaurants,2021,Steakhouse\
+377,The Americano,Scottsdale,USA,,OpenTable's Top 100 Romantic Restaurants,2022,American\
+379,Cafe Bizou,Agoura Hills,USA,,OpenTable's Most Romantic Restaurants,2022,French American\
+380,Pacific Coast Grill,Cardiff By The Sea,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2023",Seafood\
+381,Jeune et Jolie,Carlsbad,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",French\
+383,Musso & Frank Grill,Los Angeles,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2023, 2025",Steakhouse\
+385,FARM,Palm Springs,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",French\
+387,Dal Rae,Pico Rivera,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2025",Steakhouse\
+389,Mister A\'92s,San Diego,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",American\
+390,Hearthstone Restaurant,Breckenridge,CO,USA,,OpenTable's Most Romantic Restaurants,2022,American\
+391,Ocean Prime \'96 Denver,Denver,USA,,OpenTable's Most Romantic Restaurants,2022,Seafood\
+392,Guard & Grace,Denver,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2023, 2025",Steakhouse\
+393,Shanahan\'92s Steakhouse,Denver,USA,,OpenTable's Most Romantic Restaurants,"2022, 2023",Steakhouse\
+394,J. Gilbert\'92s \'96 Wood Fired Steaks & Seafood \'96 Glastonbury,Glastonbury,CT,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",Steakhouse\
+396,Latitudes Key West,Key West,FL,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",Contemporary American\
+397,Bijoux,Miramar Beach,FL,USA,,OpenTable's Most Romantic Restaurants,"2022, 2024",French\
+398,Christini\'92s Ristorante Italiano,Orlando,FL,USA,,OpenTable's Most Romantic Restaurants,"2022, 2024",Italian\
+399,Christner\'92s Prime Steak and Lobster,Orlando,FL,USA,,OpenTable's Most Romantic Restaurants,2022,Steakhouse\
+400,KRES CHOPHOUSE,Orlando,FL,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2025",Steakhouse\
+401,Mystic Fish,Palm Harbour,FL,USA,,OpenTable's Most Romantic Restaurants,2022,Seafood\
+402,Bones,Atlanta,GA,USA,,OpenTable's Most Romantic Restaurants,2022,Steak\
+403,Canoe,Atlanta,GA,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2023, 2025",American\
+404,Marcel,Atlanta,GA,USA,,OpenTable's Most Romantic Restaurants,2022,Steakhouse\
+405,Poor Calvin\'92s,Atlanta,GA,USA,,OpenTable's Most Romantic Restaurants,2022,Asian Fusion\
+406,Frankie\'92s The Steakhouse,Duluth,GA,USA,,OpenTable's Most Romantic Restaurants,2022,Steakhouse\
+407,Alligator Soul,Savannah,GA,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024",Southern\
+408,Elizabeth on 37th,Savannah,GA,USA,,OpenTable's Most Romantic Restaurants,"2022, 2024",Southern\
+409,Hy\'92s Steak House,Honolulu,HI,USA,,OpenTable's Most Romantic Restaurants,"2022, 2023",Steak\
+410,Michel\'92s at the Colony Surf,Honolulu,HI,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024",French\
+411,CanoeHouse,Kamuela,HI,USA,,OpenTable's Most Romantic Restaurants,2022,Hawaiian\
+413,Meson Sabika,Naperville,IL,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2023, 2024, 2025",Tapas / Small Plates\
+414,The Italian House on Park,Westfield,IN,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024",Italian\
+417,Volare Italian Restaurant,Louisville,KY,USA,,OpenTable's Most Romantic Restaurants,2022,Italian\
+419,Irene\'92s,New Orleans,LA,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",Italian\
+420,Mamma Maria,Boston,MA,USA,,OpenTable's Most Romantic Restaurants,2022,Italian\
+421,Cooper\'92s Hawk Winery & Restaurant,Clinton Township,MI,USA,,OpenTable's Most Romantic Restaurants,2022,American\
+422,Leo\'92s,Grand Rapids,MI,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",American\
+423,Porterhouse Steak and Seafood,Lakeville,MN,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024",Steakhouse\
+424,Italian Eatery,Minneapolis,MN,USA,,OpenTable's Most Romantic Restaurants,2022,Italian\
+425,Manny\'92s Steakhouse,Minneapolis,MN,USA,,OpenTable's Most Romantic Restaurants,2022,Steakhouse\
+427,Brasserie by Niche,St. Louis,MO,USA,,OpenTable's Most Romantic Restaurants,2022,French\
+428,Delmonico Steakhouse,Las Vegas,NV,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2023, 2025",Steakhouse\
+429,Ferraro\'92s Restaurant & Wine Bar,Las Vegas,NV,USA,,OpenTable's Most Romantic Restaurants,2022,Italian\
+430,Golden Steer Steakhouse,Las Vegas,NV,USA,,OpenTable's Most Romantic Restaurants,"2022, 2023",Steakhouse\
+431,Vic & Anthony\'92s Steakhouse,Las Vegas,NV,USA,,OpenTable's Most Romantic Restaurants,2022,Steakhouse\
+432,Vintner Grill,Las Vegas,NV,USA,,OpenTable's Most Romantic Restaurants,2022,American\
+433,618,Freehold,NJ,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2023, 2024, 2025",American\
+436,Giancarlo\'92s,Williamsville,NY,USA,,OpenTable's Most Romantic Restaurants,2022,Italian\
+437,Lucia\'92s on the Lake,Hamburg,NY,USA,,OpenTable's Most Romantic Restaurants,2022,Italian\
+438,One if by Land, Two if by Sea,New York,NY,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024",American\
+441,TS Steakhouse at Turning Stone,Verona,NY,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024",Steakhouse\
+442,Steak 48,Charlotte,NC,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",Steakhouse\
+445,Carlo & Johnny,Cincinnati,OH,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2023, 2024, 2025",Steakhouse\
+449,Mitchell\'92s Ocean Club,Columbus,OH,USA,,OpenTable's Most Romantic Restaurants,"2022, 2025",Seafood\
+450,Jag\'92s Steak & Seafood,West Chester,OH,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2025",Steakhouse\
+452,RingSide Steakhouse,Portland,OR,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",Steakhouse\
+455,Casbah,Pittsburgh,PA,USA,,OpenTable's Most Romantic Restaurants,2022,Mediterranean\
+456,Fig & Ash,Pittsburgh,PA,USA,,OpenTable's Most Romantic Restaurants,2022,American\
+458,Off The Hook,Warrendale,PA,USA,,OpenTable's Most Romantic Restaurants,2022,Seafood\
+459,Los Andes Restaurant,Providence,RI,USA,,OpenTable's Most Romantic Restaurants,"2022, 2023",Peruvian\
+460,Hemenway\'92s,Providence,RI,USA,,OpenTable's Most Romantic Restaurants,"2022, 2023",Seafood\
+461,Charlie\'92s L\'92Etoile Verte,Hilton Head,SC,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2023, 2025",French\
+462,Frank\'92s Outback,Pawleys Island,SC,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024",American\
+464,Saluda\'92s,Columbia,SC,USA,,OpenTable's Most Romantic Restaurants,"2022, 2024",Southern\
+465,Coastal Fish Company,Memphis,TN,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2023, 2025",Seafood\
+466,Flight Restaurant & Wine Bar,Memphis,TN,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",American\
+467,Skull\'92s Rainbow Room,Nashville,TN,USA,,OpenTable's Most Romantic Restaurants,2022,American\
+469,Pappas Bros. Steakhouse,Dallas,TX,USA,,OpenTable's Most Romantic Restaurants,"2022, 2020",Steakhouse\
+470,Bohanan\'92s Prime Steaks and Seafood,San Antonio,TX,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2025",Steakhouse\
+471,J-Prime Steakhouse,San Antonio,TX,USA,,OpenTable's Most Romantic Restaurants,"2022, 2020",Steakhouse\
+472,Truluck\'92s \'96 Ocean\'92s Finest Seafood & Crab,The Woodlands,TX,USA,,OpenTable's Most Romantic Restaurants,"2022, 2024",Seafood\
+473,Log Haven,Salt Lake City,UT,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",American\
+474,2941 Restaurant,Falls Church,VA,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",Contemporary American\
+476,Fahrenheit 132,Fredericksburg,VA,USA,,OpenTable's Top 100 Romantic Restaurants,"2022, 2024, 2025",Steakhouse\
+481,Il Terrazzo Carmine,Seattle,WA,USA,,OpenTable's Most Romantic Restaurants,"2022, 2024",Italian\
+483,1906 at Longwood Gardens,Kennett Square,USA,,OpenTable's Most Romantic Restaurants,2023,Contemporary American\
+485,555 East,Long Beach,USA,,OpenTable's Most Romantic Restaurants,2023,Steakhouse\
+488,Amalfi - Caesars Palace Las Vegas,Las Vegas,USA,,OpenTable's Most Romantic Restaurants,2023,Italian\
+489,Andy's Jazz Club,Chicago,USA,,OpenTable's Most Romantic Restaurants,2023,Contemporary American\
+491,Bacari Silverlake,Silver Lake,USA,,OpenTable's Most Romantic Restaurants,2023,Italian\
+493,The Farm Italy Mohegan Sun,Uncasville,USA,,OpenTable's Most Romantic Restaurants,2023,Italian\
+494,Beauty & Essex- Las Vegas,Las Vegas,USA,,OpenTable's Most Romantic Restaurants,2023,Speakeasy\
+495,Boat House Waterfront Dining,Tiverton,USA,,OpenTable's Top 100 Romantic Restaurants,"2023, 2025",Seafood\
+496,Bristol Seafood Grill \'96 Leawood, KS,Leawood,USA,,OpenTable's Most Romantic Restaurants,2023,Seafood\
+501,Cesarina,San Diego,USA,,OpenTable's Most Romantic Restaurants,2023,Italian\
+502,Charley's Steak House-Tampa, FL,Tampa,USA,,OpenTable's Most Romantic Restaurants,2023,Steakhouse\
+504,Chart House Restaurant - Weehawken,Weehawken,USA,,OpenTable's Top 100 Romantic Restaurants,"2023, 2025",Seafood\
+505,The Coast Guard House,Narragansett,USA,,OpenTable's Most Romantic Restaurants,2023,Seafood\
+508,Cooper's Hawk Winery & Restaurant - Tampa, FL,Tampa,USA,,OpenTable's Most Romantic Restaurants,2023,American\
+509,Copley's on Palm Canyon,Palm Springs,USA,,OpenTable's Top 100 Romantic Restaurants,"2023, 2024",Contemporary American\
+510,Dahl & DiLuca Ristorante Italiano,Sedona,USA,,OpenTable's Top 100 Romantic Restaurants,"2023, 2024",Italian\
+512,Devon Seafood + Steak - Hershey,Hershey,USA,,OpenTable's Most Romantic Restaurants,2023,Seafood\
+514,Dry Dock Waterfront Grill,Longboat Key,USA,,OpenTable's Most Romantic Restaurants,2023,Seafood\
+515,Eiffel Tower,Las Vegas,USA,,OpenTable's Top 100 Romantic Restaurants,"2023, 2024, 2025",French\
+516,elements at Sanctuary Camelback Mountain,Scottsdale,USA,,OpenTable's Most Romantic Restaurants,2023,American\
+517,Farmhouse at Rogers Gardens,Corona del Mar,USA,,OpenTable's Most Romantic Restaurants,2023,American\
+518,Filomena Ristorante,Washington,USA,,OpenTable's Most Romantic Restaurants,2023,Italian\
+519,Gallaghers Steakhouse - Manhattan,New York,USA,,OpenTable's Most Romantic Restaurants,2023,Steakhouse\
+521,Girl & the Goat L.A.,Los Angeles,USA,,OpenTable's Most Romantic Restaurants,2023,Contemporary American\
+523,Green Valley Grill,Greensboro,USA,,OpenTable's Most Romantic Restaurants,2023,European\
+526,Hell's Kitchen - Caesars Palace Las Vegas,Las Vegas,USA,,OpenTable's Most Romantic Restaurants,2023,American\
+528,House of Prime Rib,San Francisco,USA,,OpenTable's Most Romantic Restaurants,2023,Steak\
+530,Izanami,Santa Fe,USA,,OpenTable's Most Romantic Restaurants,2023,Creative Japanese\
+531,Jeff Ruby's Steakhouse - Nashville,Nashville,USA,,OpenTable's Most Romantic Restaurants,2023,Steakhouse\
+533,Kyle G's Prime Seafood,Stuart,USA,,OpenTable's Most Romantic Restaurants,2023,Seafood\
+534,La Boheme,West Hollywood,USA,,OpenTable's Most Romantic Restaurants,2023,American\
+536,Lawry's The Prime Rib - Las Vegas,Las Vegas,USA,,OpenTable's Most Romantic Restaurants,2023,Prime Rib\
+538,Lindey's,Columbus,USA,,OpenTable's Most Romantic Restaurants,"2023, 2025",Contemporary American\
+542,Malone's - Louisville,Louisville,USA,,OpenTable's Most Romantic Restaurants,2023,Steakhouse\
+544,Mariposa,Sedona,USA,,OpenTable's Top 100 Romantic Restaurants,"2023, 2024",Latin / Spanish\
+545,Merriman's \'96 Waimea \'96 Big Island,Kamuela,USA,,OpenTable's Most Romantic Restaurants,2023,Hawaii Regional Cuisine\
+549,Muriel's Jackson Square,New Orleans,USA,,OpenTable's Most Romantic Restaurants,2023,Creole / Cajun / Southern\
+553,Old Ebbitt Grill,Washington,USA,,OpenTable's Most Romantic Restaurants,2023,American\
+554,Orchids at Halekulani,Waikiki,USA,,OpenTable's Most Romantic Restaurants,2023,Mediterranean\
+557,Patti's 1880's Settlement,Grand Rivers,USA,,OpenTable's Most Romantic Restaurants,2023,American\
+558,Pepp & Dolores,Cincinnati,USA,,OpenTable's Most Romantic Restaurants,2023,Italian\
+559,Perry's Steakhouse & Grille - Grapevine,Grapevine,USA,,OpenTable's Most Romantic Restaurants,2023,Steakhouse\
+562,Print Works Bistro,Greensboro,USA,,OpenTable's Most Romantic Restaurants,2023,American\
+563,RH Rooftop Restaurant at RH New York,New York,USA,,OpenTable's Most Romantic Restaurants,2023,American\
+564,Sacred Pepper,Tampa,USA,,OpenTable's Most Romantic Restaurants,2023,Contemporary American\
+568,Spencer's Restaurant,Palm Springs,USA,,OpenTable's Most Romantic Restaurants,2023,American\
+569,St. Elmo Steak House,Indianapolis,USA,,OpenTable's Most Romantic Restaurants,2023,Steak\
+571,Steak 48 - Houston,Houston,USA,,OpenTable's Most Romantic Restaurants,2023,Steakhouse\
+572,Steiner Ranch Steakhouse,Austin,USA,,OpenTable's Most Romantic Restaurants,2023,Steak\
+575,The Olde Pink House Restaurant,Savannah,USA,,OpenTable's Top 100 Romantic Restaurants,"2023, 2024, 2025",Southern\
+577,The Plantation House Restaurant,Kapalua,USA,,OpenTable's Most Romantic Restaurants,2023,Hawaiian\
+578,The Signature Prime Steak & Seafood,Honolulu,USA,,OpenTable's Most Romantic Restaurants,2023,Steakhouse\
+579,Tisha's,Cape May,USA,,OpenTable's Most Romantic Restaurants,2023,Contemporary American\
+582,Fleetwood's On Front St.,Lahaina,USA,,OpenTable's Most Romantic Restaurants,2023,Seafood\
+583,Cafe Monarch,Scottsdale,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Contemporary American\
+584,Dahl & DiLuca Ristorante Italiano,Sedona,USA,,OpenTable's Top 100 Romantic Restaurants,"2024",Italian\
+585,Lon\'92s at The Hermosa,Paradise Valley,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",American\
+587,Vivace Restaurant,Tucson,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Italian\
+588,71Above,Los Angeles,CA,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Contemporary American\
+589,Allora,Sacramento,CA,USA,,OpenTable's Top 100 Romantic Restaurants,"2024",Seafood\
+590,Bouchon \'96 Santa Barbara,Santa Barbara,CA,USA,,OpenTable's Top 100 Romantic Restaurants,2024,French\
+591,Copley\'92s on Palm Canyon,Palm Springs,CA,USA,,OpenTable's Top 100 Romantic Restaurants,"2024",Contemporary American\
+596,Orto Santa Monica,Santa Monica,CA,USA,,OpenTable's Top 100 Romantic Restaurants,2024,Italian\
+599,The Marine Room,San Diego,CA,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Seafood\
+603,Iron Gate,Washington DC,USA,,OpenTable's Top 100 Romantic Restaurants,2024,Mediterranean\
+604,1776 Steakhouse,Rehoboth Beach,DE,USA,,OpenTable's Top 100 Romantic Restaurants,2024,Steakhouse\
+605,Angelina\'92s Ristorante,Bonita Springs,FL,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Italian\
+606,Bern\'92s Steak House,Tampa,FL,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Steakhouse\
+607,Bijoux,Miramar Beach,FL,USA,,OpenTable's Most Romantic Restaurants,2024,French\
+608,Christini\'92s Ristorante Italiano,Orlando,FL,USA,,OpenTable's Most Romantic Restaurants,2024,Italian\
+611,Michael\'92s On East,Sarasota,FL,USA,,OpenTable's Most Romantic Restaurants,2024,Contemporary American\
+616,Tidepools \'96 Grand Hyatt Kauai,Poipu,HI,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Hawaiian\
+618,Geja\'92s Caf\'e9,Chicago,IL,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Fondue\
+619,North Pond,Chicago,IL,USA,,OpenTable's Most Romantic Restaurants,2024,Contemporary American\
+624,St Francisville Inn & Restaurant,Saint Francisville,LA,USA,,OpenTable's Most Romantic Restaurants,2024,American\
+625,Earth at Hidden Pond,Kennebunkport,ME,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Farm-to-table\
+626,Copper Rock Steakhouse \'96 Four Winds Casino Resort,New Buffalo,MI,USA,,OpenTable's Most Romantic Restaurants,2024,Steakhouse\
+628,MDRD,Grand Rapids,MI,USA,,OpenTable's Most Romantic Restaurants,2024,Spanish\
+630,Murray\'92s Restaurant & Cocktail Lounge,Minneapolis,MN,USA,,OpenTable's Most Romantic Restaurants,2024,American\
+632,Charlie Gitto\'92s \'91On the Hill\'91,St. Louis,MO,USA,,OpenTable's Most Romantic Restaurants,2024,Italian\
+633,JOLO Winery & Vineyards,Pilot Mountain,NC,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",American\
+634,Madison\'92s,Highlands,NC,USA,,OpenTable's Most Romantic Restaurants,2024,American\
+637,The Dining Room \'96 Biltmore Estate,Asheville,NC,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",American\
+638,Harry\'92s Steakhouse,Grand Forks,ND,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Steakhouse\
+639,Ristorante Massimo,Portsmouth,NH,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Italian\
+642,Il Mulino New York \'96 Atlantic City,Atlantic City,NJ,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Italian\
+643,The Gables,Beach Haven,NJ,USA,,OpenTable's Most Romantic Restaurants,2024,American\
+646,Eiffel Tower,Las Vegas,NV,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",French\
+648,Club A Steakhouse,New York,NY,USA,,OpenTable's Most Romantic Restaurants,2024,Steakhouse\
+655,Primavista,Cincinnati,OH,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",Italian\
+660,Josephine\'92s,Lancaster,PA,USA,,OpenTable's Most Romantic Restaurants,2024,American\
+662,SkyHigh,Philadelphia,PA,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",American\
+663,Chanterelle,Newport,RI,USA,,OpenTable's Most Romantic Restaurants,2024,French\
+664,White Horse Tavern,Newport,RI,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",American\
+665,Chez Georges Bistro & Bar,Hilton Head Island,SC,USA,,OpenTable's Most Romantic Restaurants,2024,French\
+669,Dancing Bear Appalachian Bistro,Townsend,TN,USA,,OpenTable's Top 100 Romantic Restaurants,"2024, 2025",American\
+671,Itta Bena,Memphis,TN,USA,,OpenTable's Most Romantic Restaurants,2024,Southern\
+673,Truluck\'92s \'96 Ocean\'92s Finest Seafood & Crab,Southlake,TX,USA,,OpenTable's Most Romantic Restaurants,"2024, 2022",Seafood\
+684,Arrowhead Grill,Glendale,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Steakhouse\
+686,Different Pointe of View,Phoenix,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Contemporary American\
+692,Gary Danko,San Francisco,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Contemporary American\
+710,The Black Pearl,Dunedin,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Seafood\
+715,Bistronomic,Chicago,USA,,OpenTable's Top 100 Romantic Restaurants,2025,French\
+719,Ocean Prime \'96 Chicago,Chicago,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Seafood\
+720,Vida,Indianapolis,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Contemporary American\
+721,Giuseppe's Ristorante Italiano,Lexington,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Italian\
+732,Ristorante Massimo,Portsmouth,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Italian\
+736,Il Mulino New York \'96 Atlantic City,Atlantic City,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Italian\
+738,Sazon,Santa Fe,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Latin / Spanish\
+741,Piero's Italian Cuisine,Las Vegas,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Italian\
+742,Top of the World Restaurant \'96 The STRAT Hotel, Casino & Tower,Las Vegas,USA,,OpenTable's Top 100 Romantic Restaurants,2025,American\
+743,The Northport Hotel,Northport,USA,,OpenTable's Top 100 Romantic Restaurants,2025,American\
+747,Cento \'96 German Village,Columbus,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Italian\
+749,Jeff Ruby's Steakhouse \'96 Columbus,Columbus,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Steakhouse\
+757,Butcher & Singer,Philadelphia,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Steak\
+760,Marmalade Restaurant & Wine Bar,Old San Juan,Puerto Rico,,OpenTable's Top 100 Romantic Restaurants,2025,Global, International\
+770,Dakota\'92s Steakhouse- Downtown Dallas,Dallas,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Steakhouse\
+774,Ruth's Chris Steak House \'96 Salt Lake City,Salt Lake City,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Steakhouse\
+783,The Del-Bar \'96 Wisconsin Dells & Lake Delton,Wisconsin Dells,USA,,OpenTable's Top 100 Romantic Restaurants,2025,Steakhouse}

@@ -1,0 +1,234 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ID,Name,City,Country,Cuisine,Award,Source List,Source List Years\
+1,Anajak Thai,Sherman Oaks,United States,Thai,"JB, F&W",Los Angeles Times,"2020, 2021, 2022, 2023, 2024"\
+2,Bavel,Downtown L.A.,United States,Middle Eastern,Los Angeles Times,Los Angeles Times,"2018, 2019, 2020, 2021, 2022, 2024"\
+3,Kato,Downtown L.A.,United States,"Taiwanese, Californian",Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022, 2024"\
+4,R\'e9publique,Hancock Park,United States,American,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022, 2024"\
+5,n/naka,Palms,United States,Japanese,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022, 2024"\
+6,Providence,Hollywood,United States,Seafood,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022, 2024"\
+7,Sonoratown,Downtown L.A.,United States,Mexican,Los Angeles Times,Los Angeles Times,"2018, 2019, 2020, 2021, 2022, 2024"\
+8,Holbox,Historic South-Central,United States,Mexican,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022, 2023, 2024"\
+9,Mariscos Jalisco,Boyle Heights,United States,Mexican,Los Angeles Times,Los Angeles Times,"2018, 2019, 2020, 2021, 2022, 2023"\
+10,Sichuan Impression,Alhambra,United States,Chinese,Los Angeles Times,Los Angeles Times,"2018, 2019, 2020, 2021, 2022, 2023"\
+11,Soban,Koreatown,United States,Korean,Los Angeles Times,Los Angeles Times,"2018, 2019, 2020, 2021, 2022, 2023"\
+12,A.O.C.,West Hollywood,United States,Californian,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022, 2024"\
+13,Bestia,Downtown L.A.,United States,Italian,Los Angeles Times,Los Angeles Times,"2018, 2019, 2020, 2021, 2022"\
+14,Cassia,Santa Monica,United States,"Vietnamese, French",Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022, 2024"\
+15,Crossroads Kitchen,Beverly Grove,United States,Vegan,Los Angeles Times,Los Angeles Times,"2021, 2022, 2023, 2024"\
+16,Dulan\'92s Soul Food Kitchen,Inglewood,United States,American,Los Angeles Times,Los Angeles Times,"2020, 2021, 2022, 2023, 2024"\
+17,Holy Basil,Downtown L.A.,United States,Thai,Los Angeles Times,Los Angeles Times,"2021, 2022, 2023, 2024"\
+18,Kismet,East Hollywood,United States,"Californian, Mediterranean",Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022, 2024"\
+19,Lalibela,Little Ethiopia,United States,Ethiopian,Los Angeles Times,Los Angeles Times,"2020, 2021, 2022, 2023, 2024"\
+20,Majordomo,Chinatown,United States,"Korean, New American",Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2024"\
+21,Mini Kabob,Glendale,United States,Armenian,Los Angeles Times,Los Angeles Times,"2020, 2021, 2022, 2023, 2024"\
+22,Moo\'92s Craft Barbecue,Lincoln Heights,United States,Barbecue,Los Angeles Times,Los Angeles Times,"2021, 2022, 2023, 2024"\
+23,Osteria Mozza,Hancock Park,United States,Italian,Los Angeles Times,Los Angeles Times,"2019, 2021, 2022, 2024"\
+24,Pasjoli,Santa Monica,United States,French,Los Angeles Times,Los Angeles Times,"2021, 2022, 2023, 2024"\
+25,Petit Trois,Hollywood,United States,French,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022, 2024"\
+26,Pijja Palace,Silver Lake,United States,Indian,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+27,Post & Beam,Baldwin Hills/Crenshaw,United States,"Californian, Southern",Los Angeles Times,Los Angeles Times,"2020, 2021, 2022, 2024"\
+28,Saffy's,East Hollywood,United States,Middle Eastern,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+29,Sushi Kaneyoshi,Downtown L.A.,United States,Japanese,Los Angeles Times,Los Angeles Times,"2021, 2022, 2023, 2024"\
+30,Tsubaki,Echo Park,United States,Japanese Restaurant,Los Angeles Times,Los Angeles Times,"2019, 2021, 2022, 2024"\
+31,Yang\'92s Kitchen,Alhambra,United States,Taiwanese,Los Angeles Times,Los Angeles Times,"2021, 2022, 2023, 2024"\
+32,Bar Am\'e1,Downtown L.A.,United States,Tex-Mex,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+33,Birdie G\'92s,Santa Monica,United States,American,Los Angeles Times,Los Angeles Times,"2019, 2020, 2022, 2024"\
+34,Damian,Downtown L.A.,United States,Mexican,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+35,Dunsmoor,Glassell Park,United States,American,Los Angeles Times,Los Angeles Times,"2023, 2024"\
+36,Felix,Venice,United States,Italian,Los Angeles Times,Los Angeles Times,"2019, 2021, 2022, 2023"\
+37,Here's Looking at You,Koreatown,United States,American,Los Angeles Times,Los Angeles Times,"2019, 2022, 2024"\
+38,Hippo,Highland Park,United States,Italian,Los Angeles Times,Los Angeles Times,"2018, 2019, 2020, 2021, 2022"\
+39,Kuya Lord,Hollywood,United States,Filipino,"James Beard Foundation award",Los Angeles Times,"2022, 2023, 2024"\
+40,Langer\'92s,Westlake,United States,American,Los Angeles Times,Los Angeles Times,"2018, 2019, 2021"\
+41,Lasita,Chinatown,United States,Filipino,Los Angeles Times,Los Angeles Times,"2021, 2024"\
+42,Morihiro,Atwater Village,United States,Japanese,Los Angeles Times,Los Angeles Times,"2021, 2022, 2023, 2024"\
+43,My 2 Cents,Mid-Wilshire,United States,"Soul Food, Californian",Los Angeles Times,Los Angeles Times,"2023, 2024"\
+44,Northern Thai Food Club,East Hollywood,United States,Thai,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022"\
+45,Orsa & Winston,Downtown L.A.,United States,"Italian, Japanese",Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022, 2023, 2024"\
+46,Pizzeria Bianco,Downtown L.A.,United States,Pizza,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+47,Pizzeria Sei,Pico-Robertson,United States,Pizza,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+48,Quarter Sheets,Echo Park,United States,"Pizza, Bakery",Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+49,Rossoblu,Downtown L.A.,United States,Italian,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022, 2023"\
+50,Rustic Canyon,Santa Monica,United States,American,Los Angeles Times,Los Angeles Times,"2019, 2024"\
+51,Tacos La Carreta,Long Beach,United States,Mexican,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+52,Taste of Tehran,West Los Angeles,United States,Persian,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021, 2022, 2023"\
+53,Tokyo Fried Chicken,Downtown L.A.,United States,Fried Chicken,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+54,Villa's Tacos,Highland Park,United States,Mexican,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+55,Yangban,Downtown L.A.,United States,"Korean, American, Jewish",Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+56,Al Baraka Restaurant,Anaheim,United States,Palestinian,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+57,All Day Baby,Silver Lake,United States,American,Los Angeles Times,Los Angeles Times,"2020, 2021, 2022, 2023"\
+58,Ammatol\'ed,Long Beach,United States,Middle Eastern,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+59,Antico Nuovo,Larchmont,United States,Italian,Los Angeles Times,Los Angeles Times,"2020, 2021, 2024"\
+60,Bar Chelou,Pasadena,United States,French,Los Angeles Times,Los Angeles Times,"2023, 2024"\
+61,Baroo,Downtown L.A.,United States,Korean,Los Angeles Times,Los Angeles Times,"2023, 2024"\
+62,Barsha,Hermosa Beach,United States,"Tunisian, Mediterranean",Los Angeles Times,Los Angeles Times,"2023, 2024"\
+63,Bicyclette,Pico-Robertson,United States,French,Los Angeles Times,Los Angeles Times,"2022, 2023"\
+64,Bhookhe,Artesia,United States,Indian,Los Angeles Times,Los Angeles Times,"2023, 2024"\
+65,Bridgetown Roti,East Hollywood,United States,Caribbean,Los Angeles Times,Los Angeles Times,"2022, 2024"\
+66,Burritos La Palma,El Monte,United States,Mexican,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+67,Camphor,Downtown L.A.,United States,French,Los Angeles Times,Los Angeles Times,"2023, 2024"\
+68,Chaak Kitchen,Tustin,United States,Mexican,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+69,Chichen Itza / Holbox,Historic South-Central,United States,Mexican,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021"\
+70,Connie and Ted\'92s,West Hollywood,United States,Seafood,Los Angeles Times,Los Angeles Times,"2018, 2019, 2020"\
+71,Courage Bagels,East Hollywood,United States,Bagels,Los Angeles Times,Los Angeles Times,"2022, 2023"\
+72,Dear John's,Culver City,United States,Steakhouse,Los Angeles Times,Los Angeles Times,"2019, 2020, 2024"\
+73,Eat Joy Food,Rowland Heights,United States,Taiwanese,Los Angeles Times,Los Angeles Times,"2022, 2023"\
+74,El Coraloense,Bell Gardens,United States,Mexican,Los Angeles Times,Los Angeles Times,"2018, 2019"\
+75,Fishing With Dynamite,Manhattan Beach,United States,Seafood,Los Angeles Times,Los Angeles Times,"2022, 2023"\
+76,Flavors From Afar,Little Ethiopia,United States,International,Los Angeles Times,Los Angeles Times,"2021, 2022"\
+77,Forn Al Hara,Anaheim,United States,Lebanese,Los Angeles Times,Los Angeles Times,"2020, 2021"\
+78,Found Oyster,East Hollywood,United States,Seafood Restaurant,Los Angeles Times,Los Angeles Times,"2020, 2021, 2024"\
+79,Gish Bac,Arlington Heights,United States,Mexican,Los Angeles Times,Los Angeles Times,"2021, 2022"\
+80,Gjusta,Venice,United States,American,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+81,Grand Central Market,Downtown L.A.,United States,Eclectic,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021"\
+82,Guisados,Boyle Heights,United States,Mexican,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+83,Hangari Kalguksu,Koreatown,United States,Korean,Los Angeles Times,Los Angeles Times,"2020, 2021"\
+84,Hawkins House of Burgers,Willowbrook,United States,American,Los Angeles Times,Los Angeles Times,"2020, 2021"\
+85,Henry's Cuisine,Alhambra,United States,Cantonese,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+86,Heritage Barbecue,San Juan Capistrano,United States,Barbecue,Los Angeles Times,Los Angeles Times,"2021, 2022, 2023, 2024"\
+87,Ipoh Kopitiam,Alhambra,United States,Malaysian,Los Angeles Times,Los Angeles Times,"2022, 2023"\
+88,Jitlada,East Hollywood,United States,Thai,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+89,Jon & Vinny\'92s,Fairfax,United States,Italian,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021"\
+90,Joy,Highland Park,United States,Taiwanese,Los Angeles Times,Los Angeles Times,"2019, 2021"\
+91,Kali,Larchmont,United States,Californian,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021"\
+92,Katsu Sando,Chinatown,United States,"Japanese|American",Los Angeles Times,Los Angeles Times,"2020, 2021"\
+93,Kobee Factory,Van Nuys,United States,Middle Eastern,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+94,Kogi BBQ,Multiple,United States,"Mexican, Korean",Los Angeles Times,Los Angeles Times,"2018, 2019"\
+95,La Casita Mexicana,Bell,United States,Mexican,Los Angeles Times,Los Angeles Times,"2018, 2019"\
+96,La Diosa de Los Moles,Paramount,United States,Mexican,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+97,La Pupusa Urban Eatery,Pico-Union,United States,Salvadoran,Los Angeles Times,Los Angeles Times,"2022, 2023"\
+98,Lasa,Chinatown,United States,Filipino,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+99,Little Sister,Manhattan Beach,United States,Southeast Asian,Los Angeles Times,Los Angeles Times,"2018, 2019"\
+100,Luyixian,Alhambra,United States,Chinese,Los Angeles Times,Los Angeles Times,"2022, 2023"\
+101,Macheen,Boyle Heights,United States,Mexican,Los Angeles Times,Los Angeles Times,"2021, 2024"\
+102,March\'e9 Moderne,Newport Beach,United States,French,Los Angeles Times,Los Angeles Times,"2018, 2019"\
+103,Mayura,Culver City,United States,Indian,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+104,Mian,San Gabriel,United States,Chinese,Los Angeles Times,Los Angeles Times,"2019, 2020, 2021"\
+105,Needle,Silver Lake,United States,Cantonese,Los Angeles Times,Los Angeles Times,"2021, 2023"\
+106,Ngu Binh,Westminster,United States,Vietnamese,Los Angeles Times,Los Angeles Times,"2022, 2023"\
+107,Night + Market,Silver Lake,United States,Thai,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+108,Nok's Kitchen,Westminster,United States,Laotian,Los Angeles Times,Los Angeles Times,"2023, 2024"\
+109,Pearl River Deli,Chinatown,United States,Chinese,Los Angeles Times,Los Angeles Times,"2021, 2022"\
+110,Poncho\'92s Tlayudas,Historic South-Central,United States,Mexican,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+111,Sabores Oaxaque\'f1os,Koreatown,United States,Oaxacan,Los Angeles Times,Los Angeles Times,"2023"\
+112,Selva,Long Beach,United States,Colombian,Los Angeles Times,Los Angeles Times,"2022, 2023"\
+113,Shin Sushi,Encino,United States,Japanese,Los Angeles Times,Los Angeles Times,"2021, 2022, 2023"\
+114,Skaf\'92s,Glendale,United States,Lebanese,Los Angeles Times,Los Angeles Times,"2022, 2023"\
+115,Spoon & Pork,Silver Lake,United States,Filipino,Los Angeles Times,Los Angeles Times,"2020, 2021"\
+116,Spoon by H,Fairfax,United States,Korean,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+117,Tacos La Carreta,Long Beach,United States,Mexican,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+118,Tamales Elena Y Antojitos,Bell Gardens,United States,Mexican,Los Angeles Times,Los Angeles Times,"2020, 2021"\
+119,Tsulita,Sawtelle,United States,Japanese,Los Angeles Times,Los Angeles Times,"2018, 2019"\
+120,Two Homm\'e9s,Inglewood,United States,"West African, Southern",Los Angeles Times,Los Angeles Times,"2023, 2024"\
+121,Vespertine,Culver City,United States,Eclectic,Los Angeles Times,Los Angeles Times,"2018, 2019, 2024"\
+122,Woodspoon,Downtown L.A.,United States,Brazilian,Los Angeles Times,Los Angeles Times,"2021, 2022, 2023"\
+123,X'tiosu Kitchen,Boyle Heights,United States,"Mexican, Lebanese",Los Angeles Times,Los Angeles Times,"2019, 2020"\
+124,Yess Restaurant,Downtown L.A.,United States,Japanese,Los Angeles Times,Los Angeles Times,"2023, 2024"\
+125,189 by Dominique Ansel,Los Angeles,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+126,Adana,Glendale,United States,Middle Eastern,Los Angeles Times,Los Angeles Times,"2019"\
+127,Alimento,Silver Lake,United States,Italian,Los Angeles Times,Los Angeles Times,"2019"\
+128,Angry Egret Dinette,Chinatown,United States,Eclectic,Los Angeles Times,Los Angeles Times,"2021"\
+129,APL,Los Angeles,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+130,Asadero Chikali,Inglewood,United States,Mexican,Los Angeles Times,Los Angeles Times,"2024"\
+131,Asanebo,Studio City,United States,Japanese,Los Angeles Times,Los Angeles Times,"2018"\
+132,Auburn,Hollywood,United States,American,Los Angeles Times,Los Angeles Times,"2019"\
+133,Azizam,Silver Lake,United States,Persian,Los Angeles Times,Los Angeles Times,"2024"\
+134,Bar Chelou,Pasadena,United States,French,Los Angeles Times,Los Angeles Times,"2023, 2024"\
+135,Baroo,Downtown L.A.,United States,Korean,Los Angeles Times,Los Angeles Times,"2023, 2024"\
+136,Barsha,Hermosa Beach,United States,"Tunisian, Mediterranean",Los Angeles Times,Los Angeles Times,"2023, 2024"\
+137,Bicyclette,Pico-Robertson,United States,French,Los Angeles Times,Los Angeles Times,"2022, 2023"\
+138,Bistro Na's,Temple City,United States,Chinese,Los Angeles Times,Los Angeles Times,"2024"\
+139,Borit Gogae,Koreatown,United States,"Korean, Barbecue",Los Angeles Times,Los Angeles Times,"2024"\
+140,Brodard,Fountain Valley,United States,Vietnamese,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+141,Camphor,Downtown L.A.,United States,French,Los Angeles Times,Los Angeles Times,"2023, 2024"\
+142,Chaak Kitchen,Tustin,United States,Mexican,Los Angeles Times,Los Angeles Times,"2019, 2020"\
+143,Church & State,Los Angeles,United States,French,Los Angeles Times,Los Angeles Times,"2018"\
+144,Cluck2Go,Rowland Heights,United States,Thai,Los Angeles Times,Los Angeles Times,"2020"\
+145,Connie and Ted's,West Hollywood,United States,Seafood,Los Angeles Times,Los Angeles Times,"2018"\
+146,Courage Bagels,East Hollywood,United States,Bagels,Los Angeles Times,Los Angeles Times,"2022, 2023"\
+147,Crudo e Nudo,Santa Monica,United States,Seafood,Los Angeles Times,Los Angeles Times,"2023"\
+148,Cut,Beverly Hills,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+149,Danbi,Koreatown,United States,Korean,Los Angeles Times,Los Angeles Times,"2024"\
+150,Delmy\'92s Pupusas,Atwater Village,United States,Salvadoran,Los Angeles Times,Los Angeles Times,"2024"\
+151,Detroit,Culver City,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+152,Dialogue,Santa Monica,United States,American,Los Angeles Times,Los Angeles Times,"2019"\
+153,Dolan's Uyghur Cuisine,Alhambra,United States,Uyghur,Los Angeles Times,Los Angeles Times,"2024"\
+154,El Bacano,North Hollywood,United States,Dominican,Los Angeles Times,Los Angeles Times,"2024"\
+155,El Ruso,Boyle Heights,United States,Mexican,Los Angeles Times,Los Angeles Times,"2020"\
+156,Elite,Monterey Park,United States,Chinese,Los Angeles Times,Los Angeles Times,"2022"\
+157,Evan Kleiman,United States,"Radio host, chef and advocate",Los Angeles Times,Los Angeles Times,"2020"\
+158,Evil Cooks,El Sereno,United States,Mexican,Los Angeles Times,Los Angeles Times,"2020"\
+159,Fat + Flour,Culver City,United States,Bakery,Los Angeles Times,Los Angeles Times,"2024"\
+160,5 Stars Hue,El Monte,United States,Vietnamese,Los Angeles Times,Los Angeles Times,"2021"\
+161,For the Win,Hollywood Hills,United States,Burgers,Los Angeles Times,Los Angeles Times,"2021"\
+162,Freedman\'92s,Los Angeles,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+163,Gjelina,Venice,United States,Italian,Los Angeles Times,Los Angeles Times,"2019, 2021, 2022"\
+164,Gusto Bread,Long Beach,United States,Mexican,Los Angeles Times,Los Angeles Times,"2020"\
+165,Hail Mary,Atwater Village,United States,American,Los Angeles Times,Los Angeles Times,"2020"\
+166,Hotville,Crenshaw,United States,American,Los Angeles Times,Los Angeles Times,"2020"\
+167,Hu Tieu De Nhat,Garden Grove,United States,Vietnamese,Los Angeles Times,Los Angeles Times,"2024"\
+168,Jerusalem Chicken,View Park-Windsor Hills,United States,Palestinian,Los Angeles Times,Los Angeles Times,"2022"\
+169,Jiang Nan Spring,Alhambra,United States,Chinese,Los Angeles Times,Los Angeles Times,"2021, 2023"\
+170,Kang Kang Food Court,Alhambra,United States,Chinese,Los Angeles Times,Los Angeles Times,"2024"\
+171,Killer Noodle,Los Angeles,United States,Japanese,Los Angeles Times,Los Angeles Times,"2018"\
+172,Komal,Historic South-Central,United States,Mexican,Los Angeles Times,Los Angeles Times,"2024"\
+173,Kra Z Kai's Laotian Barbecue,Corona,United States,Lao,Los Angeles Times,Los Angeles Times,"2020"\
+174,Ladyhawk,West Hollywood,United States,Mediterranean,Los Angeles Times,Los Angeles Times,"2024"\
+175,Las Segovias,South Gate,United States,Nicaraguan,Los Angeles Times,Los Angeles Times,"2024"\
+176,Le Comptoir,Los Angeles,United States,French,Los Angeles Times,Los Angeles Times,"2019"\
+177,Locol,Watts,United States,Soul Food,Los Angeles Times,Los Angeles Times,"2024"\
+178,Lodge Bread Co.,Culver City,United States,American,Los Angeles Times,Los Angeles Times,"2020"\
+179,Lucky Boy,Pasadena,United States,American,Los Angeles Times,Los Angeles Times,"2020"\
+180,Luv2eat Thai Bistro,Hollywood,United States,Thai,Los Angeles Times,Los Angeles Times,"2023"\
+181,Mae Malai Thai House of Noodles,Los Feliz,United States,Thai,Los Angeles Times,Los Angeles Times,"2024"\
+182,Madre,Torrance,United States,Mexican,Los Angeles Times,Los Angeles Times,"2022"\
+183,Manhattan Beach Post,Manhattan Beach,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+184,Mario\'92s Butcher Shop,Newport Beach,United States,"Butcher Shop, Sandwich Shop",Los Angeles Times,Los Angeles Times,"2024"\
+185,Mariscos El Faro,Highland Park,United States,Mexican,Los Angeles Times,Los Angeles Times,"2020"\
+186,M\'e9lisse,Santa Monica,United States,American,Los Angeles Times,Los Angeles Times,"2022, 2023, 2024"\
+187,Mr. T,Hollywood,United States,"Restaurant and lounge",Los Angeles Times,Los Angeles Times,"2024"\
+188,NoMad,Los Angeles,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+189,Now Serving,United States,"L.A.'s only food-focused book store and a community gathering place",Los Angeles Times,Los Angeles Times,"2020"\
+190,Officine Brera,Los Angeles,United States,Italian,Los Angeles Times,Los Angeles Times,"2018"\
+191,Origin,Koreatown,United States,"Korean, Barbecue",Los Angeles Times,Los Angeles Times,"2024"\
+192,Osawa,Pasadena,United States,Japanese,Los Angeles Times,Los Angeles Times,"2019"\
+193,Otium,Los Angeles,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+194,Panelas Brazilian Cuisine,Redondo Beach,United States,Brazilian,Los Angeles Times,Los Angeles Times,"2023"\
+195,Phenakite,Hollywood,United States,Eclectic,Los Angeles Times,Los Angeles Times,"2021"\
+196,Phnom Penh Noodle Shack,Long Beach,United States,Cambodian,Los Angeles Times,Los Angeles Times,"2021"\
+197,Pho 79,Garden Grove,United States,Vietnamese,Los Angeles Times,Los Angeles Times,"2021"\
+198,Poltergeist,Echo Park,United States,Global,Los Angeles Times,Los Angeles Times,"2023"\
+199,Porridge + Puffs,Westlake,United States,Filipino,Los Angeles Times,Los Angeles Times,"2019"\
+200,Q,Los Angeles,United States,Japanese,Los Angeles Times,Los Angeles Times,"2019"\
+201,Redbird,Los Angeles,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+202,Rosalin\'e9,West Hollywood,United States,Peruvian,Los Angeles Times,Los Angeles Times,"2018"\
+203,Saltie Girl,West Hollywood,United States,Seafood,Los Angeles Times,Los Angeles Times,"2023"\
+204,Sapp Coffee Shop,Hollywood,United States,Thai,Los Angeles Times,Los Angeles Times,"2018"\
+205,Scratch Bar & Kitchen,Encino,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+206,Sea Harbour,Rosemead,United States,Chinese,Los Angeles Times,Los Angeles Times,"2018"\
+207,Shibumi,Downtown L.A.,United States,Japanese,Los Angeles Times,Los Angeles Times,"2019"\
+208,Si! Mon,Venice,United States,Panamanian,Los Angeles Times,Los Angeles Times,"2024"\
+209,Socalo,Santa Monica,United States,Mexican,Los Angeles Times,Los Angeles Times,"2020"\
+210,Sobar,Culver City,United States,Japanese,Los Angeles Times,Los Angeles Times,"2024"\
+211,Sotto,Los Angeles,United States,Italian,Los Angeles Times,Los Angeles Times,"2018"\
+212,Spago,Beverly Hills,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+213,Sqirl,East Hollywood,United States,American,Los Angeles Times,Los Angeles Times,"2019"\
+214,Stir Crazy,Hollywood,United States,Wine Bars,Los Angeles Times,Los Angeles Times,"2024"\
+215,Sun Ha Jang,Koreatown,United States,Korean,Los Angeles Times,Los Angeles Times,"2023"\
+216,Sushi Inaba,Torrance,United States,Japanese,Los Angeles Times,Los Angeles Times,"2024"\
+217,Sushi Mori Nozomi,Sawtelle,United States,Japanese,Los Angeles Times,Los Angeles Times,"2024"\
+218,The Arthur J,Manhattan Beach,United States,American,Los Angeles Times,Los Angeles Times,"2019"\
+219,The Chori-Man,San Pedro,United States,Mexican,Los Angeles Times,Los Angeles Times,"2020"\
+220,The Hearth & Hound,Los Angeles,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+221,The Win-Dow at American Beauty,Venice,United States,American,Los Angeles Times,Los Angeles Times,"2020"\
+222,Triniti,Los Angeles,United States,American,Los Angeles Times,Los Angeles Times,"2018"\
+223,Tsujita,Los Angeles,United States,Japanese,Los Angeles Times,Los Angeles Times,"2018"\
+224,WangJia Restaurant,San Gabriel Valley,United States,Shanghainese,Los Angeles Times,Los Angeles Times,"2022"\
+225,Yours Truly,Venice,United States,American,Los Angeles Times,Los Angeles Times,"2019"\
+226,Zhengyalov Hatz,Glendale,United States,Armenian,Los Angeles Times,Los Angeles Times,"2020"}

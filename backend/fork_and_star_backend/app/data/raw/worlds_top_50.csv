@@ -1,0 +1,391 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ID,Name,City,Country,Award,Source List,Cuisine,Years Featured\
+1,Noma,Copenhagen,Denmark,,World's 50 Best,Scandinavian,"2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2019, 2021"\
+2,El Bulli,Roses,Spain,,World's 50 Best,Molecular Gastronomy,"2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010"\
+3,Mugaritz,San Sebastian,Spain,,World's 50 Best,Spanish,"2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2025"\
+4,The French Laundry,Yountville,USA,,World's 50 Best,American,"2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2012, 2013, 2015"\
+5,Arzak,San Sebastian,Spain,,World's 50 Best,Spanish,"2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2017, 2018, 2021, 2022, 2024, 2025"\
+6,Per Se,New York,USA,,World's 50 Best,American,"2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015"\
+7,Steirereck,Vienna,Austria,,World's 50 Best,Austrian,"2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+8,Le Bernardin,New York,USA,,World's 50 Best,Seafood,"2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+9,Bras,Laguiole,France,,World's 50 Best,French,"2004, 2005, 2006, 2007, 2008, 2009, 2011, 2012"\
+10,Alinea,Chicago,USA,,World's 50 Best,Progressive American,"2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019"\
+11,Osteria Francescana,Modena,Italy,,World's 50 Best,Italian,"2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018"\
+12,El Celler de Can Roca,Girona,Spain,,World's 50 Best,Spanish,"2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018"\
+13,Asador Etxebarri,Atxondo,Spain,,World's 50 Best,Spanish,"2008, 2009, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+14,Central,Lima,Peru,,World's 50 Best,Peruvian,"2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024"\
+15,Maido,Lima,Peru,,World's 50 Best,Peruvian,"2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+16,Quintonil,Mexico City,Mexico,,World's 50 Best,Mexican,"2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+17,Pujol,Mexico City,Mexico,,World's 50 Best,Mexican,"2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+18,Geranium,Copenhagen,Denmark,,World's 50 Best,Danish,"2012, 2013, 2014, 2016, 2017, 2018, 2019, 2021, 2022"\
+19,Restaurant Gordon Ramsay,London,UK,,World's 50 Best,French,"2002, 2003, 2004, 2005, 2006, 2007, 2008"\
+20,Jean Georges,New York,USA,,World's 50 Best,French,"2003, 2004, 2005, 2006, 2007, 2008, 2009"\
+21,Gramercy Tavern,New York,USA,,World's 50 Best,American,"2002, 2003, 2004, 2005, 2006"\
+22,Hof van Cleve,Kruishoutem,Belgium,,World's 50 Best,Belgian,"2007, 2008, 2009, 2011, 2012, 2013, 2014, 2017, 2022, 2023"\
+23,The Fat Duck,Maidenhead,UK,,World's 50 Best,Molecular Gastronomy,"2004, 2005, 2006, 2007, 2008, 2009, 2011, 2012, 2013, 2014"\
+24,Pierre Gagnaire,Paris,France,,World's 50 Best,French,"2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012"\
+25,L'Atelier Saint Germain De Jo\'ebl Robuchon,Paris,France,,World's 50 Best,French,"2004, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014"\
+26,Eleven Madison Park,New York,USA,,World's 50 Best,American,"2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018"\
+27,D.O.M.,Sao Paulo,Brazil,,World's 50 Best,Brazilian,"2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2018"\
+28,Le Calandre,Rubano,Italy,,World's 50 Best,Italian,"2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2021, 2022, 2023, 2024, 2025"\
+29,Schloss Schauenstein,F\'fcrstenau,Switzerland,,World's 50 Best,Swiss,"2010, 2011, 2012, 2013, 2014, 2015, 2016, 2018, 2019, 2022, 2023, 2024, 2025"\
+30,Gaggan,Bangkok,Thailand,,World's 50 Best,Indian,"2014, 2015, 2016, 2017, 2018, 2019, 2024, 2025"\
+31,Disfrutar,Barcelona,Spain,,World's 50 Best,Spanish,"2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+32,Mirazur,Menton,France,,World's 50 Best,French,"2009, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019"\
+33,Septime,Paris,France,,World's 50 Best,French,"2013, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+34,Tetsuya's,Sydney,Australia,,World's 50 Best,Japanese/Australian,"2002, 2003, 2005, 2006, 2007, 2008, 2009, 2010"\
+35,Al Mahara,Dubai,UAE,,World's 50 Best,Seafood,"2002, 2003, 2004, 2007"\
+36,Charlie Trotter's,Chicago,USA,,World's 50 Best,American,"2002, 2003, 2005, 2006, 2007, 2008"\
+37,Chez Panisse,Berkeley,USA,,World's 50 Best,Californian,"2002, 2003, 2004, 2005, 2006, 2007, 2008"\
+38,The Ivy,London,UK,,World's 50 Best,British,"2002, 2003, 2004, 2005"\
+39,Rockpool,Sydney,Australia,,World's 50 Best,Australian,"2002, 2003, 2004, 2005, 2006, 2007, 2008"\
+40,Bukhara,New Delhi,India,,World's 50 Best,Indian,"2002, 2003, 2004, 2006, 2007"\
+41,Le Louis XV,Monaco,Monaco,,World's 50 Best,French,"2003, 2004, 2005, 2006, 2007, 2008, 2009"\
+42,Dal Pescatore,Canneto sull'Oglio,Italy,,World's 50 Best,Italian,"2003, 2004, 2006, 2007, 2008, 2009, 2010, 2011"\
+43,Nobu,London,UK,,World's 50 Best,Japanese,"2003, 2004, 2005, 2006, 2007, 2008, 2009"\
+44,Restaurant Tim Raue,Berlin,Germany,,World's 50 Best,German,"2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+45,Arp\'e8ge,Paris,France,,World's 50 Best,French,"2003, 2004, 2005, 2006, 2007, 2008, 2011, 2012, 2013, 2014, 2015, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+46,Piazza Duomo,Alba,Italy,,World's 50 Best,Italian,"2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+47,A Casa do Porco,S\'e3o Paulo,Brazil,,World's 50 Best,Brazilian,"2019, 2021, 2022, 2023, 2024, 2025"\
+48,Lido 84,Gardone Riviera,Italy,,World's 50 Best,Italian,"2021, 2022, 2023, 2024, 2025"\
+49,Reale,Castel di Sangro,Italy,,World's 50 Best,Italian,"2017, 2018, 2021, 2022, 2023, 2024, 2025"\
+50,Don Julio,Buenos Aires,Argentina,,World's 50 Best,Argentinian,"2019, 2021, 2022, 2023, 2024, 2025"\
+51,The Chairman,Hong Kong,China,,World's 50 Best,Chinese,"2019, 2021, 2022, 2023, 2024, 2025"\
+52,Den,Tokyo,Japan,,World's 50 Best,Japanese,"2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+53,Restaurant Andr\'e9,Singapore,Singapore,,World's 50 Best,French,"2013, 2014, 2015, 2016, 2017"\
+54,Le Quartier Fran\'e7ais,Franschhoek,South Africa,,World's 50 Best,South African,"2005, 2006, 2007, 2008, 2009, 2010, 2011"\
+55,Vend\'f4me,Bergisch Gladbach,Germany,,World's 50 Best,German,"2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2017"\
+56,Aqua,Wolfsburg,Germany,,World's 50 Best,German,"2010, 2011, 2012, 2013, 2014, 2015"\
+57,Quay,Sydney,Australia,,World's 50 Best,Australian,"2009, 2010, 2011, 2012, 2013"\
+58,Iggy's,Singapore,Singapore,,World's 50 Best,Modern European,"2009, 2010, 2011, 2012"\
+59,Astrid y Gast\'f3n,Lima,Peru,,World's 50 Best,Peruvian,"2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018"\
+60,The Ledbury,London,UK,,World's 50 Best,British,"2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018"\
+61,Amber,Hong Kong,China,,World's 50 Best,French,"2011, 2012, 2013, 2014, 2015, 2017"\
+62,Biko,Mexico City,Mexico,,World's 50 Best,Mexican,"2010, 2011, 2012, 2013, 2015"\
+63,F\'e4viken,J\'e4rpen,Sweden,,World's 50 Best,Nordic,"2012, 2013, 2014, 2015, 2016"\
+64,Ultraviolet by Paul Pairet,Shanghai,China,,World's 50 Best,Experimental,"2015, 2016, 2017, 2018, 2019, 2021"\
+65,The Clove Club,London,UK,,World's 50 Best,British,"2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+66,White Rabbit,Moscow,Russia,,World's 50 Best,Russian,"2015, 2016, 2017, 2018, 2019, 2021"\
+67,Tickets,Barcelona,Spain,,World's 50 Best,Spanish,"2015, 2016, 2017, 2018, 2019"\
+68,Borag\'f3,Santiago,Chile,,World's 50 Best,Chilean,"2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+69,The Test Kitchen,Cape Town,South Africa,,World's 50 Best,South African,"2014, 2015, 2016, 2018, 2019"\
+70,Hi\'9aa Franko,Kobarid,Slovenia,,World's 50 Best,Slovenian,"2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+71,Le Du,Bangkok,Thailand,,World's 50 Best,Thai,"2023, 2024, 2025"\
+72,Nobelhart & Schmutzig,Berlin,Germany,,World's 50 Best,German,"2021, 2022, 2023, 2024, 2025"\
+73,L'Auberge de l'Ill,Alsace,France,,World's 50 Best,French,"2002, 2003, 2004, 2005"\
+74,Operak\'e4llaren,Stockholm,Sweden,,World's 50 Best,Swedish,"2002, 2003"\
+75,Sukiyabashi Jiro,Tokyo,Japan,,World's 50 Best,Sushi,"2002, 2003"\
+76,Felix,Hong Kong,China,,World's 50 Best,International,"2002, 2003, 2004, 2005"\
+77,The Merchant House,London,UK,,World's 50 Best,British,"2003, 2004"\
+78,River Caf\'e9,London,UK,,World's 50 Best,Italian,"2002, 2003, 2004, 2005, 2007"\
+79,Flower Drum,Melbourne,Australia,,World's 50 Best,Chinese,"2002, 2003, 2004, 2005"\
+80,The Three Chimneys,Isle of Skye,UK,,World's 50 Best,Scottish,"2002, 2003"\
+81,The Cliff,Durants,Barbados,,World's 50 Best,Caribbean,"2003, 2004, 2005"\
+82,De Librije,Zwolle,Netherlands,,World's 50 Best,Dutch,"2010, 2011, 2012, 2014, 2016, 2019"\
+83,St John,London,UK,,World's 50 Best,British,"2003, 2004, 2005, 2006, 2008, 2009, 2010, 2011"\
+84,Gambero Rosso,Vernazza,Italy,,World's 50 Best,Italian,"2004, 2005, 2006, 2007, 2008, 2009"\
+85,Oud Sluis,Sluis,Netherlands,,World's 50 Best,Dutch,"2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014"\
+86,Le Gavroche,London,UK,,World's 50 Best,French,"2004, 2005, 2006, 2007, 2008"\
+87,Can Fabes,Barcelona,Spain,,World's 50 Best,Spanish,"2004, 2005, 2006, 2007, 2008"\
+88,Die Schwarzaldstube,Baiersbronn,Germany,,World's 50 Best,German,"2004, 2008, 2009, 2010"\
+89,Oaxen Krog,Stockholm,Sweden,,World's 50 Best,Swedish,"2006, 2007, 2008, 2009, 2010"\
+90,The Square,London,UK,,World's 50 Best,British,"2003, 2004"\
+91,La Tupina,Bordeaux,France,,World's 50 Best,French,"2004, 2005"\
+92,Alain Ducasse au Plaza Ath\'e9n\'e9e,Paris,France,,World's 50 Best,French,"2007, 2008, 2010, 2011, 2017, 2018, 2019, 2021, 2023, 2024"\
+93,L'Astrance,Paris,France,,World's 50 Best,French,"2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2017"\
+94,Restaurant Frantz\'e9n,Stockholm,Sweden,,World's 50 Best,Swedish,"2011, 2012, 2013, 2014, 2015, 2019, 2021, 2022, 2023, 2024, 2025"\
+95,Man\'ed,S\'e3o Paulo,Brazil,,World's 50 Best,Brazilian,"2013, 2014, 2015"\
+96,Attica,Melbourne,Australia,,World's 50 Best,Australian,"2013, 2014, 2015, 2016, 2017, 2018"\
+97,Nahm,Bangkok,Thailand,,World's 50 Best,Thai,"2012, 2014, 2015, 2016, 2017, 2018"\
+98,Belcanto,Lisbon,Portugal,,World's 50 Best,Portuguese,"2019, 2021, 2022, 2023, 2024, 2025"\
+99,Le Clarence,Paris,France,,World's 50 Best,French,"2022, 2023"\
+100,Uliassi,Senigallia,Italy,,World's 50 Best,Italian,"2022, 2023, 2024, 2025"\
+101,Le Jardin des Sens,Montpellier,France,,World's 50 Best,French,"2002, 2004"\
+102,Kronenhalle,Z\'fcrich,Switzerland,,World's 50 Best,Swiss,"2002"\
+103,Bocca,Tallinn,Estonia,,World's 50 Best,Italian,"2003"\
+104,Eigensinn Farm,Singhampton,Canada,,World's 50 Best,Canadian,"2002, 2003"\
+105,De Karmeliet,Bruges,Belgium,,World's 50 Best,Belgian,"2003, 2004, 2006"\
+106,Comme Chez Soi,Brussels,Belgium,,World's 50 Best,Belgian,"2003, 2006"\
+107,Troisgros,Ouches,France,,World's 50 Best,French,"2004, 2005, 2006, 2007, 2008"\
+108,Le Manoir aux Quat'Saisons,Oxford,UK,,World's 50 Best,French,"2003, 2004, 2005"\
+109,Hakkasan,London,UK,,World's 50 Best,Chinese,"2004, 2005, 2006, 2007, 2008, 2009"\
+110,The Wolseley,London,UK,,World's 50 Best,British,"2004, 2005"\
+111,La Colombe,Cape Town,South Africa,,World's 50 Best,South African,"2006, 2009, 2010, 2024, 2025"\
+112,Steirereck,Vienna,Austria,,World's 50 Best,Austrian,"2009, 2010, 2011"\
+113,Momofuku Ss\'e4m Bar,New York,USA,,World's 50 Best,Korean/American,"2009, 2010, 2011, 2012"\
+114,Martin Berasategui,Lasarte-Oria,Spain,,World's 50 Best,Spanish,"2006, 2007, 2008, 2009, 2011, 2014"\
+115,Combal Zero,Rivoli,Italy,,World's 50 Best,Italian,"2007, 2009, 2010, 2011, 2013, 2016"\
+116,Michel Bras,Laguiole,France,,World's 50 Best,French,"2002, 2003"\
+117,Eleven Madison Park,New York,USA,,World's 50 Best,American,"2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018"\
+118,Chef's Table at Brooklyn Fare,New York,USA,,World's 50 Best,American,"2023"\
+119,Alchemist,Copenhagen,Denmark,,World's 50 Best,Danish,"2022, 2023, 2024, 2025"\
+120,Atomix,New York,USA,,World's 50 Best,Korean,"2021, 2022, 2023, 2024, 2025"\
+121,Floril\'e8ge,Tokyo,Japan,,World's 50 Best,Japanese,"2021, 2022, 2023, 2024, 2025"\
+122,Elkano,Getaria,Spain,,World's 50 Best,Spanish,"2019, 2021, 2022, 2023, 2024, 2025"\
+123,Kol,London,UK,,World's 50 Best,Mexican,"2023, 2024, 2025"\
+124,Le Chateaubriand,Paris,France,,World's 50 Best,French,"2009, 2010, 2011, 2012, 2013, 2014, 2015"\
+125,Leo,Bogot\'e1,Colombia,,World's 50 Best,Colombian,"2019, 2021, 2022, 2023, 2024, 2025"\
+126,S\'fchring,Bangkok,Thailand,,World's 50 Best,German,"2019, 2023, 2024, 2025"\
+127,The Jane,Antwerp,Belgium,,World's 50 Best,Belgian,"2022, 2023, 2024"\
+128,Tr\'e8sind Studio,Dubai,UAE,,World's 50 Best,Indian,"2023, 2024, 2025"\
+129,Quique Dacosta,D\'e9nia,Spain,,World's 50 Best,Spanish,"2012, 2013, 2014, 2015, 2016, 2022, 2023, 2024, 2025"\
+130,Kjolle,Lima,Peru,,World's 50 Best,Peruvian,"2023, 2024, 2025"\
+131,SingleThread,Healdsburg,USA,,World's 50 Best,American,"2021, 2022, 2024, 2025"\
+132,S\'e9zanne,Tokyo,Japan,,World's 50 Best,Japanese,"2023, 2024, 2025"\
+133,Pl\'e9nitude,Paris,France,,World's 50 Best,French,"2023, 2024, 2025"\
+134,Sorn,Bangkok,Thailand,,World's 50 Best,Thai,"2022, 2023, 2024, 2025"\
+135,Oteque,Rio de Janeiro,Brazil,,World's 50 Best,Brazilian,"2022, 2023, 2024, 2025"\
+136,Ikoyi,London,UK,Highest Climber Award 2025,World's 50 Best,West African,"2022, 2023, 2024, 2025"\
+137,Rosetta,Mexico City,Mexico,,World's 50 Best,Mexican,"2023, 2024, 2025"\
+138,Jordn\'e6r,Copenhagen,Denmark,,World's 50 Best,Danish,"2022, 2023, 2025"\
+139,The World's 50 Best Restaurants,Maidenhead,UK,,World's 50 Best,,\
+140,Spoon des Iles,Ile Maurice,Mauritius,,World's 50 Best,French,"2002"\
+141,1884,Godoy Cruz,Argentina,,World's 50 Best,Argentinian,"2002, 2003"\
+142,Tangerine,Philadelphia,USA,,World's 50 Best,American,"2002"\
+143,La Coupole,Paris,France,,World's 50 Best,French,"2002"\
+144,Vong,New York,USA,,World's 50 Best,Thai/French,"2002"\
+145,L'Ambroisie,Paris,France,,World's 50 Best,French,"2002, 2003, 2007"\
+146,Felix,Hong Kong,Hong Kong,,World's 50 Best,International,"2002"\
+147,The Merchant House,Portsmouth,UK,,World's 50 Best,British,"2002"\
+148,Alle Testiere,Venice,Italy,,World's 50 Best,Italian,"2002"\
+149,The Lone Star,Mount Standfast,Barbados,,World's 50 Best,Caribbean,"2002"\
+150,Chez Vroney,Zermatt,Switzerland,,World's 50 Best,Swiss,"2002"\
+151,Il Pescatore,Orlando,USA,,World's 50 Best,Italian,"2002"\
+152,Nepenthe,Big Sur,USA,,World's 50 Best,American,"2002"\
+153,The Spa,Lamai Beach,Thailand,,World's 50 Best,Healthy,"2002"\
+154,Hotel de Paris,Monaco,Monaco,,World's 50 Best,French,"2002"\
+155,Moulin de Mougin,Mougins,France,,World's 50 Best,French,"2002"\
+156,Ginza Sushiko,Beverly Hills,USA,,World's 50 Best,Sushi,"2002"\
+157,Changa,Istanbul,Turkey,,World's 50 Best,Turkish,"2002"\
+158,Roundwood House,County Laois,Ireland,,World's 50 Best,Irish,"2002"\
+159,The Supper Club,Amsterdam,Netherlands,,World's 50 Best,International,"2002"\
+160,Blue Lagoon,Grindavik,Iceland,,World's 50 Best,Icelandic,"2002"\
+161,Bayona,New Orleans,USA,,World's 50 Best,American,"2002"\
+162,The Grundel,Budapest,Hungary,,World's 50 Best,Hungarian,"2002"\
+163,Carnivore,Nairobi,Kenya,,World's 50 Best,African,"2002, 2003"\
+164,Bagatelle,Oslo,Norway,,World's 50 Best,Norwegian,"2002, 2003"\
+165,Susar,Toronto,Canada,,World's 50 Best,Canadian,"2002"\
+166,Tantris,Munich,Germany,,World's 50 Best,German,"2002, 2008, 2009, 2023, 2024, 2025"\
+167,Jean Georges,New York,USA,,World's 50 Best,French,"2003"\
+168,Le Louis XV,Monaco,,World's 50 Best,French,"2003"\
+169,Arp\'e8ge,Paris,France,,World's 50 Best,French,"2003"\
+170,Comme Chez Soi,Brussels,Belgium,,World's 50 Best,Belgian,"2003"\
+171,Gidleigh Park,Changford,UK,,World's 50 Best,British,"2003"\
+172,Paul Boscoe,France,France,,World's 50 Best,French,"2003"\
+173,Vincent Guerithault on Camelback,Phoenix,USA,,World's 50 Best,American,"2003"\
+174,Thorton's,Dublin,Ireland,,World's 50 Best,Irish,"2003"\
+175,Le Manoir aux Quat'Saison,Oxford,UK,,World's 50 Best,French,"2003"\
+176,Guy Savoy,Paris,France,,World's 50 Best,French,"2003, 2004, 2005"\
+177,Petrus,London,UK,,World's 50 Best,French,"2003"\
+178,Daniel,New York,USA,,World's 50 Best,French,"2003, 2004, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014"\
+179,Dal Pescatore,Canneto sull'Oglio,,World's 50 Best,Italian,"2003"\
+180,Quattro Passi,Massa Lubrense,Italy,,World's 50 Best,Italian,"2003"\
+181,Enoteca Pinchiorri,Florence,Italy,,World's 50 Best,Italian,"2003, 2005, 2006, 2007, 2008"\
+182,Checchino Dal 1887,Rome,Italy,,World's 50 Best,Italian,"2003, 2005"\
+183,New York Grill,Tokyo,Japan,,World's 50 Best,American,"2003"\
+184,L'Atelier Saint Germain De Jo\'ebl Robuchon,Paris,France,,World's 50 Best,French,"2004"\
+185,Hakkasan,London,UK,,World's 50 Best,Chinese,"2004"\
+186,L'Ami Louis,Paris,France,,World's 50 Best,French,"2004"\
+187,Can Fabes,Barcelona,Spain,,World's 50 Best,Spanish,"2004"\
+188,Spago,Beverly Hills,USA,,World's 50 Best,Californian,"2004"\
+189,Le Meurice,Paris,France,,World's 50 Best,French,"2004, 2005, 2008"\
+190,Balthazar,New York,USA,,World's 50 Best,French,"2004"\
+191,Craft,New York,USA,,World's 50 Best,American,"2004"\
+192,La Tour D'Argent,Paris,France,,World's 50 Best,French,"2004"\
+193,Le Maison de Marc Veyrat,Manigod,France,,World's 50 Best,French,"2004"\
+194,Tom Aikens,London,UK,,World's 50 Best,British,"2005"\
+195,Per Se,New York,USA,,World's 50 Best,American,"2005"\
+196,Alain Ducasse,Paris,France,,World's 50 Best,French,"2005"\
+197,Sketch,London,UK,,World's 50 Best,Modern European,"2005"\
+198,The Waterside Inn,London,UK,,World's 50 Best,French,"2004, 2005"\
+199,L'Hotel de Ville,Crissier,Switzerland,,World's 50 Best,Swiss,"2005"\
+200,The Connaught,London,UK,,World's 50 Best,British,"2005"\
+201,Le Cinq,Paris,France,,World's 50 Best,French,"2006, 2007, 2008"\
+202,Cal Pep,Barcelona,Spain,,World's 50 Best,Spanish,"2005"\
+203,Masa,New York,USA,,World's 50 Best,Japanese,"2005, 2009"\
+204,WD~50,New York,USA,,World's 50 Best,Molecular Gastronomy,"2005, 2010"\
+205,Spice Market,New York,USA,,World's 50 Best,Asian,"2005"\
+206,Manresa,Port Townsend,USA,,World's 50 Best,Californian,"2005"\
+207,Dieter Mueller,Gladbach,Germany,,World's 50 Best,German,"2005, 2006"\
+208,Yauatcha,London,UK,,World's 50 Best,Chinese,"2005"\
+209,Mugaritz,Gipuzkoa,Spain,,World's 50 Best,Spanish,"2006"\
+210,Oud Sluis,Sluis,Netherlands,,World's 50 Best,Dutch,"2006"\
+211,El Celler de Can Roca,Girona,Spain,,World's 50 Best,Spanish,"2006"\
+212,L'Astrance,Paris,France,,World's 50 Best,French,"2006"\
+213,Hof van Cleve,Kruisem,Belgium,,World's 50 Best,Belgian,"2006"\
+214,Le Calandre,Padua,Italy,,World's 50 Best,Italian,"2006"\
+215,Le Bernardin,New York,USA,,World's 50 Best,Seafood,"2006"\
+216,Noma,Copenhagen,Denmark,,World's 50 Best,Nordic,"2006"\
+217,Chez Dominique,Helsinki,Finland,,World's 50 Best,Nordic,"2006, 2007, 2009, 2010, 2011"\
+218,Bocuse,Lyon,France,,World's 50 Best,French,"2006, 2007"\
+219,Oaxen Krog,Stockholm,Sweden,,World's 50 Best,Swedish,"2006"\
+220,D.O.M.,S\'e3o Paulo,Brazil,,World's 50 Best,Brazilian,"2006"\
+221,Hof van Cleve,Kruishoutem,Belgium,,World's 50 Best,Belgian,"2007"\
+222,Le Calandre,Rubano,Italy,,World's 50 Best,Italian,"2007"\
+223,Combal Zero,Rivoli,Italy,,World's 50 Best,Italian,"2007"\
+224,Cracco Peck,Milan,Italy,,World's 50 Best,Italian,"2007"\
+225,Taillevent,Paris,France,,World's 50 Best,French,"2007"\
+226,Les Ambassadeurs,Paris,France,,World's 50 Best,French,"2007, 2008, 2009"\
+227,L'Hotel de Ville - Philippe Rochat,Crissier,Switzerland,,World's 50 Best,Swiss,"2008, 2009, 2010"\
+228,Osteria Francescana,Modena,Italy,,World's 50 Best,Italian,"2009"\
+229,Narisawa,Tokyo,Japan,,World's 50 Best,Japanese,"2009, 2010, 2011, 2012, 2013, 2014, 2015, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025"\
+230,Ristorante Cracco,Milan,Italy,,World's 50 Best,Italian,"2008, 2009, 2011"\
+231,Steirereck,Vienna,Austria,,World's 50 Best,Austrian,"2009"\
+232,Momofuku Ss\'e4m Bar,New York,USA,,World's 50 Best,Korean/American,"2009"\
+233,Mirazur,Menton,France,,World's 50 Best,French,"2009"\
+234,Iggy's,Singapore,Singapore,,World's 50 Best,Singaporean,"2009"\
+235,Quay,Sydney,Australia,,World's 50 Best,Australian,"2009"\
+236,Mathias Dhalgren,Stockholm,Sweden,,World's 50 Best,Swedish,"2009, 2010, 2012"\
+237,Schloss Schauenstein,F\'fcrstenau,Switzerland,,World's 50 Best,Swiss,"2010"\
+238,Le Quartier Francais,Franschhoek,South Africa,,World's 50 Best,South African,"2010"\
+239,Aqua,Wolfsburg,Germany,,World's 50 Best,German,"2010"\
+240,Jaan Par Andre,Singapore,Singapore,,World's 50 Best,French,"2010"\
+241,Il Canto,Siena,Italy,,World's 50 Best,Italian,"2010, 2011, 2012"\
+242,Maison Troisgros,Lyon,France,,World's 50 Best,French,"2010, 2011"\
+243,Biko,Mexico City,Mexico,,World's 50 Best,Mexican,"2010"\
+244,Nihonryori Ryugin,Tokyo,Japan,,World's 50 Best,Japanese,"2010, 2012, 2013, 2014, 2018"\
+245,Hibiscus,London,UK,,World's 50 Best,British,"2010, 2011"\
+246,Eleven Madison Park,New York,USA,,World's 50 Best,American,"2010"\
+247,The Ledbury,London,UK,,World's 50 Best,British,"2011"\
+248,Restaurant de l'Hotel de Ville,Crissier,Switzerland,,World's 50 Best,Swiss,"2011"\
+249,Varvary,Moscow,Russia,,World's 50 Best,Russian,"2011"\
+250,Pujol,Mexico City,Mexico,,World's 50 Best,Mexican,"2011"\
+251,Asador Etxebarri,Axpe,Spain,,World's 50 Best,Spanish,"2012"\
+252,Dinner by Heston Blumenthal,London,UK,,World's 50 Best,British,"2012, 2013, 2014, 2015, 2016, 2017, 2018"\
+253,Waku Ghin,Singapore,Singapore,,World's 50 Best,Japanese,"2012, 2014"\
+254,Quique Dacosta,D\'e9nia,Spain,,World's 50 Best,Spanish,"2012"\
+255,Manresa,Los Gatos,USA,,World's 50 Best,Californian,"2012"\
+256,Geranium,Copenhagen,Denmark,,World's 50 Best,Danish,"2012"\
+257,Nahm,Bangkok,Thailand,,World's 50 Best,Thai,"2012"\
+258,Frantz\'e9n/Lindeberg,Stockholm,Sweden,,World's 50 Best,Swedish,"2013"\
+259,Attica,Melbourne,Australia,,World's 50 Best,Australian,"2013"\
+260,Mr and Mrs Bund,Shanghai,China,,World's 50 Best,French,"2013"\
+261,Septime,Paris,France,,World's 50 Best,French,"2013"\
+262,Gaggan,Bangkok,Thailand,,World's 50 Best,Indian,"2014"\
+263,Azurmendi,Larrabetzu,Spain,,World's 50 Best,Spanish,"2014, 2015, 2016, 2017, 2018, 2019, 2021, 2023"\
+264,Mart\'edn Berasategui,Lasarte-Oria,Spain,,World's 50 Best,Spanish,"2014"\
+265,Coi,San Francisco,USA,,World's 50 Best,American,"2014"\
+266,Ultraviolet by Paul Pairet,Shanghai,China,,World's 50 Best,Experimental,"2015"\
+267,White Rabbit,Moscow,Russia,,World's 50 Best,Russian,"2015"\
+268,Blue Hill at Stone Barns,Pocantico Hills,USA,,World's 50 Best,American,"2015, 2016, 2017, 2018, 2019"\
+269,Quintonil,Mexico City,Mexico,,World's 50 Best,Mexican,"2015"\
+270,Relae,Copenhagen,Denmark,,World's 50 Best,Danish,"2015, 2016, 2017"\
+271,Restaurant Andr\'e9,Singapore,Singapore,,World's 50 Best,French,"2015"\
+272,Alain Ducasse au Plaza Ath\'e9n\'e9e,Paris,France,,World's 50 Best,French,"2015"\
+273,The Clove Club,London,UK,,World's 50 Best,British,"2016"\
+274,Saison,San Francisco,USA,,World's 50 Best,American,"2016, 2017, 2018, 2023, 2024"\
+275,Estela,New York,USA,,World's 50 Best,American,"2016"\
+276,All\'e9no Paris au Pavillon Ledoyen,Paris,France,,World's 50 Best,French,"2017, 2018, 2019, 2021, 2023, 2024"\
+277,Cosme,New York,USA,,World's 50 Best,Mexican,"2017, 2018, 2019, 2021, 2023, 2024"\
+278,Reale,Castel di Sangro,Italy,,World's 50 Best,Italian,"2017"\
+279,Brae,Birregurra,Australia,,World's 50 Best,Australian,"2017"\
+280,Den,Tokyo,Japan,,World's 50 Best,Japanese,"2017"\
+281,Tegui,Buenos Aires,Argentina,,World's 50 Best,Argentinian,"2017"\
+282,Maaemo,Oslo,Norway,,World's 50 Best,Norwegian,"2018, 2021"\
+283,Lyle's,London,UK,,World's 50 Best,British,"2018, 2019, 2021, 2023, 2024"\
+284,Mikla,Istanbul,Turkey,,World's 50 Best,Turkish,"2018"\
+285,Hi\'9aa Franko,Kobarid,Slovenia,,World's 50 Best,Slovenian,"2018"\
+286,Twins Garden,Moscow,Russia,,World's 50 Best,Russian,"2019, 2021"\
+287,Elkano,Getaria,Spain,,World's 50 Best,Spanish,"2019"\
+288,Nerua Guggenheim Bilbao,Bilbao,Spain,,World's 50 Best,Spanish,"2019"\
+289,Don Julio,Buenos Aires,Argentina,,World's 50 Best,Argentinian,"2019"\
+290,Atelier Crenn,San Francisco,USA,,World's 50 Best,French,"2019, 2021, 2025"\
+291,A Casa do Porco,S\'e3o Paulo,Brazil,,World's 50 Best,Brazilian,"2019"\
+292,Belcanto,Lisbon,Portugal,,World's 50 Best,Portuguese,"2019"\
+293,Hof Van Cleve,Kruisem,Belgium,,World's 50 Best,Belgian,"2019"\
+294,S\'fchring,Bangkok,Thailand,,World's 50 Best,German,"2019"\
+295,Benu,San Francisco,USA,,World's 50 Best,Korean/American,"2019, 2021"\
+296,Leo,Bogot\'e1,Colombia,,World's 50 Best,Colombian,"2019"\
+297,Wolfgat,Paternoster,South Africa,,World's 50 Best,South African,"2021"\
+298,Burnt Ends,Singapore,Singapore,,World's 50 Best,Barbecue,"2021, 2023, 2024, 2025"\
+299,Floril\'e8ge,Tokyo,Japan,,World's 50 Best,Japanese,"2021"\
+300,Atomix,New York,USA,,World's 50 Best,Korean,"2021"\
+301,Nobelhart & Schmutzig,Berlin,Germany,,World's 50 Best,German,"2021"\
+302,The Jane,Antwerp,Belgium,,World's 50 Best,Belgian,"2022"\
+303,Uliassi,Senigallia,Italy,,World's 50 Best,Italian,"2022, 2023, 2024, 2025"\
+304,St. Hubertus,San Cassiano,Italy,,World's 50 Best,Italian,"2022"\
+305,La Cime,Osaka,Japan,,World's 50 Best,Japanese,"2022, 2023, 2024, 2025"\
+306,Mayta,Lima,Peru,,World's 50 Best,Peruvian,"2022, 2023, 2024, 2025"\
+307,Fyn,Cape Town,South Africa,,World's 50 Best,South African,"2022, 2023, 2024, 2025"\
+308,Jordn\'e6r,Copenhagen,Denmark,,World's 50 Best,Danish,"2022"\
+309,Sorn,Bangkok,Thailand,,World's 50 Best,Thai,"2022"\
+310,Ikoyi,London,UK,,World's 50 Best,West African,"2022"\
+311,Table by Bruno Verjus,Paris,France,,World's 50 Best,French,"2023, 2024, 2025"\
+312,Tr\'e8sind Studio,Dubai,UAE,,World's 50 Best,Indian,"2023"\
+313,Gaggan Anand,Bangkok,Thailand,,World's 50 Best,Indian,"2023"\
+314,El Chato,Bogot\'e1,Colombia,,World's 50 Best,Colombian,"2023, 2024, 2025"\
+315,Kjolle,Lima,Peru,,World's 50 Best,Peruvian,"2023, 2024, 2025"\
+316,Kol,London,UK,,World's 50 Best,Mexican,"2023"\
+317,Pl\'e9nitude,Paris,France,,World's 50 Best,French,"2023"\
+318,Rosetta,Mexico City,Mexico,,World's 50 Best,Mexican,"2023"\
+319,La Grenouill\'e8re,La Madelaine-sous-Montreuil,France,,World's 50 Best,French,"2023, 2024"\
+320,Orfali Bros Bistro,Dubai,UAE,,World's 50 Best,Middle Eastern,"2023, 2024, 2025"\
+321,Narisawa,Tokyo,Japan,,World's 50 Best,Japanese,"2023"\
+322,Hof Van Cleve,Kruishoutem,Belgium,,World's 50 Best,Belgian,"2023"\
+323,Brat,London,UK,,World's 50 Best,British,"2023, 2024"\
+324,Alcalde,Guadalajara,Mexico,,World's 50 Best,Mexican,"2023, 2024, 2025"\
+325,Ernst,Berlin,Germany,,World's 50 Best,German,"2023, 2024"\
+326,Lasai,Rio de Janeiro,Brazil,,World's 50 Best,Brazilian,"2023, 2024, 2025"\
+327,M\'e9rito,Lima,Peru,,World's 50 Best,Peruvian,"2023, 2024, 2025"\
+328,La Cime,Osaka,Japan,,World's 50 Best,Japanese,"2023"\
+329,Aponiente,El Puerto de Santa Mar\'eda,Spain,,World's 50 Best,Spanish,"2023, 2024, 2025"\
+330,Turk Fatih Tutak,Istanbul,Turkey,,World's 50 Best,Turkish,"2023"\
+331,Z\'e9n,Singapore,Singapore,,World's 50 Best,Nordic/Japanese,"2023"\
+332,Sud 777,Mexico City,Mexico,,World's 50 Best,Mexican,"2023, 2024"\
+333,Core by Clare Smyth,London,UK,,World's 50 Best,British,"2023, 2024"\
+334,Nusara,Bangkok,Thailand,,World's 50 Best,Thai,"2023, 2024, 2025"\
+335,Flocons de Sel,Meg\'e8ve,France,,World's 50 Best,French,"2023, 2024"\
+336,Enigma,Barcelona,Spain,,World's 50 Best,Spanish,"2023, 2024, 2025"\
+337,Sazenka,Tokyo,Japan,,World's 50 Best,Chinese,"2023, 2024, 2025"\
+338,Meta,Singapore,Singapore,,World's 50 Best,Singaporean,"2023, 2024"\
+339,Enrico Bartolini,Milan,Italy,,World's 50 Best,Italian,"2023"\
+340,Ossiano,Dubai,UAE,,World's 50 Best,Seafood,"2023"\
+341,Potong,Bangkok,Thailand,Highest New Entry Award 2025,World's 50 Best,Thai,"2023, 2024, 2025"\
+342,Mingles,Seoul,South Korea,,World's 50 Best,Korean,"2023, 2024, 2025"\
+343,Wing,Hong Kong,China,Gin Mare Art of Hospitality Award 2025,World's 50 Best,Chinese,"2023, 2024, 2025"\
+344,Kadeau,Copenhagen,Denmark,,World's 50 Best,Danish,"2023, 2024, 2025"\
+345,Neighborhood,Hong Kong,Hong Kong,,World's 50 Best,Mediterranean,"2023"\
+346,Kei,Paris,France,,World's 50 Best,French,"2023"\
+347,Ricard Camarena Restaurant,Valencia,Spain,,World's 50 Best,Spanish,"2023"\
+348,Labyrinth,Singapore,Singapore,,World's 50 Best,Singaporean,"2023, 2024, 2025"\
+349,Saison,San Francisco,USA,,World's 50 Best,American,"2023"\
+350,Fu He Hui,Shanghai,China,,World's 50 Best,Chinese,"2023, 2024, 2025"\
+351,Maito,Panama City,Panama,,World's 50 Best,Panamanian,"2023"\
+352,Atelier Moessmer Norbert Niederkofler,Brunico,Italy,,World's 50 Best,Italian,"2024, 2025"\
+353,Coda,Berlin,Germany,,World's 50 Best,German,"2024, 2025"\
+354,Bozar,Brussels,Belgium,,World's 50 Best,Belgian,"2024, 2025"\
+355,Le Doyenn\'e9,Saint-Vrain,France,,World's 50 Best,French,"2024, 2025"\
+356,Mil,Cusco,Peru,,World's 50 Best,Peruvian,"2024, 2025"\
+357,Willem Hiele,Oudenburg,Belgium,,World's 50 Best,Belgian,"2024, 2025"\
+358,Restaurant Jan,Munich,Germany,,World's 50 Best,German,"2024, 2025"\
+359,Ceto,Roquebrune-Cap-Martin,France,,World's 50 Best,Mediterranean,"2023, 2024"\
+360,Mosu,Seoul,South Korea,,World's 50 Best,Korean,"2024"\
+361,Indian Accent,New Delhi,India,,World's 50 Best,Indian,"2024"\
+362,Smyth,Chicago,USA,,World's 50 Best,American,"2024"\
+363,Onjium,Seoul,South Korea,,World's 50 Best,Korean,"2024, 2025"\
+364,Saint Peter,Sydney,Australia,,World's 50 Best,Seafood,"2024, 2025"\
+365,Fauna,Valle De Guadalupe,Mexico,,World's 50 Best,Mexican,"2024"\
+366,Vyn,Skillinge,Sweden,,World's 50 Best,Nordic,"2025"\
+367,Celele,Cartagena,Colombia,Sustainable Restaurant Award 2025,World's 50 Best,Colombian,"2025"\
+368,Arca,Tulum,Mexico,,World's 50 Best,Mexican,"2025"\
+369,Masque,Mumbai,India,,World's 50 Best,Indian,"2025"\
+370,Tuju,S\'e3o Paulo,Brazil,,World's 50 Best,Brazilian,"2025"\
+371,Chef Tam's Seasons,Macau,China,,World's 50 Best,Chinese,"2025"\
+372,Mountain,London,UK,,World's 50 Best,British,"2025"\
+373,Cocina Hermanos Torres,Barcelona,Spain,,World's 50 Best,Spanish,"2025"\
+374,Al Gatto Verde,Modena,Italy,,World's 50 Best,Italian,"2025"\
+375,Meet the Bund,Shanghai,China,,World's 50 Best,Chinese,"2025"\
+376,Evvai,S\'e3o Paulo,Brazil,,World's 50 Best,Brazilian,"2025"\
+377,C\'e9sar,New York,USA,,World's 50 Best,French,"2025"\
+378,Amisfield Restaurant,Queenstown,New Zealand,,World's 50 Best,New Zealand,"2025"\
+379,Neolokal,Istanbul,Turkey,,World's 50 Best,Turkish,"2025"\
+380,Txispa,Atxondo,Spain,,World's 50 Best,Spanish,"2025"\
+381,Salsify at the Roundhouse,Cape Town,South Africa,,World's 50 Best,South African,"2025"\
+382,Huniik,M\'e9rida,Mexico,,World's 50 Best,Mexican,"2025"\
+383,Koan,Copenhagen,Denmark,,World's 50 Best,Nordic,"2025"}

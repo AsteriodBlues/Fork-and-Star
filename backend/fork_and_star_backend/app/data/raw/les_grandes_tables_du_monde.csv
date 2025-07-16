@@ -1,0 +1,209 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 No problem! I've updated the "Les Grandes Tables du Monde Restaurants" CSV to include "Les Grandes Tables du Monde Selection" in the 
+\f1\b Award
+\f0\b0  column for all entries.\
+Here's the revised CSV content:\
+\pard\pardeftab720\partightenfactor0
+\cf0 Code snippet\
+\
+ID,Name,City,Country,Award,Source List,Cuisine\
+1,Aqua,Wolfsburg,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+2,Atelier,Munich,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+3,Bareiss,Baiersbronn,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+4,Esszimmer by K\'e4fer,Munich,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+5,G\'e4stehaus Klaus Erfort,Saarbr\'fccken,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+6,Haerlin,Hamburg,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+7,Hirschen,Sulzburg,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+8,Jan,Munich,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+9,Lafleur,Frankfurt,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+10,\'d6sch Noir,Donaueschingen,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+11,Schanz.restaurant.,Piesport,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+12,Schwarzwaldstube HOTEL TRAUBE TONBACH,Baiersbronn,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+13,S\'f6l\'92ring Hof,Rantum,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+14,Tantris Maison Culinaire,Munich,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+15,Tim Raue,Berlin,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+16,Vend\'f4me,Bergisch Gladbach,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+17,Victor\'92s fine dining BY CHRISTIAN BAU,Perl,Germany,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+18,Amador,Vienna,Austria,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+19,D\'f6llerer,Golling an der Salzach,Austria,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+20,Ikarus,Salzburg,Austria,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+21,Landhaus Bacher,Mautern an der Donau,Austria,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+22,Mayer\'92s Restaurant,Loipersdorf bei F\'fcrstenfeld,Austria,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+23,Obauer,Werfen,Austria,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+24,Silvio Nickol GOURMET RESTAURANT,Vienna,Austria,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+25,Steirereck Im Stadtpark,Vienna,Austria,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+26,St\'fcva,Ischgl,Austria,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+27,Boury,Roeselare,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+28,Bozar restaurant,Brussels,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+29,Comme chez soi,Brussels,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+30,D\'92Eug\'e9nie \'e0 \'c9milie,Grand-Bigard,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+31,Hof Van Cleve,Kruisem,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+32,L\'92air du temps,Liernu,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+33,L\'92eau Vive,Profondval,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+34,La Villa Lorraine,Brussels,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+35,Le Chalet de la For\'eat,Brussels,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+36,Menssa,Wemmel,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+37,Nuance,Sint-Katelijne-Waver,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+38,Ralf Berendsen,Lanaken,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+39,Slagmolen,Opglabbeek,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+40,The Jane,Antwerp,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+41,Zilte,Antwerp,Belgium,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+42,J\'e9r\'f4me Ferrer-Europea,Montreal,Canada,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+43,Toqu\'e9 !,Montreal,Canada,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+44,Taian Table,Shanghai,China,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+45,Ultraviolet,Shanghai,China,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+46,Amelia,San Sebasti\'e1n,Spain,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+47,Arzak,San Sebasti\'e1n,Spain,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+48,Coque,Madrid,Spain,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+49,Atelier Crenn,San Francisco,United States,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+50,Atomix,New York,United States,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+51,Daniel,New York,United States,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+52,Eleven Madison Park,New York,United States,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+53,Gabriel Kreuther,New York,United States,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+54,Jean-Georges,New York,United States,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+55,Le Bernardin,New York,United States,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+56,Per Se,New York,United States,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+57,Saison,San Francisco,United States,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+58,Single Thread,Healdsburg,United States,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+59,The French Laundry,Yountville,United States,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+60,The Inn at Little Washington,Washington,United States,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+61,All\'e9no Paris,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+62,Anne de Bretagne,La Plaine-sur-Mer,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+63,Auberge de L\'92Ill,Illhaeusern,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+64,Auberge des Glazicks,Plomodiern,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+65,Auberge des Templiers,Dordives,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+66,Auberge du vieux puits,Fontjoncouse,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+67,Casadelmar,Porto-Vecchio,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+68,Chapeau Rouge,Foug\'e8res,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+69,Ch\'e2teau de Beaulieu,Busnes,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+70,Ch\'e2teau Lafaurie-Peyraguey,Bommes,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+71,Christopher Coutanceau,La Rochelle,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+72,David Toutain,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+73,Domaine Les Cray\'e8res,Reims,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+74,Fleur de Loire,Blois,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+75,Flocons de Sel,Meg\'e8ve,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+76,Georges Blanc parc & spa,Vonnas,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+77,Grand h\'f4tel du Liond d\'92Or,Romorantin-Lanthenay,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+78,Guy Savoy,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+79,Kei,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+80,L\'92assiette champenoise,Tinqueux,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+81,La Bastide Saint-Antoine,Grasse,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+82,La Ch\'e8vre d\'92or,\'c8ze,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+83,La Grenouill\'e8re,La Madelaine-sous-Montreuil,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+84,La Marine,Noirmoutier-en-l'\'cele,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+85,La M\'e8re Brazier,Lyon,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+86,La Merise,Launois-sur-Vence,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+87,La Sc\'e8ne,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+88,La Table d\'92Olivier Nasti,Kaysersberg,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+89,La Table de Pavie,Saint-\'c9milion,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+90,La Tour d\'92Argent,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+91,La Villa Archange,Le Cannet,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+92,Lasserre,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+93,Le 1947 \'e0 Cheval Blanc,Courchevel,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+94,Le Bristol Paris - Epicure,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+95,Le Chabichou,Courchevel,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+96,Le Cinq,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+97,Le Clos des Sens,Annecy,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+98,Le Gabriel,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+99,Le Grand V\'e9four,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+100,Le Jules Verne,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+101,Le Meurice Alain Ducasse,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+102,Le Neuvi\'e8me Art,Lyon,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+103,Le Petit Nice Passedat,Marseille,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+104,Le Pr\'e9 Catelan,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+105,Le Relais Bernard Loiseau,Saulieu,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+106,Le Relais de la Poste,Magescq,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+107,Le Sarkara,Courchevel,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+108,Le Suquet - Bras,Laguiole,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+109,Le Taillevent,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+110,Les Pr\'e9s d\'92Eug\'e9nie,Eug\'e9nie-les-Bains,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+111,Maison Chabran La Grande Table,Pont-de-l'Is\'e8re,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+112,Maison Lameloise,Chagny,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+113,Maison Rostang,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+114,Michel Kayser RESTAURANT ALEXANDRE,Garons,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+115,Michel Sarran,Toulouse,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+116,Michel Trama,Puymirol,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+117,Mirazur,Menton,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+118,Oustau de Baumani\'e8re,Les Baux-de-Provence,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+119,Palais Royal Restaurant,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+120,Paul Bocuse,Collonges-au-Mont-d'Or,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+121,Pic,Valence,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+122,Pierre Gagnaire,Paris,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+123,Racine,Reims,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+124,Villa Ren\'e9 Lalique,Wingen-sur-Moder,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+125,Yoann Conte BORD DU LAC,Veyrier-du-Lac,France,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+126,Spondi,Athens,Greece,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+127,8 1/2 Otto e Mezzo Bombana,Hong Kong,Hong Kong,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+128,Amber,Hong Kong,Hong Kong,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+129,Caprice,Hong Kong,Hong Kong,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+130,Lung King Heen,Hong Kong,Hong Kong,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+131,Mozaic,Ubud,Indonesia,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+132,Antica Corona Reale,Cervere,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+133,Arnolfo,Colle di Val d'Elsa,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+134,Atelier Moessmer NORBERT NIEDERKOFLER,Brunico,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+135,Casa Perbellini 12 Apostoli,Verona,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+136,D\'92O,Cornaredo,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+137,Da Vittorio,Brusaporto,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+138,Dal Pescatore Santini,Canneto sull'Oglio,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+139,Dan\'ed Maison,Ischia,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+140,Don Alfonso 1890,Sant'Agata sui Due Golfi,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+141,Duomo,Ragusa,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+142,Enoteca Pinchiorri,Florence,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+143,Enrico Bartolini,Milan,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+144,Il Luogo Aimo e Nadia,Milan,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+145,Il Pagliaccio,Rome,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+146,L\'92Olivo,Capri,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+147,La Pergola,Rome,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+148,La Torre del Saracino,Vico Equense,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+149,Le Calandre,Rubano,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+150,Madonnina del Pescatore,Senigallia,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+151,Osteria Francescana,Modena,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+152,Piazza Duomo,Alba,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+153,Quadri,Venice,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+154,Quattro Passi,Nerano,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+155,Reale,Castel di Sangro,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+156,Seta,Milan,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+157,Uliassi cucina di mare,Senigallia,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+158,Villa Crespi,Orta San Giulio,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+159,Villa Feltrinelli,Gargnano,Italy,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+160,Ch\'e2teau Restaurant JO\'cbL ROBUCHON,Tokyo,Japan,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+161,La B\'e9casse,Osaka,Japan,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+162,La Tour d\'92Argent,Tokyo,Japan,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+163,S\'e9zanne,Tokyo,Japan,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+164,Ma Langue Sourit,Oetrange,Luxembourg,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+165,Mosconi,Luxembourg,Luxembourg,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+166,La Grande Table Marocaine,Marrakech,Morocco,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+167,Sesamo,Marrakech,Morocco,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+168,Blue Bay,Roquebrune-Cap-Martin,Monaco,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+169,Le Louis XV, Alain Ducasse \'c0 L\'92H\'d4TEL DE PARIS,Monte Carlo,Monaco,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+170,De Groene Lantaarn,Zuidwolde,Netherlands,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+171,De Libr\uc0\u307 e,Zwolle,Netherlands,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+172,Inter Scaldes,Kruiningen,Netherlands,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+173,Ocean,Porches,Portugal,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+174,Alain Ducasse AT THE DORCHESTER,London,United Kingdom,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+175,Andrew Fairlie,Auchterarder,United Kingdom,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+176,Le Manoir aux Quat\'92saisons A BELMOND HOTEL,Oxford,United Kingdom,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+177,Sat Bains,Nottingham,United Kingdom,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+178,The Waterside Inn,Bray,United Kingdom,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+179,Jaan,Singapore,Singapore,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+180,Les Amis,Singapore,Singapore,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+181,Odette,Singapore,Singapore,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+182,Saint Pierre,Singapore,Singapore,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+183,Operak\'e4llaren,Stockholm,Sweden,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+184,Anne-Sophie Pic AU BEAURIVAGE PALACE,Lausanne,Switzerland,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+185,Cheval Blanc by Peter Knogl,Basel,Switzerland,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+186,Domaine de Ch\'e2teauvieux,Satigny,Switzerland,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+187,Focus Atelier,Vitznau,Switzerland,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+188,Restaurant de l\'92H\'f4tel de Ville,Crissier,Switzerland,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+189,Schloss Schauenstein,F\'fcrstenau,Switzerland,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+190,Le Normandie By Alain Roux,Bangkok,Thailand,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+191,S\'fchring,Bangkok,Thailand,Les Grandes Tables du Monde Selection,Les Grandes Tables du Monde,N/A\
+}

@@ -1,0 +1,1381 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ID,Name,City,Country,Award,Source List,Cuisine,Score\
+1,Cheval Blanc by Peter Knogl \'96 Grand H\'f4tel Les Trois Rois,Basel,Switzerland,,La Liste,,99.50\
+2,Guy Savoy,Paris,France,,La Liste,,99.50\
+3,LEnclume - Simon Rogan,Grange-over-Sands,United Kingdom,,La Liste,,99.50\
+4,La Vague d\'92Or - Cheval Blanc St-Tropez,Saint-Tropez,France,,La Liste,,99.50\
+5,Le Bernardin,New York,United States,,La Liste,,99.50\
+6,Lung King Heen - \uc0\u40857 \u26223 \u36713 ,Hong Kong,China,,La Liste,,99.50\
+7,Matsukawa - \uc0\u26494 \u24029 ,Minato-ku,Japan,,La Liste,,99.50\
+8,Schwarzwaldstube,Baiersbronn,Germany,,La Liste,,99.50\
+9,SingleThread,Healdsburg,United States,,La Liste,,99.50\
+10,Atelier Moessmer Norbert Niederkofler,Brunico,Italy,,La Liste,,99.00\
+11,Caprice at the Four Seasons - \uc0\u20013 \u29615 \u22235 \u23395 \u37202 \u24215 ,Hong Kong,China,,La Liste,,99.00\
+12,Da Vittorio,Brusaporto,Italy,,La Liste,,99.00\
+13,LAmbroisie,Paris,France,,La Liste,,99.00\
+14,LAssiette Champenoise,Tinqueux,France,,La Liste,,99.00\
+15,Le Louis XV - Alain Ducasse,Monaco,Monaco,,La Liste,,99.00\
+16,Mart\'edn Berasategui,Lasarte-Oria,Spain,,La Liste,,99.00\
+17,Pl\'e9nitude - Cheval Blanc Paris,Paris,France,,La Liste,,99.00\
+18,R\'e9gis et Jacques Marcon,Saint-Bonnet-le-Froid,France,,La Liste,,99.00\
+19,Robuchon au D\'f4me - \uc0\u22825 \u24034 \u27861 \u22269 \u39184 \u21381 ,Macao,Macau SAR China,,La Liste,,99.00\
+20,Victors Fine Dining by Christian Bau,Perl,Germany,,La Liste,,99.00\
+21,Waldhotel Sonnora,Dreis,Germany,,La Liste,,99.00\
+22,Aqua,Wolfsburg,Germany,,La Liste,,98.50\
+23,Daniel,New York,United States,,La Liste,,98.50\
+24,El Celler de Can Roca,Girona,Spain,,La Liste,,98.50\
+25,Frantz\'e9n,Stockholm,Sweden,,La Liste,,98.50\
+26,Georges Blanc,Vonnas,France,,La Liste,,98.50\
+27,Kei,Paris,France,,La Liste,,98.50\
+28,Le Calandre,Sarmeola di Rubano,Italy,,La Liste,,98.50\
+29,Obauer,Werfen,Austria,,La Liste,,98.50\
+30,Sazenka - \uc0\u33590 \u31109 \u33775 ,Minato-ku,Japan,,La Liste,,98.50\
+31,Sushi Saito - \uc0\u39848 \u12373 \u12356 \u12392 \u12358 ,Minato-ku,Japan,,La Liste,,98.50\
+32,Troisgros - Le Bois sans Feuilles,Ouches,France,,La Liste,,98.50\
+33,Arzak,Donostia,Spain,,La Liste,,98.00\
+34,Azurmendi,Larrabetzu,Spain,,La Liste,,98.00\
+35,Baan Tepa Culinary Space,,Thailand,,La Liste,,98.00\
+36,D\'f6llerers Genie\'dferrestaurant,Golling an der Salzach,Austria,,La Liste,,98.00\
+37,Hoshino - \uc0\u26032 \u12400 \u12375 \u26143 \u37326 ,Minato City,Japan,,La Liste,,98.00\
+38,LArp\'e8ge,Paris,France,,La Liste,,98.00\
+39,LAuberge du Vieux Puits,Fontjoncouse,France,,La Liste,,98.00\
+40,LOsier,Ch\uc0\u363 \u333 -ku,Japan,,La Liste,,98.00\
+41,La Marine,Noirmoutier-en-l\'cele,France,,La Liste,,98.00\
+42,Les Pr\'e9s dEug\'e9nie - Michel Gu\'e9rard,Eug\'e9nie-les-Bains,France,,La Liste,,98.00\
+43,Maison Pic,Valence,France,,La Liste,,98.00\
+44,Mirazur,Menton,France,,La Liste,,98.00\
+45,Odette,Singapore,Singapore,,La Liste,,98.00\
+46,Pavillon Ledoyen - Yannick All\'e9no,Paris,France,,La Liste,,98.00\
+47,Schloss Schauenstein,F\'fcrstenau,Switzerland,,La Liste,,98.00\
+48,St\'fcva,Ischgl,Austria,,La Liste,,98.00\
+49,Auberge du P\'e8re Bise - Jean Sulpice,Talloires-Montmin,France,,La Liste,,97.50\
+50,Bareiss,Baiersbronn,Germany,,La Liste,,97.50\
+51,Boury,Roeselare,Belgium,,La Liste,,97.50\
+52,Core by Clare Smyth,London,United Kingdom,,La Liste,,97.50\
+53,De Librije,Zwolle,Netherlands,,La Liste,,97.50\
+54,DiverXO,Madrid,Spain,,La Liste,,97.50\
+55,Flocons de Sel,Meg\'e8ve,France,,La Liste,,97.50\
+56,Geranium,K\'f8benhavn,Denmark,,La Liste,,97.50\
+57,La Grenouill\'e8re,La Madelaine-sous-Montreuil,France,,La Liste,,97.50\
+58,Hi\'9aa Franko,Kobarid,Slovenia,,La Liste,,97.50\
+59,Iida - \uc0\u39151 \u30000 ,Ky\u333 to-shi,Japan,,La Liste,,97.50\
+60,JAN - Jan Hartwig,M\'fcnchen,Germany,,La Liste,,97.50\
+61,Jordn\'e6r,Gentofte,Denmark,,La Liste,,97.50\
+62,LOusta\'f9 de Baumani\'e8re,Les Baux-de-Provence,France,,La Liste,,97.50\
+63,Le Cinq,Paris,France,,La Liste,,97.50\
+64,Le Gabriel,Paris,France,,La Liste,,97.50\
+65,Le Grand Restaurant - Jean Fran\'e7ois Pi\'e8ge,Paris,France,,La Liste,,97.50\
+66,Le Pr\'e9 Catelan,Paris,France,,La Liste,,97.50\
+67,Les Amis,Singapore,Singapore,,La Liste,,97.50\
+68,Maido,Miraflores,Peru,,La Liste,,97.50\
+69,Ocean - Vila Vita Parc,Porches,Portugal,,La Liste,,97.50\
+70,Piazza Duomo,Alba,Italy,,La Liste,,97.50\
+71,Reale,Castel di Sangro,Italy,,La Liste,,97.50\
+72,Restaurant de lH\'f4tel de Ville,Crissier,Switzerland,,La Liste,,97.50\
+73,Steirereck,Wien,Austria,,La Liste,,97.50\
+74,Sugita - \uc0\u26085 \u26412 \u27211 \u34510 \u27579 \u30010  \u12377 \u12366 \u12383 ,Ch\u363 \u333 -ku,Japan,,La Liste,,97.50\
+75,S\'fchring,,Thailand,,La Liste,,97.50\
+76,Vue de Monde,Melbourne,Australia,,La Liste,,97.50\
+77,Z\'e9n,Singapore,Singapore,,La Liste,,97.50\
+78,A Casa do Porco,S\'e3o Paulo,Brazil,,La Liste,,97.00\
+79,Atelier Crenn,San Francisco,United States,,La Liste,,97.00\
+80,Cocina Hermanos Torres,Barcelona,Spain,,La Liste,,97.00\
+81,Dal Pescatore,Runate,Italy,,La Liste,,97.00\
+82,Jade Dragon - \uc0\u35465 \u29649 \u36713 ,Macao,Macau SAR China,,La Liste,,97.00\
+83,Kitcho Arashiyama - \uc0\u20140 \u37117  \u21513 \u20806  \u23888 \u23665 \u26412 \u24215 ,Kyoto,Japan,,La Liste,,97.00\
+84,LEpicure,Paris,France,,La Liste,,97.00\
+85,L\'92\'e9vo - \uc0\u12524 \u12532 \u12457 ,Nanto,Japan,,La Liste,,97.00\
+86,La Grande Table Marocaine - Royal Mansour,Marrakesh,Morocco,,La Liste,,97.00\
+87,Landhaus Bacher,Mautern an der Donau,Austria,,La Liste,,97.00\
+88,Makimura - \uc0\u12414 \u12365 \u26449 ,Shinagawa-ku,Japan,,La Liste,,97.00\
+89,Memories,Bad Ragaz,Switzerland,,La Liste,,97.00\
+90,Mitani - \uc0\u19977 \u35895 ,Shinjuku-ku,Japan,,La Liste,,97.00\
+91,Oncore by Clare Smyth,Barangaroo,Australia,,La Liste,,97.00\
+92,Osteria Francescana,Modena,Italy,,La Liste,,97.00\
+93,Pierre Gagnaire,Paris,France,,La Liste,,97.00\
+94,Quintonil,Ciudad de M\'e9xico,Mexico,,La Liste,,97.00\
+95,Ricard Camarena,Val\'e8ncia,Spain,,La Liste,,97.00\
+96,Sorn,,Thailand,,La Liste,,97.00\
+97,Sugalabo,Minato-ku,Japan,,La Liste,,97.00\
+98,The French Laundry,Yountville,United States,,La Liste,,97.00\
+99,The Ritz Restaurant,London,United Kingdom,,La Liste,,97.00\
+100,Vila Joya,Albufeira,Portugal,,La Liste,,97.00\
+101,Villa Crespi,Orta San Giulio,Italy,,La Liste,,97.00\
+102,Yanagiya - \uc0\u26611 \u23478 ,Mizunami-shi,Japan,,La Liste,,97.00\
+103,Akelarre,Donostia,Spain,,La Liste,,96.50\
+104,AM par Alexandre Mazzia,Marseille,France,,La Liste,,96.50\
+105,Aoyagi - \uc0\u38738 \u26611 ,Minato-ku,Japan,,La Liste,,96.50\
+106,Atrio,C\'e1ceres,Spain,,La Liste,,96.50\
+107,Belcanto,Lisboa,Portugal,,La Liste,,96.50\
+108,Casa Perbellini - 12 Apostoli,Verona,Italy,,La Liste,,96.50\
+109,Enrico Bartolini - Mudec,Milano,Italy,,La Liste,,96.50\
+110,Hof van Cleve,Kruisem,Belgium,,La Liste,,96.50\
+111,Hubert Wallner,Dellach,Austria,,La Liste,,96.50\
+112,Kanda - \uc0\u12363 \u12435 \u12384 ,Minato City,Japan,,La Liste,,96.50\
+113,La Colombe,Cape Town,South Africa,,La Liste,,96.50\
+114,La Pergola,Roma,Italy,,La Liste,,96.50\
+115,La Table dOlivier Nasti - Le Chambard,Kaysersberg,France,,La Liste,,96.50\
+116,Le 1947 - Cheval Blanc Courchevel,Courchevel,France,,La Liste,,96.50\
+117,Le Clarence,Paris,France,,La Liste,,96.50\
+118,Naruse - \uc0\u25104 \u29983 ,Shizuoka,Japan,,La Liste,,96.50\
+119,Ogata - \uc0\u32210 \u26041 ,Ky\u333 to-shi,Japan,,La Liste,,96.50\
+120,Park Hyatt Hangzhou YueXuan Chinese Restaurant - \uc0\u26477 \u24030 \u26575 \u24742 \u37202 \u24215 \'b7\u24742 \u36713 \u20013 \u39184 \u21381 ,\u26477 \u24030 \u24066 ,China,,La Liste,,96.50\
+121,Quattro Passi,Nerano,Italy,,La Liste,,96.50\
+122,Quintessence - \uc0\u12459 \u12531 \u12486 \u12469 \u12531 \u12473 ,Shinagawa-ku,Japan,,La Liste,,96.50\
+123,Quique Dacosta,D\'e9nia,Spain,,La Liste,,96.50\
+124,Ryugin - \uc0\u26085 \u26412 \u26009 \u29702  \u40845 \u21535 ,Chiyoda-ku,Japan,,La Liste,,96.50\
+125,Taubenkobel,Sch\'fctzen am Gebirge,Austria,,La Liste,,96.50\
+126,The Inn at Little Washington,Washington,United States,,La Liste,,96.50\
+127,Uliassi,Senigallia,Italy,,La Liste,,96.50\
+128,Yong Fu - \uc0\u29996 \u24220  (\u34425 \u21475 ),Shanghai,China,,La Liste,,96.50\
+129,Alchemist,K\'f8benhavn,Denmark,,La Liste,,96.00\
+130,Amber - \uc0\u29733 \u29632 \u39184 \u21381 ,Hongkong,China,,La Liste,,96.00\
+131,Aponiente,El Puerto de Santa Mar\'eda,Spain,,La Liste,,96.00\
+132,Atomix,New York,United States,,La Liste,,96.00\
+133,Attica,Ripponlea,Australia,,La Liste,,96.00\
+134,Auberge de lIll,Illhaeusern,France,,La Liste,,96.00\
+135,Chaoshan Taste Zhuhai,Shantou Shi,China,,La Liste,,96.00\
+136,Christophe Hay - Fleur de Loire,Blois,France,,La Liste,,96.00\
+137,Coque,Madrid,Spain,,La Liste,,96.00\
+138,Disfrutar,Barcelona,Spain,,La Liste,,96.00\
+139,Howards Gourmet - \uc0\u22909 \u37202 \u22909 \u34081 ,,China,,La Liste,,96.00\
+140,Ikarus,Salzburg,Austria,,La Liste,,96.00\
+141,Iv\'e1n Cerde\'f1o,Toledo,Spain,,La Liste,,96.00\
+142,Jo\'ebl Robuchon (USA),Las Vegas,United States,,La Liste,,96.00\
+143,Kataori - \uc0\u29255 \u25240 ,Kanazawa,Japan,,La Liste,,96.00\
+144,La M\'e8re Brazier,Lyon,France,,La Liste,,96.00\
+145,La Yeon - The Shilla - \uc0\u46972 \u50672 ,,South Korea,,La Liste,,96.00\
+146,Lido 84,Gardone Riviera,Italy,,La Liste,,96.00\
+147,Mekumi - \uc0\u12377 \u12375 \u20966  \u12417 \u12367 \u12415 ,\u37326 \u12293 \u24066 \u24066 ,Japan,,La Liste,,96.00\
+148,Mingles - \uc0\u48141 \u44544 \u49828 ,Gangnam-gu,South Korea,,La Liste,,96.00\
+149,Pujol,Ciudad de M\'e9xico,Mexico,,La Liste,,96.00\
+150,Saison,San Francisco,United States,,La Liste,,96.00\
+151,Takiya - \uc0\u12383 \u12365 \u12420 ,Minato-ku,Japan,,La Liste,,96.00\
+152,The Jane,Antwerpen,Belgium,,La Liste,,96.00\
+153,Vend\'f4me,Bergisch Gladbach,Germany,,La Liste,,96.00\
+154,Xin Rong Ji Taizhou (Ling Hu ) - \uc0\u26032 \u33635 \u35760 (\u28789 \u28246 \u24215 ),Taizhou Shi,China,,La Liste,,96.00\
+155,Ynyshir,Powys,United Kingdom,,La Liste,,96.00\
+156,Addison,San Diego,United States,,La Liste,,95.50\
+157,Alo,Toronto,Canada,,La Liste,,95.50\
+158,Benu,San Francisco,United States,,La Liste,,95.50\
+159,Castel Fine Dining,Tirolo,Italy,,La Liste,,95.50\
+160,Cenador de Am\'f3s,Villaverde de Pontones,Spain,,La Liste,,95.50\
+161,C\'f4te by Mauro Colagreco,Bangkok,Thailand,,La Liste,,95.50\
+162,Da Vittorio Shanghai,,China,,La Liste,,95.50\
+163,Edulis,Toronto,Canada,,La Liste,,95.50\
+164,Harbor House Inn,Elk,United States,,La Liste,,95.50\
+165,La Brezza - H\'f4tel Eden Roc,Ascona,Switzerland,,La Liste,,95.50\
+166,Lasarte,Barcelona,Spain,,La Liste,,95.50\
+167,Man\'ed,,Brazil,,La Liste,,95.50\
+168,Moor Hall,Ormskirk,United Kingdom,,La Liste,,95.50\
+169,Silvio Nickol im Palais Coburg,Wien,Austria,,La Liste,,95.50\
+170,Smyth,Chicago,United States,,La Liste,,95.50\
+171,Tantris,M\'fcnchen,Germany,,La Liste,,95.50\
+172,The Table,Hamburg,Germany,,La Liste,,95.50\
+173,Tim Raue,Berlin,Germany,,La Liste,,95.50\
+174,\uc0\u32043 \u22806 \u32447 \u39184 \u21381  - Ultraviolet,Shanghai,China,,La Liste,,95.50\
+175,ABaC,Barcelona,Spain,,La Liste,,95.00\
+176,Alain Ducasse at The Dorchester,London,United Kingdom,,La Liste,,95.00\
+177,Alinea,Chicago,United States,,La Liste,,95.00\
+178,Amador,Wien,Austria,,La Liste,,95.00\
+179,Belmond - Le Manoir aux QuatSaisons,Oxford,United Kingdom,,La Liste,,95.00\
+180,Die Forelle,Techendorf,Austria,,La Liste,,95.00\
+181,ES:SENZ,Grassau,Germany,,La Liste,,95.00\
+182,Gaggan Anand,,Thailand,,La Liste,,95.00\
+183,G\'e4stehaus Klaus Erfort,Saarbr\'fccken,Germany,,La Liste,,95.00\
+184,Guy Savoy (USA),Las Vegas,United States,,La Liste,,95.00\
+185,Indian Accent,New Delhi,India,,La Liste,,95.00\
+186,Jean-Georges,New York,United States,,La Liste,,95.00\
+187,Jo\'ebl Robuchon,Meguro-ku,Japan,,La Liste,,95.00\
+188,Kadeau,K\'f8benhavn,Denmark,,La Liste,,95.00\
+189,Koks - Ilimanaq Lodge,Ilulissat,Greenland,,La Liste,,95.00\
+190,La Villa Madie,Cassis,France,,La Liste,,95.00\
+191,Le Clos des Sens,Annecy,France,,La Liste,,95.00\
+192,Paco Roncero,Madrid,Spain,,La Liste,,95.00\
+193,Seafood House - Park Hyatt Ningbo Resort and Spa,Ningbo Shi,China,,La Liste,,95.00\
+194,Turk Fatih Tutak,,Turkey,,La Liste,,95.00\
+195,Twins Garden,Moskva,Russia,,La Liste,,95.00\
+196,\uc0\u12475 \u12470 \u12531  - S\'e9zanne,\u21315 \u20195 \u30000 \u21306 ,Japan,,La Liste,,95.00\
+197,\uc0\u39848  \u12354 \u12425 \u12356  - Sushi Arai,Ch\u363 \u333 -ku,Japan,,La Liste,,95.00\
+198,8 1/2 Otto e Mezzo Bombana,Hongkong,China,,La Liste,,94.50\
+199,BonAmb,X\'e0bia,Spain,,La Liste,,94.50\
+200,Borag\'f3,Vitacura,Chile,,La Liste,,94.50\
+201,Casa Marcial,Arriondas,Parres,Spain,,La Liste,,94.50\
+202,Elkano,Getaria,Spain,,La Liste,,94.50\
+203,Est - Four Seasons Hotel Tokyo at Otemachi,Chiyoda City,Japan,,La Liste,,94.50\
+204,Evvai,S\'e3o Paulo,Brazil,,La Liste,,94.50\
+205,Facil,Berlin,Germany,,La Liste,,94.50\
+206,H\'e9l\'e8ne Darroze at The Connaught,London,United Kingdom,,La Liste,,94.50\
+207,Il Pagliaccio,Roma,Italy,,La Liste,,94.50\
+208,Jungsik,New York,United States,,La Liste,,94.50\
+209,LAuberge des Glazicks,Plomodiern,France,,La Liste,,94.50\
+210,La Caba\'f1a Buenavista,El Palmar O Lugar De Don Juan,Spain,,La Liste,,94.50\
+211,Lameloise,Chagny,France,,La Liste,,94.50\
+212,Le Parc - Les Cray\'e8res,Reims,France,,La Liste,,94.50\
+213,Le Suquet - Maison Bras,Laguiole,France,,La Liste,,94.50\
+214,Les Cols,Olot,Spain,,La Liste,,94.50\
+215,Maaemo,Oslo,Norway,,La Liste,,94.50\
+216,Madonnina del Pescatore,Senigallia,Italy,,La Liste,,94.50\
+217,M\'e9rito,Barranco,Peru,,La Liste,,94.50\
+218,Miramar,Llan\'e7\'e0,Girona,Spain,,La Liste,,94.50\
+219,Quay,The Rocks,Australia,,La Liste,,94.50\
+220,Saint Pierre,Singapore,Singapore,,La Liste,,94.50\
+221,Table - Bruno Verjus,Paris,France,,La Liste,,94.50\
+222,\uc0\u12495 \u12472 \u12513  - Hajime,\u332 saka-shi,Japan,,La Liste,,94.50\
+223,\uc0\u20659  - Den,Shibuya City,Japan,,La Liste,,94.50\
+224,\uc0\u26032 \u33635 \u35760  (\u26032 \u28304 \u21335 \u36335 ) - Xin RongJi (Xinyuan South Road),,China,,La Liste,,94.50\
+225,\uc0\u26085 \u26412 \u26009 \u29702  \u26228 \u23665  - Seizan,Minato-ku,Japan,,La Liste,,94.50\
+226,\uc0\u33738 \u20035 \u20117  \u26412 \u24215  \u65288 \u33738 \u12398 \u20117 \u65289 - Kikunoi Honten,Ky\u333 to-shi,Japan,,La Liste,,94.50\
+227,\uc0\u39848  \u12394 \u12435 \u12400  \u26085 \u27604 \u35895  -Sushi Namba,Chiyoda City,Japan,,La Liste,,94.50\
+228,Alcalde,Guadalajara,Mexico,,La Liste,,94.00\
+229,Alexandre,Garons,France,,La Liste,,94.00\
+230,Antica Corona Reale,Cervere,Italy,,La Liste,,94.00\
+231,AOC,K\'f8benhavn,Denmark,,La Liste,,94.00\
+232,Asador Etxebarri,Apatamonasterio,Spain,,La Liste,,94.00\
+233,Bootshaus,Traunkirchen,Austria,,La Liste,,94.00\
+234,Burnt Ends,Singapore,Singapore,,La Liste,,94.00\
+235,Christopher Coutanceau,La Rochelle,France,,La Liste,,94.00\
+236,Courtier - Weissenhaus Grand Village Resort und Spa,Wangels,Germany,,La Liste,,94.00\
+237,Dan\'ec Maison,Ischia,Italy,,La Liste,,94.00\
+238,Ha - Hotel Xcaret,Playa del Carmen,Mexico,,La Liste,,94.00\
+239,LEnvol,,Hong Kong SAR China,,La Liste,,94.00\
+240,LEscaleta,Cocentaina,Spain,,La Liste,,94.00\
+241,La Ch\'e8vre dOr,\'c8ze,France,,La Liste,,94.00\
+242,La Table de Yoann Conte,Veyrier-du-Lac,France,,La Liste,,94.00\
+243,Le Chalet de la For\'eat,Bruxelles,Belgium,,La Liste,,94.00\
+244,Le Chique,Canc\'fan,Mexico,,La Liste,,94.00\
+245,Le Petit Nice,Marseille,France,,La Liste,,94.00\
+246,Maralba,Almansa,Spain,,La Liste,,94.00\
+247,Milka,Kranjska Gora,Slovenia,,La Liste,,94.00\
+248,Rote Wand Chefs Table - Schualhus,Lech,Austria,,La Liste,,94.00\
+249,schanz. restaurant.,Piesport,Germany,,La Liste,,94.00\
+250,Stucki - Tanja Grandits,Basel,Switzerland,,La Liste,,94.00\
+251,The Restaurant,Z\'fcrich,Switzerland,,La Liste,,94.00\
+252,Tr\'e8sind Studio,\uc0\u1583 \u1576 \u1610 ,United Arab Emirates,,La Liste,,94.00\
+253,\uc0\u24577 \u33454  Tairroir,,Taiwan,,La Liste,,94.00\
+254,\uc0\u26053  Ta Vie,,Hong Kong SAR China,,La Liste,,94.00\
+255,\uc0\u29922 \u20141  \u26412 \u24215  - Hyo-tei,Ky\u333 to-shi,Japan,,La Liste,,94.00\
+256,\uc0\u31047 \u22290  \u12373 \u12445 \u26408  - Gion Sasaki,Ky\u333 to-shi,Japan,,La Liste,,94.00\
+257,\uc0\u37504 \u24231  \u23567 \u21313  - Ginza Kojyu,Ch\u363 \u333 -ku,Japan,,La Liste,,94.00\
+258,212,Amsterdam,Netherlands,,La Liste,,93.50\
+259,Am Pfarrhof,Sankt Andr\'e4 im Sausal,Austria,,La Liste,,93.50\
+260,Blue Hill at Stone Barns,Tarrytown,United States,,La Liste,,93.50\
+261,Chefs Warehouse Beau Constantia,Cape Town,South Africa,,La Liste,,93.50\
+262,Ciccio Sultano Duomo,Ragusa,Italy,,La Liste,,93.50\
+263,Ciel Bleu,Amsterdam,Netherlands,,La Liste,,93.50\
+264,Enoteca Pinchiorri,Firenze,Italy,,La Liste,,93.50\
+265,Floril\'e8ge,Shibuya City,Japan,,La Liste,,93.50\
+266,Frederiksh\'f8j,Aarhus,Denmark,,La Liste,,93.50\
+267,Fyn,Cape Town,South Africa,,La Liste,,93.50\
+268,Hertog Jan at Botanic Antwerp,Antwerpen,Belgium,,La Liste,,93.50\
+269,LEau Vive,Profondeville,Belgium,,La Liste,,93.50\
+270,LEffervescence,Minato-ku,Japan,,La Liste,,93.50\
+271,La Petite Colombe,Franschhoek,South Africa,,La Liste,,93.50\
+272,Le Chabichou par St\'e9phane Buron,Saint-Bon-Tarentaise,France,,La Liste,,93.50\
+273,Mraz & Sohn,Wien,Austria,,La Liste,,93.50\
+274,Octavium,,Hong Kong SAR China,,La Liste,,93.50\
+275,Ossiano,Dubai,United Arab Emirates,,La Liste,,93.50\
+276,Rutz,Berlin,Germany,,La Liste,,93.50\
+277,Slagmolen,Opglabbeek,Belgium,,La Liste,,93.50\
+278,The Clove Club,London,United Kingdom,,La Liste,,93.50\
+279,The Fat Duck,Bray,United Kingdom,,La Liste,,93.50\
+280,Tribeca,Heeze,Netherlands,,La Liste,,93.50\
+281,Victoria & Alberts,Orlando,United States,,La Liste,,93.50\
+282,Zilte,Antwerpen,Belgium,,La Liste,,93.50\
+283,\uc0\u51221 \u49885 \u45817  - Jungsik,Seoul,South Korea,,La Liste,,93.50\
+284,\uc0\u12503 \u12524 \u12476 \u12531 \u12486  \u12473 \u12462  - Presente Sugi,Sakura,Japan,,La Liste,,93.50\
+285,\uc0\u20052 \u23572 \'b7\u21346 \u24067 \u26494 \u32654 \u39135 \u22346  - L Atelier de Jo\'ebl Robuchon,Hong Kong,Hong Kong SAR China,,La Liste,,93.50\
+286,\uc0\u37504 \u24231  \u12375 \u12398 \u12399 \u12425  - Ginza Shinohara,Ch\u363 \u333 -ku,Japan,,La Liste,,93.50\
+287,AIRA,Stockholm,Sweden,,La Liste,,93.00\
+288,Botanic,Adelaide,Australia,,La Liste,,93.00\
+289,Brae,Birregurra,Australia,,La Liste,,93.00\
+290,D.O.M,S\'e3o Paulo,Brazil,,La Liste,,93.00\
+291,Ecco Ascona,Ascona,Switzerland,,La Liste,,93.00\
+292,El Chato,Bogot\'e1,Colombia,,La Liste,,93.00\
+293,Esquisse,Ch\uc0\u363 \u333 -ku,Japan,,La Liste,,93.00\
+294,Gabriel Kreuther,New York,United States,,La Liste,,93.00\
+295,Gordon Ramsay,London,United Kingdom,,La Liste,,93.00\
+296,Haerlin,Hamburg,Germany,,La Liste,,93.00\
+297,La C\'f4te St-Jacques,Joigny,France,,La Liste,,93.00\
+298,La Peca,Lonigo,Italy,,La Liste,,93.00\
+299,La Table de Pavie,Saint-\'c9milion,France,,La Liste,,93.00\
+300,La Villa Lorraine by Yves Mattagne,Bruxelles,Belgium,,La Liste,,93.00\
+301,Le Meurice - Alain Ducasse,Paris,France,,La Liste,,93.00\
+302,Maison Wenger,Le Noirmont,Switzerland,,La Liste,,93.00\
+303,Narisawa,Minato-ku,Japan,,La Liste,,93.00\
+304,SENNS,Salzburg,Austria,,La Liste,,93.00\
+305,\uc0\u12521  \u12471 \u12540 \u12512  - La Cime,Osaka,Japan,,La Liste,,93.00\
+306,\uc0\u27704 \u21033 \u23470  - Wing Lei Palace,,Macau SAR China,,La Liste,,93.00\
+307,\uc0\u28201 \u30707 - Onjaku,Yaizu,Japan,,La Liste,,93.00\
+308,Brut 172 by Hans van Wolde,Reijmerstok,Netherlands,,La Liste,,92.50\
+309,Can Jubany,Calldetenes,Spain,,La Liste,,92.50\
+310,Castor,Waregem,Belgium,,La Liste,,92.50\
+311,Central,Barranco,Peru,,La Liste,,92.50\
+312,DO,San Pietro allOlmo,Cornaredo,Italy,,La Liste,,92.50\
+313,De Groene Lantaarn,Staphorst,Netherlands,,La Liste,,92.50\
+314,De Jonkman,Brugge,Belgium,,La Liste,,92.50\
+315,De Kromme Watergang,Hoofdplaat,Netherlands,,La Liste,,92.50\
+316,De Lindehof - Soenil Bahadoer,Nuenen,Netherlands,,La Liste,,92.50\
+317,Ever,Chicago,United States,,La Liste,,92.50\
+318,Hakuba,Paris,France,,La Liste,,92.50\
+319,JAAN by Kirk Westaway,Singapore,Singapore,,La Liste,,92.50\
+320,La Brezza Arosa,Arosa,Switzerland,,La Liste,,92.50\
+321,La Dur\'e9e,Izegem,Belgium,,La Liste,,92.50\
+322,Lafleur,Frankfurt am Main,Germany,,La Liste,,92.50\
+323,Lai Ching Heen (Yan Toh Heen),,Hong Kong SAR China,,La Liste,,92.50\
+324,Locavore NXT,,Indonesia,,La Liste,,92.50\
+325,Nuance,Duffel,Belgium,,La Liste,,92.50\
+326,Oriole,Chicago,United States,,La Liste,,92.50\
+327,Patrick Guilbaud,Dublin 2,Ireland,,La Liste,,92.50\
+328,Paznaunerstube,Ischgl,Austria,,La Liste,,92.50\
+329,Per Se,New York,United States,,La Liste,,92.50\
+330,Seta,Milano,Italy,,La Liste,,92.50\
+331,Sushi Kanesaka,London,United Kingdom,,La Liste,,92.50\
+332,Taillevent,Paris,France,,La Liste,,92.50\
+333,The Yeatman,Vila Nova de Gaia,Portugal,,La Liste,,92.50\
+334,Vrijmoed,Gent,Belgium,,La Liste,,92.50\
+335,Waterside Inn,Maidenhead,United Kingdom,,La Liste,,92.50\
+336,\uc0\u26481 \u40635 \u24067  \u22825 \u26412  - Amamoto,Minato-ku,Japan,,La Liste,,92.50\
+337,\uc0\u26575 \u23627  \u22823 \u38442 \u21315 \u37324 \u23665  - Kashiwaya,Suita-shi,Japan,,La Liste,,92.50\
+338,\uc0\u29694 \u20195 \u26032 \u21152 \u22369 \u26009 \u29702  JL Studio,,Taiwan,,La Liste,,92.50\
+339,\uc0\u31070 \u27005 \u22338  \u30707 \u12363 \u12431  - Kagurazaka Ishikawa,Shinjuku-ku,Japan,,La Liste,,92.50\
+340,\uc0\u31119 \u21644 \u24935  Fu He Hui,,China,,La Liste,,92.50\
+341,\uc0\u40635 \u24067  \u12363 \u12393 \u12431 \u12365  - Azabu Kadowaki,Minato-ku,Japan,,La Liste,,92.50\
+342,Arnolfo,Colle di Val dElsa,Italy,,La Liste,,92.00\
+343,Artest,Moskva,Russia,,La Liste,,92.00\
+344,Atera,New York,United States,,La Liste,,92.00\
+345,Casa Vissani,Baschi,Italy,,La Liste,,92.00\
+346,DEug\'e9nie \'e0 Emilie - Eric Fernez,Saint-Ghislain,Belgium,,La Liste,,92.00\
+347,De Lindenhof,Giethoorn,Netherlands,,La Liste,,92.00\
+348,Del Cambio,Torino,Italy,,La Liste,,92.00\
+349,EssZimmer (DE),M\'fcnchen,Germany,,La Liste,,92.00\
+350,Guzina Oaxaca,Ciudad de M\'e9xico,Mexico,,La Liste,,92.00\
+351,Henne Kirkeby Kro,Henne,Denmark,,La Liste,,92.00\
+352,Il Piccolo Principe,Viareggio,Italy,,La Liste,,92.00\
+353,J\'f4nt,Washington,United States,,La Liste,,92.00\
+354,Konstantin Filippou,Wien,Austria,,La Liste,,92.00\
+355,La Pyramide,Vienne,France,,La Liste,,92.00\
+356,La Table du Castellet,Le Castellet,France,,La Liste,,92.00\
+357,Le Du,Bangkok,Thailand,,La Liste,,92.00\
+358,Leo,Bogot\'e1,Colombia,,La Liste,,92.00\
+359,Lympstone Manor,Exmouth,United Kingdom,,La Liste,,92.00\
+360,Mandarin Grill + Bar,,Hong Kong SAR China,,La Liste,,92.00\
+361,Mayta,Miraflores,Peru,,La Liste,,92.00\
+362,Midsummer House,Cambridge,United Kingdom,,La Liste,,92.00\
+363,minibar by Jos\'e9 Andres,Washington,United States,,La Liste,,92.00\
+364,Oteque,,Brazil,,La Liste,,92.00\
+365,Ralf Berendsen,Lanaken,Belgium,,La Liste,,92.00\
+366,Spectrum (Librijes Zusje),Amsterdam,Netherlands,,La Liste,,92.00\
+367,Tatiana by Kwame Onwuachi,New York,United States,,La Liste,,92.00\
+368,The Glenturret Lalique,Crieff,United Kingdom,,La Liste,,92.00\
+369,Torre del Saracino,Vico Equense,Italy,,La Liste,,92.00\
+370,\uc0\u12450 \u12459  - Ac\'e1 1\'b0,Chuo City,Japan,,La Liste,,92.00\
+371,\uc0\u21776 \u38401  - Tang Court,Hong Kong,Hong Kong SAR China,,La Liste,,92.00\
+372,\uc0\u22825 \u12407 \u12425  \u26494  - Tempura Matsu,Ky\u333 to-shi,Japan,,La Liste,,92.00\
+373,\uc0\u22826 \u24245  - Taian,\u332 saka-shi,Japan,,La Liste,,92.00\
+374,\uc0\u26410 \u22312  - Mizai,Ky\u333 to-shi,Japan,,La Liste,,92.00\
+375,\uc0\u35299 \u39321 \u27004  - Jiexianglou at Seven Villas Hangzhou,Hangzhou Shi,China,,La Liste,,92.00\
+376,\uc0\u37504 \u24231  \u20037 \u20853 \u34907  \u37504 \u24231 \u26412 \u24215  - Ginza Kyubey,Ch\u363 \u333 -ku,Japan,,La Liste,,92.00\
+377,Alkimia,Barcelona,Spain,,La Liste,,91.50\
+378,Aquavit,New York,United States,,La Liste,,91.50\
+379,Brooklands by Claude Bosi,London,United Kingdom,,La Liste,,91.50\
+380,Culler de Pau,O Grove,Spain,,La Liste,,91.50\
+381,De Bokkedoorns,Overveen,Netherlands,,La Liste,,91.50\
+382,Fasano,S\'e3o Paulo,Brazil,,La Liste,,91.50\
+383,Fred,Rotterdam,Netherlands,,La Liste,,91.50\
+384,Ikigai,Kr\'fcn,Germany,,La Liste,,91.50\
+385,Kr\'e8sios,Telese,Italy,,La Liste,,91.50\
+386,Le Cap au Grand-H\'f4tel du Cap-Ferrat,Saint-Jean-Cap-Ferrat,France,,La Liste,,91.50\
+387,Obendorfers Eisvogel,Neunburg vorm Wald,Germany,,La Liste,,91.50\
+388,Paul Bocuse - LAuberge du Pont de Collonges,Collonges-au-Mont-dOr,France,,La Liste,,91.50\
+389,R\'e0mon Freixa Madrid,Madrid,Spain,,La Liste,,91.50\
+390,\uc0\u1057 \u1040 \u1042 \u1042 \u1040  - Savva - Hotel Metropol,Moskva,Russia,,La Liste,,91.50\
+391,\uc0\u27704 \u21033 \u36713  - Wing Lei at Wynn Macau,Macau,Macau SAR China,,La Liste,,91.50\
+392,\uc0\u27888 \u23433 \u38376  - Taian Table,,China,,La Liste,,91.50\
+393,t Nonnetje,Harderwijk,Netherlands,,La Liste,,91.00\
+394,Agli Amici dal 1887,Udine,Italy,,La Liste,,91.00\
+395,Bak\'e9a,Ciudad de M\'e9xico,Mexico,,La Liste,,91.00\
+396,Casadelmar,Porto-Vecchio,France,,La Liste,,91.00\
+397,Da Vittorio - H\'f4tel Carlton,Sankt Moritz,Switzerland,,La Liste,,91.00\
+398,Des Trois Tours,Bourguillon,Switzerland,,La Liste,,91.00\
+399,Domaine de Ch\'e2teauvieux,Satigny,Switzerland,,La Liste,,91.00\
+400,Ecco St Moritz,Silvaplana,Switzerland,,La Liste,,91.00\
+401,El Portal de Echaurren,Ezcaray,Spain,,La Liste,,91.00\
+402,Feitoria,Lisboa,Portugal,,La Liste,,91.00\
+403,George,Napoli,Italy,,La Liste,,91.00\
+404,Geschwister Rauch - Steira Wirt,Bad Gleichenberg,Austria,,La Liste,,91.00\
+405,Griggeler Stuba,Lech,Austria,,La Liste,,91.00\
+406,Idam - An Alain Ducasse Restaurant,Doha,Qatar,,La Liste,,91.00\
+407,Imperial Court - MGM Macau,,Macau SAR China,,La Liste,,91.00\
+408,Inter Scaldes,Kruiningen,Netherlands,,La Liste,,91.00\
+409,LAbysse - Pavillon Ledoyen,Paris,France,,La Liste,,91.00\
+410,LOlivo,Anacapri,Italy,,La Liste,,91.00\
+411,La C\'f4te d\'92Or - Le Relais Bernard Loiseau,Saulieu,France,,La Liste,,91.00\
+412,La Grande Table Marocaine - Royal Mansour Casablanca,Casablanca,Morocco,,La Liste,,91.00\
+413,Le Coquillage - Ch\'e2teau Richeux,Saint-M\'e9loir-des-Ondes,France,,La Liste,,91.00\
+414,Le Pavillon,Bad Peterstal-Griesbach,Germany,,La Liste,,91.00\
+415,Ma langue sourit,Moutfort,Luxembourg,,La Liste,,91.00\
+416,Melisse,Santa Monica,United States,,La Liste,,91.00\
+417,Ois im M\'fchltalhof,Unternberg,Austria,,La Liste,,91.00\
+418,Parkheuvel,Rotterdam,Netherlands,,La Liste,,91.00\
+419,Steinheuers Restaurant Zur Alten Post,Bad Neuenahr-Ahrweiler,Germany,,La Liste,,91.00\
+420,Terra,Sarentino,Italy,,La Liste,,91.00\
+421,The Araki,London,United Kingdom,,La Liste,,91.00\
+422,V\'eda Veneto,Barcelona,Spain,,La Liste,,91.00\
+423,Villa Ren\'e9 Lalique,Wingen-sur-Moder,France,,La Liste,,91.00\
+424,Vollmers,Malm\'f6,Sweden,,La Liste,,91.00\
+425,\uc0\u21531 \u21697 \u37202 \u24215 - \u38948 \u23470 \u20013 \u39184 \u24307  - Le Palais,Taipei,China,,La Liste,,91.00\
+426,\uc0\u28595 \u38376 8\u39184 \u21381  - The Eight,Macau,China,,La Liste,,91.00\
+427,\uc0\u29605 \u40845 \u36562  - Pearl Dragon,Macau,Macau SAR China,,La Liste,,91.00\
+428,\uc0\u35199 \u23376 \u28246 \u22235 \u23395 \u37202 \u24215 \u37329 \u27801 \u21381  - Jin Sha at Four Seasons Hotel Hangzhou,Hangzhou Shi,China,,La Liste,,91.00\
+429,\uc0\u38706 \u24245  \u33738 \u20035 \u20117  \u26408 \u23627 \u30010 \u24215  - Kikunoi Roan,Ky\u333 to-shi,Japan,,La Liste,,91.00\
+430,Aan de Poel,Amstelveen,Netherlands,,La Liste,,90.50\
+431,Andrea Aprea,Milano,Italy,,La Liste,,90.50\
+432,Blue by Eric Ripert,George Town,Cayman Islands,,La Liste,,90.50\
+433,Da Caino,Montemerano,Manciano,Italy,,La Liste,,90.50\
+434,DSTAGE,Madrid,Spain,,La Liste,,90.50\
+435,El Rinc\'f3n de Juan Carlos,Acantilados de Los Gigantes,Spain,,La Liste,,90.50\
+436,Koloman,New York,United States,,La Liste,,90.50\
+437,La Madia,Licata,Italy,,La Liste,,90.50\
+438,La Table de Maxime,Paliseul,Belgium,,La Liste,,90.50\
+439,Neolokal,Istanbul,Turkey,,La Liste,,90.50\
+440,Pineapple and Pearls,Washington,United States,,La Liste,,90.50\
+441,POTONG,,Thailand,,La Liste,,90.50\
+442,Pur - Jean-Fran\'e7ois Rouquette,Paris,France,,La Liste,,90.50\
+443,Ricardo Sanz Wellington,Madrid,Spain,,La Liste,,90.50\
+444,Sat Bains,Nottingham,United Kingdom,,La Liste,,90.50\
+445,Story,London,United Kingdom,,La Liste,,90.50\
+446,The Modern,New York,United States,,La Liste,,90.50\
+447,Tohru in der Schreiberei,M\'fcnchen,Germany,,La Liste,,90.50\
+448,Woven by Adam Smith,Ascot,United Kingdom,,La Liste,,90.50\
+449,\uc0\u12367 \u12429 \u12366  - Kurogi,Minato City,Japan,,La Liste,,90.50\
+450,\uc0\u12505 \u12540 \u12472 \u12517  \u12450 \u12521 \u12531 \u12539 \u12487 \u12517 \u12459 \u12473  \u26481 \u20140  - Beige - Alain Ducasse,Ch\u363 \u333 -ku,Japan,,La Liste,,90.50\
+451,\uc0\u26009 \u29702 \u23627  \u26893 \u12416 \u12425  - Uemura,K\u333 be-shi,Japan,,La Liste,,90.50\
+452,\uc0\u28516  - R\'f9n,,Hong Kong SAR China,,La Liste,,90.50\
+453,\uc0\u34382 \u30333  - Kohaku,Shinjuku City,Japan,,La Liste,,90.50\
+454,\uc0\u38738 \u31354  - Harutaka,Ch\u363 \u333 -ku,Japan,,La Liste,,90.50\
+455,\uc0\u39848  \u12424 \u12375 \u12383 \u12369  - Sushi Yoshitake,Ch\u363 \u333 -ku,Japan,,La Liste,,90.50\
+456,[aend],Wien,Austria,,La Liste,,90.00\
+457,180 Degrees,Tallinn,Estonia,,La Liste,,90.00\
+458,Antica Osteria da Cera,Lughetto,Italy,,La Liste,,90.00\
+459,Bartholomeus,Knokke-Heist,Belgium,,La Liste,,90.00\
+460,Bianc,Hamburg,Germany,,La Liste,,90.00\
+461,Chapter One by Mickael Viljanen,Dublin 1,Ireland,,La Liste,,90.00\
+462,Comal at Chileno Bay Resort & Residences,Cabo San Lucas,Mexico,,La Liste,,90.00\
+463,Cornus,London,United Kingdom,,La Liste,,90.00\
+464,Corral de la Morer\'eda,Madrid,Spain,,La Liste,,90.00\
+465,Cuchara,Lommel,Belgium,,La Liste,,90.00\
+466,DAM,Nova Gorica,Slovenia,,La Liste,,90.00\
+467,Dusk,Stellenbosch,South Africa,,La Liste,,90.00\
+468,Glam Enrico Bartolini,Venezia,Italy,,La Liste,,90.00\
+469,Gostilna pri Lojzetu - Dvorec Zemono,Vipava,Slovenia,,La Liste,,90.00\
+470,Kol,London,United Kingdom,,La Liste,,90.00\
+471,Lalique,Bommes,France,,La Liste,,90.00\
+472,Maca de Castro,Alc\'fadia,Spain,,La Liste,,90.00\
+473,Manta at The Cape,Cabo San Lucas,Mexico,,La Liste,,90.00\
+474,Meierei Dirk Luther,Gl\'fccksburg (Ostsee),Germany,,La Liste,,90.00\
+475,Miramonti lAltro,Concesio,Italy,,La Liste,,90.00\
+476,Piccolo Lago,Verbania,Italy,,La Liste,,90.00\
+477,Pierre Gagnaire (JP),Minato-ku,Japan,,La Liste,,90.00\
+478,Quince,San Francisco,United States,,La Liste,,90.00\
+479,Rafael,Miraflores,Peru,,La Liste,,90.00\
+480,S\'f8ller\'f8d Kro,Holte,Denmark,,La Liste,,90.00\
+481,Stand \'c9tterem,Budapest,Hungary,,La Liste,,90.00\
+482,Taverna Estia,Brusciano,Italy,,La Liste,,90.00\
+483,The Japanese - The Chedi Andermatt,Andermatt,Switzerland,,La Liste,,90.00\
+484,Villa Feltrinelli,Gargnano,Italy,,La Liste,,90.00\
+485,Vyn - Daniel Berlin,Simrishamn,Sweden,,La Liste,,90.00\
+486,Waku Ghin,Singapore,Singapore,,La Liste,,90.00\
+487,\uc0\u22823 \u33891 \u28023 \u21442 \u24215  Da Dong - Shanghai,,China,,La Liste,,90.00\
+488,\uc0\u22825 \u40857 \u36713  Tin Lung Heen,Hong Kong,Hong Kong SAR China,,La Liste,,90.00\
+489,\uc0\u23500 \u20020 \u39277 \u24215 \u38463 \u19968 \u40077 \u40060  - Forum,Hong Kong,Hong Kong SAR China,,La Liste,,90.00\
+490,\uc0\u24535 \u39746 \u23551 \u21496  - Sushi Shikon,Hong Kong,Hong Kong SAR China,,La Liste,,90.00\
+491,\uc0\u38738 \u33609 \u31392  - Seisoka,Minato-ku,Japan,,La Liste,,90.00\
+492,Arabelle Meirlaen,Marchin,Belgium,,La Liste,,89.50\
+493,Aska,Brooklyn,United States,,La Liste,,89.50\
+494,Cocina de Autor,Cabo San Lucas,Mexico,,La Liste,,89.50\
+495,Comme Chez Soi,Bruxelles,Belgium,,La Liste,,89.50\
+496,David Toutain,Paris,France,,La Liste,,89.50\
+497,De Treeswijkhoeve,Waalre,Netherlands,,La Liste,,89.50\
+498,Dichter,Rottach-Egern,Germany,,La Liste,,89.50\
+499,Edinbane Lodge,Edinbane,United Kingdom,,La Liste,,89.50\
+500,FG,Rotterdam,Netherlands,,La Liste,,89.50\
+501,Focus - Park Hotel Vitznau,Vitznau,Switzerland,,La Liste,,89.50\
+502,IGNIV,Bad Ragaz,Switzerland,,La Liste,,89.50\
+503,Il Luogo di Aimo e Nadia,Milano,Italy,,La Liste,,89.50\
+504,La Bouitte,Hameau de St Marcel,Saint-Martin-de-Belleville,France,,La Liste,,89.50\
+505,Magnolia,Cesenatico,Italy,,La Liste,,89.50\
+506,M\'fdse,York,United Kingdom,,La Liste,,89.50\
+507,OCD TLV,Tel Aviv-Yafo,Israel,,La Liste,,89.50\
+508,Operak\'e4llaren,Stockholm,Sweden,,La Liste,,89.50\
+509,Palace Garden,,Macau SAR China,,La Liste,,89.50\
+510,Relais de la Poste,Magescq,France,,La Liste,,89.50\
+511,Sir Kwinten,Lennik,Belgium,,La Liste,,89.50\
+512,The Counter,Z\'fcrich,Switzerland,,La Liste,,89.50\
+513,The Dining Room at Whatley Manor,Malmesbury,United Kingdom,,La Liste,,89.50\
+514,\uc0\u12377 \u12365 \u12420 \u12400 \u12375  \u27425 \u37070  - Sukiyabashi Jiro,Ch\u363 \u333 -ku,Japan,,La Liste,,89.50\
+515,\uc0\u12524 \u12511 \u12491 \u12475 \u12531 \u12473  - Reminiscence,Nagoya-shi,Japan,,La Liste,,89.50\
+516,\uc0\u36259 \u22253 \u33590 \u31038  - Qu Yuan Cha She,Yang Zhou,China,,La Liste,,89.50\
+517,\uc0\u39321 \u26684 \u37324 \u25289 \u22823 \u37202 \u24215 \u27743 \u21335 \u28790 \u20013 \u39184 \u21381  Jiang Nan Wok - Shangri La,Nan Jing Shi,China,,La Liste,,89.50\
+518,Andreina,Loreto,Italy,,La Liste,,89.00\
+519,Aubergine,Carmel-by-the-Sea,United States,,La Liste,,89.00\
+520,Blue Bay,Monaco,Monaco,,La Liste,,89.00\
+521,Colonnade,Luzern,Switzerland,,La Liste,,89.00\
+522,Dalla Gioconda,Gabicce Monte,Italy,,La Liste,,89.00\
+523,Don Julio,Buenos Aires,Argentina,,La Liste,,89.00\
+524,Eleven Madison Park,New York,United States,,La Liste,,89.00\
+525,Enoteca La Torre,Roma,Italy,,La Liste,,89.00\
+526,Gaa,Wattana,Thailand,,La Liste,,89.00\
+527,Hambleton Hall,Oakham,United Kingdom,,La Liste,,89.00\
+528,IGNIV,Z\'fcrich,Switzerland,,La Liste,,89.00\
+529,La GrandVigne,Martillac,France,,La Liste,,89.00\
+530,La Mirande,Avignon,France,,La Liste,,89.00\
+531,La Trota,Rivodutri,Italy,,La Liste,,89.00\
+532,Magdalena,Rickenbach SZ,Switzerland,,La Liste,,89.00\
+533,Masa,New York,United States,,La Liste,,89.00\
+534,Masque,Mumbai,India,,La Liste,,89.00\
+535,Mikla at The Marmara Pera,Istanbul,Turkey,,La Liste,,89.00\
+536,Noor,C\'f3rdoba,Spain,,La Liste,,89.00\
+537,Osip,Bruton,United Kingdom,,La Liste,,89.00\
+538,Plat\'e1n,Tata,Hungary,,La Liste,,89.00\
+539,Rosetta,Ciudad de M\'e9xico,Mexico,,La Liste,,89.00\
+540,S\'f6lring Hof,Sylt,Germany,,La Liste,,89.00\
+541,Villa Elena,Bergamo,Italy,,La Liste,,89.00\
+542,Allium - Askham Hall,Penrith,United Kingdom,,La Liste,,88.50\
+543,Anne de Bretagne,La Plaine-sur-Mer,France,,La Liste,,88.50\
+544,daGorini,San Piero In Bagno,Italy,,La Liste,,88.50\
+545,Deckmans En El Mogor,Guadalupe,Mexico,,La Liste,,88.50\
+546,Dewakan,Kuala Lumpur,Malaysia,,La Liste,,88.50\
+547,Einstein Gourmet,St. Gallen,Switzerland,,La Liste,,88.50\
+548,Flaveur,Nice,France,,La Liste,,88.50\
+549,LAir du Temps,\'c9ghez\'e9e,Belgium,,La Liste,,88.50\
+550,La Paix,Bruxelles,Belgium,,La Liste,,88.50\
+551,La Table du Valrose,Rougemont,Switzerland,,La Liste,,88.50\
+552,Langdon Hall Dining Room & Terrace,Cambridge,Canada,,La Liste,,88.50\
+553,Locanda Barbarossa - H\'f4tel Castello del Sole,Ascona,Switzerland,,La Liste,,88.50\
+554,Maison Saint Crescent,Narbonne,France,,La Liste,,88.50\
+555,Oro,Rio de Janeiro,Brazil,,La Liste,,88.50\
+556,RAW,Tapei,China,,La Liste,,88.50\
+557,Taverne zum Sch\'e4fli,Wigoltingen,Switzerland,,La Liste,,88.50\
+558,White Rabbit,Moskva,Russia,,La Liste,,88.50\
+559,Andrew Fairlie,Auchterarder,United Kingdom,,La Liste,,88.00\
+560,Anne-Sophie Pic,Lausanne,Switzerland,,La Liste,,88.00\
+561,Bourgeois Bohemians,Sankt-Peterburg,Russia,,La Liste,,88.00\
+562,Claude Bosi at Bibendum,London,United Kingdom,,La Liste,,88.00\
+563,Cocina de Autor,Playa del Carmen,Mexico,,La Liste,,88.00\
+564,Die Weinbank,Ehrenhausen,Austria,,La Liste,,88.00\
+565,ECK Restaurant,Bratislava,Slovakia,,La Liste,,88.00\
+566,Fortaleza do Guincho,Cascais,Portugal,,La Liste,,88.00\
+567,Guido,Fontanafredda,Italy,,La Liste,,88.00\
+568,Harrys Piccolo,Trieste,Italy,,La Liste,,88.00\
+569,I Tenerumi,Vulcanello,Italy,,La Liste,,88.00\
+570,Idylio by Apreda,Roma,Italy,,La Liste,,88.00\
+571,LArgine a Venc\'f2,Dolegna del Collio,Italy,,La Liste,,88.00\
+572,La Table de Franck Putelat,Carcassonne,France,,La Liste,,88.00\
+573,Le Neuvi\'e8me Art,Lyon,France,,La Liste,,88.00\
+574,Maison Aribert,Saint-Martin-dUriage,France,,La Liste,,88.00\
+575,Northcote,Blackburn,United Kingdom,,La Liste,,88.00\
+576,St\'e9phane D\'e9cotterd,Montreux,Switzerland,,La Liste,,88.00\
+577,Sushi Noz,New York,United States,,La Liste,,88.00\
+578,\uc0\u24499 \u23665 \u39827  - Tokuyamazushi,Nagahama-shi,Japan,,La Liste,,88.00\
+579,\uc0\u27604 \u33391 \u23665 \u33624  - Hirasansou,Otsu,Japan,,La Liste,,88.00\
+580,\uc0\u31047 \u22290  \u20024 \u23665  - Maruyama,Ky\u333 to-shi,Japan,,La Liste,,88.00\
+581,\uc0\u33609 \u21936  \u12394 \u12363 \u12402 \u12364 \u12375  - Sojiki Nakahigashi,Ky\u333 to-shi,Japan,,La Liste,,88.00\
+582,Alo\'eb,\'c4lvsj\'f6,Sweden,,La Liste,,87.50\
+583,Alois - Dallmayr Fine Dining,M\'fcnchen,Germany,,La Liste,,87.50\
+584,Annwn,Narberth,United Kingdom,,La Liste,,87.50\
+585,Bottiglieria 1881,Krak\'f3w,Poland,,La Liste,,87.50\
+586,Bozar,Bruxelles,Belgium,,La Liste,,87.50\
+587,Criollo,Oaxaca de Ju\'e1rez,Mexico,,La Liste,,87.50\
+588,Dan Arnold,Fortitude Valley,Australia,,La Liste,,87.50\
+589,De Nieuwe Winkel,Nijmegen,Netherlands,,La Liste,,87.50\
+590,Eight Tables by George Chen,San Francisco,United States,,La Liste,,87.50\
+591,Endo at the Rotunda,London,United Kingdom,,La Liste,,87.50\
+592,Indochine at Delaire Graff Estate,Stellenbosch,South Africa,,La Liste,,87.50\
+593,Kong Hans K\'e6lder,K\'f8benhavn,Denmark,,La Liste,,87.50\
+594,La Sc\'e8ne - St\'e9phanie Le Quellec,Paris,France,,La Liste,,87.50\
+595,La Villa Archange,Le Cannet,France,,La Liste,,87.50\
+596,Le Marocain - La Mamounia,Marrakech,Morocco,,La Liste,,87.50\
+597,Le Normandie,Bangkok,Thailand,,La Liste,,87.50\
+598,Morston Hall,Holt,United Kingdom,,La Liste,,87.50\
+599,Mozaic,Bali,Indonesia,,La Liste,,87.50\
+600,n/naka,Los Angeles,United States,,La Liste,,87.50\
+601,Outlaws New Road,Port Isaac,United Kingdom,,La Liste,,87.50\
+602,Paul Ainsworth at Number 6,Padstow,United Kingdom,,La Liste,,87.50\
+603,Pine,Newcastle upon Tyne,United Kingdom,,La Liste,,87.50\
+604,San Domenico,Imola,Italy,,La Liste,,87.50\
+605,Serge Vieira,Chaudes-Aigues,France,,La Liste,,87.50\
+606,Sesamo - Royal Mansour Marrakech,Marrakech,Morocco,,La Liste,,87.50\
+607,Sketch - The Lecture Room & Library,London,United Kingdom,,La Liste,,87.50\
+608,Sommet - H\'f4tel The Alpina,Gstaad,Switzerland,,La Liste,,87.50\
+609,Sotero Cocina de Oficio,Pachuca de Soto,Mexico,,La Liste,,87.50\
+610,Takao Takano,Lyon,France,,La Liste,,87.50\
+611,The Forest Side,Ambleside,United Kingdom,,La Liste,,87.50\
+612,\uc0\u21513 \u22320 \u22763  - Gaddis,Hong Kong,Hong Kong SAR China,,La Liste,,87.50\
+613,\uc0\u22909 \u37202 \u22909 \u34081 \u30740 \u21457 \u24037 \u20316 \u23460  - Hao Jiu Hao Cai Studio Howard\'91s Gourmet Workshop,2,China,,La Liste,,87.50\
+614,\uc0\u26412 \u28246 \u26376  - Honkogetsu,Osaka,Japan,,La Liste,,87.50\
+615,Alain Ducasse at Morpheus,Macao,Macau SAR China,,La Liste,,87.00\
+616,Caf\'e9 Littera,Tbilisi,Georgia,,La Liste,,87.00\
+617,Don Alfonso 1890,Massa Lubrense,Italy,,La Liste,,87.00\
+618,La Table du Lausanne Palace,Lausanne,Switzerland,,La Liste,,87.00\
+619,La Tana Gourmet,Asiago,Italy,,La Liste,,87.00\
+620,Liath,Blackrock,Ireland,,La Liste,,87.00\
+621,Locanda del Sant\'92Uffizio Enrico Bartolini,Cioccaro di Penango,Italy,,La Liste,,87.00\
+622,Lyst,Vejle,Denmark,,La Liste,,87.00\
+623,M.B.,Guia de Isora Tenerife,Spain,,La Liste,,87.00\
+624,Michel Trama - LAubergade,Puymirol,France,,La Liste,,87.00\
+625,Midunu,Accra,Ghana,,La Liste,,87.00\
+626,Noma,K\'f8benhavn,Denmark,,La Liste,,87.00\
+627,Nuta,Warszawa,Poland,,La Liste,,87.00\
+628,PM & V\'e4nner,V\'e4xj\'f6,Sweden,,La Liste,,87.00\
+629,Sushi Masato,,Thailand,,La Liste,,87.00\
+630,The Kitchen,Sacramento,United States,,La Liste,,87.00\
+631,Verso Capitaneo,Milano,Italy,,La Liste,,87.00\
+632,\uc0\u48120 \u53664 \u50864  - Mitou,,South Korea,,La Liste,,87.00\
+633,\uc0\u12394 \u12363 \u12416 \u12425  - Nakamura,Ky\u333 to-shi,Japan,,La Liste,,87.00\
+634,\uc0\u12505 \u12523 \u12525 \u12458 \u12472 \u12456  - Velrosier,Kyoto,Japan,,La Liste,,87.00\
+635,\uc0\u24481 \u26009 \u29702  \u12399 \u12420 \u12375  - Oryouri Hayashi,Ky\u333 to-shi,Japan,,La Liste,,87.00\
+636,\uc0\u29577 \u22530 \u26149 \u26262  - Yutang Chunnuan - White Swan Hotel,Guang Zhou Shi,China,,La Liste,,87.00\
+637,\uc0\u39848  \u21313 \u20853 \u34907  - Jubei,Fukui,Japan,,La Liste,,87.00\
+638,A. Wong,London,United Kingdom,,La Liste,,86.50\
+639,Acquolina,Roma,Italy,,La Liste,,86.50\
+640,Ammolite - The Lighthouse Restaurant,Rust,Germany,,La Liste,,86.50\
+641,Apicius,Paris,France,,La Liste,,86.50\
+642,Atelier - Bayrischer Hof,M\'fcnchen,Germany,,La Liste,,86.50\
+643,Casa Oaxaca,Oaxaca de Ju\'e1rez,Mexico,,La Liste,,86.50\
+644,Colette - De Vijvers,Scherpenheuvel-Zichem,Belgium,,La Liste,,86.50\
+645,Dragsholm Slot Gourmet,H\'f8rve,Denmark,,La Liste,,86.50\
+646,Fleur de Sel - Atelje vina \'8aapat,Novi Slankamen,Serbia,,La Liste,,86.50\
+647,Im\'e0go - Hotel Hassler,Roma,Italy,,La Liste,,86.50\
+648,Kjolle,Barranco,Peru,,La Liste,,86.50\
+649,L.A. Jordan,Deidesheim,Germany,,La Liste,,86.50\
+650,LAtelier de Joel Robuchon,Gen\'e8ve,Switzerland,,La Liste,,86.50\
+651,Le Cerf - Wald & Schlosshotel Friedrichsruhe,Zweiflingen,Germany,,La Liste,,86.50\
+652,Lorenz Adlon Esszimmer,Berlin,Germany,,La Liste,,86.50\
+653,MIL Centro,Maras,Peru,,La Liste,,86.50\
+654,Naoe,Miami,United States,,La Liste,,86.50\
+655,Pascucci al Porticciolo,Fiumicino,Italy,,La Liste,,86.50\
+656,Providence,Los Angeles,United States,,La Liste,,86.50\
+657,The Black Swan at Oldstead,York,United Kingdom,,La Liste,,86.50\
+658,The Sportsman,Whitstable,United Kingdom,,La Liste,,86.50\
+659,Tre Olivi,Laura,Italy,,La Liste,,86.50\
+660,VEA Restaurant and Lounge,Central,Hong Kong SAR China,,La Liste,,86.50\
+661,Vinkeles,Amsterdam,Netherlands,,La Liste,,86.50\
+662,\uc0\u46972 \u47581 \u49884 \u53356 \u47112  - L\'92Amant Secret,,South Korea,,La Liste,,86.50\
+663,\uc0\u12390 \u12435 \u12407 \u12425  \u36817 \u34276  - Tempura Kondo,Ch\u363 \u333 -ku,Japan,,La Liste,,86.50\
+664,\uc0\u32654 \u23665 \u33624  - Miyamaso,Ky\u333 to-shi,Japan,,La Liste,,86.50\
+665,Cara - The Chanler at Cliff Walk,Newport,United States,,La Liste,,86.00\
+666,Cyrus,Geyserville,United States,,La Liste,,86.00\
+667,De Mondion at The Xara Palace,Mdina,Malta,,La Liste,,86.00\
+668,\'e9t\'e9,Shibuya-ku,Japan,,La Liste,,86.00\
+669,Gourmetstube Einhorn - Hotel Stafler,Freienfeld bei Sterzing,Italy,,La Liste,,86.00\
+670,Herons,Cary,United States,,La Liste,,86.00\
+671,Kai,Phoenix,United States,,La Liste,,86.00\
+672,La Fourchette des Ducs,Obernai,France,,La Liste,,86.00\
+673,La Salita de Bego\'f1a Rodrigo,Val\'e8ncia,Spain,,La Liste,,86.00\
+674,Lautrec - Nemacolin Woodlands Resort,Farmington,United States,,La Liste,,86.00\
+675,Marchal,K\'f8benhavn,Denmark,,La Liste,,86.00\
+676,Mugen,Honolulu,United States,,La Liste,,86.00\
+677,MUME,Da\'92an District,China,,La Liste,,86.00\
+678,Nahm - Hotel Como Metropolitan Bangkok,Bangkok,Thailand,,La Liste,,86.00\
+679,Peter Brunel,,Italy,,La Liste,,86.00\
+680,Strelec,Ljubljana,Slovenia,,La Liste,,86.00\
+681,William Frachot,Dijon,France,,La Liste,,86.00\
+682,\uc0\u20037 \u20025  - Kutan,Chuo City,Japan,,La Liste,,86.00\
+683,\uc0\u21271 \u26032 \u22320  \u24359 \u26611  - Koryu,\u332 saka-shi,Japan,,La Liste,,86.00\
+684,\uc0\u30333  - Tsukumo,Nara,Japan,,La Liste,,86.00\
+685,360\'b0,Dubrovnik,Croatia,,La Liste,,85.50\
+686,Amisfield,Queenstown,New Zealand,,La Liste,,85.50\
+687,Chefs Table,,Thailand,,La Liste,,85.50\
+688,Dina,Gussago,Italy,,La Liste,,85.50\
+689,Gramercy Tavern,New York,United States,,La Liste,,85.50\
+690,Hirschen,Sulzburg,Germany,,La Liste,,85.50\
+691,Hi\'9aa Denk,Zgornja Kungota,Slovenia,,La Liste,,85.50\
+692,Il Lago dei Cigni,Sankt-Peterburg,Russia,,La Liste,,85.50\
+693,Jo\'ebl Robuchon (USA),Las Vegas,United States,,La Liste,,85.50\
+694,La Cour des Lions - Es Saadi,Marrakesh,Morocco,,La Liste,,85.50\
+695,La Dame de Pic London,London,United Kingdom,,La Liste,,85.50\
+696,La Mer,Honolulu,United States,,La Liste,,85.50\
+697,Lazy Bear,San Francisco,United States,,La Liste,,85.50\
+698,Le Cirque,Las Vegas,United States,,La Liste,,85.50\
+699,Lorenzo,Forte dei Marmi,Italy,,La Liste,,85.50\
+700,Louis - La Maison,Saarlouis,Germany,,La Liste,,85.50\
+701,Luisl Stube - Schlosswirt Forst,Lagundo,Italy,,La Liste,,85.50\
+702,Mammertsberg,Freidorf,Switzerland,,La Liste,,85.50\
+703,Meza Malonga,Kigali,Rwanda,,La Liste,,85.50\
+704,Opus V,Mannheim,Germany,,La Liste,,85.50\
+705,Piazzetta Milu,Castellammare di Stabia,Italy,,La Liste,,85.50\
+706,Saddle,Madrid,Spain,,La Liste,,85.50\
+707,St. George by Heinz Beck - The Ashbee Hotel,Taormina,Italy,,La Liste,,85.50\
+708,Stay by Yannick Alleno,Dubai,United Arab Emirates,,La Liste,,85.50\
+709,Sud 777,Ciudad de M\'e9xico,Mexico,,La Liste,,85.50\
+710,\uc0\u12396 \u12414 \u30000  - Numata,Osaka,Japan,,La Liste,,85.50\
+711,\uc0\u12506 \u12524 \u12464 \u12522 \u12540 \u12494  - Pellegrino,Shibuya-ku,Japan,,La Liste,,85.50\
+712,\uc0\u20843 \u37096 \u21322  - 8 1/2 Otto e Mezzo Bombana,Shanghai,China,,La Liste,,85.50\
+713,\uc0\u25991 \u21326  - Man Wah,Hong Kong,Hong Kong SAR China,,La Liste,,85.50\
+714,\uc0\u26032 \u33635 \u35760  - Xin Rong Ji,Shanghai,China,,La Liste,,85.50\
+715,Ahi,Auckland,New Zealand,,La Liste,,85.00\
+716,Akrame,Paris,France,,La Liste,,85.00\
+717,Bayview,Gen\'e8ve,Switzerland,,La Liste,,85.00\
+718,Deessa,Madrid,Spain,,La Liste,,85.00\
+719,Delta,Athina,Greece,,La Liste,,85.00\
+720,Dill,Reykjav\'edk,Iceland,,La Liste,,85.00\
+721,Gary Danko,San Francisco,United States,,La Liste,,85.00\
+722,Gourmetrestaurant Kr\'e4uterreich by Vitus Winkler,Sankt Veit im Pongau,Austria,,La Liste,,85.00\
+723,Hiden,Miami,United States,,La Liste,,85.00\
+724,Hostellerie du Pas de L\'92Ours,Lens,Switzerland,,La Liste,,85.00\
+725,House Of Tides,Newcastle upon Tyne,United Kingdom,,La Liste,,85.00\
+726,Julemont,Wittem,Netherlands,,La Liste,,85.00\
+727,JYs,Colmar,France,,La Liste,,85.00\
+728,La Colline,Bolshoye Sareyevo,Russia,,La Liste,,85.00\
+729,Le Chat Bott\'e9 - H\'f4tel Beau-Rivage,Gen\'e8ve,Switzerland,,La Liste,,85.00\
+730,Le Pr\'e9 - Xavier Beaudiment,Durtol,France,,La Liste,,85.00\
+731,MAZ,Chiyoda City,Japan,,La Liste,,85.00\
+732,Minamishima,Richmond,Australia,,La Liste,,85.00\
+733,Nihombashi Sonoji,Chuo City,Japan,,La Liste,,85.00\
+734,Ophelia,Konstanz,Germany,,La Liste,,85.00\
+735,\'d6sch noir,Donaueschingen,Germany,,La Liste,,85.00\
+736,Paris Butter,Auckland,New Zealand,,La Liste,,85.00\
+737,Prezioso,Castel Verruca,Italy,,La Liste,,85.00\
+738,Ricos,K\'fcsnacht,Switzerland,,La Liste,,85.00\
+739,Savelberg,Pathum Wan District,Thailand,,La Liste,,85.00\
+740,Shaun Rankin at Grantley Hall,Ripon,United Kingdom,,La Liste,,85.00\
+741,Ten Minutes by Tractor,Main Ridge,Australia,,La Liste,,85.00\
+742,The Latymer,Bagshot,United Kingdom,,La Liste,,85.00\
+743,The Lost Kitchen,Freedom,United States,,La Liste,,85.00\
+744,The Whitebrook,Monmouth,United Kingdom,,La Liste,,85.00\
+745,\uc0\u50508 \u47116  - Allen,,South Korea,,La Liste,,85.00\
+746,\uc0\u12501 \u12472 \u12516 \u12452 \u12481 \u12461 \u12517 \u12454 \u12469 \u12531 \u12468  - Fujiya 1935,\u332 saka-shi,Japan,,La Liste,,85.00\
+747,\uc0\u12521 \u12488 \u12522 \u12456  \u12489 \u12453  \u12472 \u12519 \u12456 \u12523 \u12539 \u12525 \u12502 \u12471 \u12519 \u12531  - LAtelier de Jo\'ebl Robuchon,Minato-ku,Japan,,La Liste,,85.00\
+748,\uc0\u20161 \u20462 \u27155  - Ninshurou,Kyoto,Japan,,La Liste,,85.00\
+749,\uc0\u21776 \u38401  Tang court,Shanghai,China,,La Liste,,85.00\
+750,\uc0\u36196 \u22338  \u33738 \u20035 \u20117  - Akasaka Kikunoi,Minato-ku,Japan,,La Liste,,85.00\
+751,\uc0\u40165 \u12375 \u12365  - Torishiki,Shinagawa-ku,Japan,,La Liste,,85.00\
+752,Al Muntaha,\uc0\u1583 \u1576 \u1610 ,United Arab Emirates,,La Liste,,84.50\
+753,Alex Dilling at Hotel Caf\'e9 Royal,London,United Kingdom,,La Liste,,84.50\
+754,Berton,Milano,Italy,,La Liste,,84.50\
+755,Broth by Andr\'e9 Chiang at Mizumi - Wynn Macau,,Macau SAR China,,La Liste,,84.50\
+756,C\'e0 dOro - Kempinski Grand Hotel des Bains,Sankt Moritz,Switzerland,,La Liste,,84.50\
+757,Gosti\'9a\uc0\u269 e Gri\u269 ,Horjul,Slovenia,,La Liste,,84.50\
+758,Het Gebaar,Antwerpen,Belgium,,La Liste,,84.50\
+759,Jante,Hannover,Germany,,La Liste,,84.50\
+760,Kuppelrain,Kastelbell-Tschars,Italy,,La Liste,,84.50\
+761,La Table Krug,Manama,Bahrain,,La Liste,,84.50\
+762,Le Jules Verne,Paris,France,,La Liste,,84.50\
+763,Le Mas Les Eydins - Christophe Bacqui\'e9,Bonnieux,France,,La Liste,,84.50\
+764,Les Ambassadeurs by Christophe Cussac,Monaco,Monaco,,La Liste,,84.50\
+765,Lux Lucis - Hotel Principe Forte dei Marmi,Forte dei Marmi,Italy,,La Liste,,84.50\
+766,Materia,Cernobbio,Italy,,La Liste,,84.50\
+767,Mezzaluna,Bangkok,Thailand,,La Liste,,84.50\
+768,Moments,Barcelona,Spain,,La Liste,,84.50\
+769,Monte,Rovinj,Croatia,,La Liste,,84.50\
+770,Muse,London,United Kingdom,,La Liste,,84.50\
+771,OX (NI),Belfast,United Kingdom,,La Liste,,84.50\
+772,Pacifica,Napier Central,New Zealand,,La Liste,,84.50\
+773,Romano,Viareggio,Italy,,La Liste,,84.50\
+774,Smoked Room. Fire Omakase,Madrid,Spain,,La Liste,,84.50\
+775,\uc0\u50728 \u51648 \u51020  - Onjieum,,South Korea,,La Liste,,84.50\
+776,\uc0\u12450 \u12467 \u12523 \u12489 \u12453  - Akordu,Nara,Japan,,La Liste,,84.50\
+777,\uc0\u12502 \u12523 \u12460 \u12522  \u12452 \u12523 \u12539 \u12522 \u12473 \u12488 \u12521 \u12531 \u12486  \u12523 \u12459 \u12539 \u12501 \u12449 \u12531 \u12486 \u12451 \u12531  - Il Ristorante - Luca Fantin,Ch\u363 \u333 -ku,Japan,,La Liste,,84.50\
+778,\uc0\u25040 \u30707  \u36795 \u30041  - Kaiseki Tsujitome,Minato-ku,Japan,,La Liste,,84.50\
+779,Alfred Keller,Mali Lo\'9ainj,Croatia,,La Liste,,84.00\
+780,All\'92Enoteca,Canale,Italy,,La Liste,,84.00\
+781,Anna Stuben,Ortisei,Italy,,La Liste,,84.00\
+782,Campo Del Drago - Rosewood Castiglion del Bosco,Castiglion del Bosco,Italy,,La Liste,,84.00\
+783,Christophe Dufoss\'e9 - Le Ch\'e2teau de Beaulieu,Busnes,France,,La Liste,,84.00\
+784,Ekstedt,Stockholm,Sweden,,La Liste,,84.00\
+785,Glass Hostaria,Roma,Italy,,La Liste,,84.00\
+786,Logan Brown,Wellington,New Zealand,,La Liste,,84.00\
+787,Mashya,\uc0\u1514 \u1500  \u1488 \u1489 \u1497 \u1489  \u1497 \u1508 \u1493 ,Israel,,La Liste,,84.00\
+788,NOI by Paulo Airaudo,,Hong Kong SAR China,,La Liste,,84.00\
+789,Quadri,Venezia,Italy,,La Liste,,84.00\
+790,The Old Stamp House,Ambleside,United Kingdom,,La Liste,,84.00\
+791,Trivet,London,United Kingdom,,La Liste,,84.00\
+792,Ying Jee Club,,Hong Kong SAR China,,La Liste,,84.00\
+793,\uc0\u1057 \u1077 \u1083 \u1092 \u1080  - Selfie,Moskva,Russia,,La Liste,,84.00\
+794,\uc0\u49828 \u50752 \u45768 \u50696  - Soign\'e9,,South Korea,,La Liste,,84.00\
+795,\uc0\u12524 \u12473 \u12488 \u12521 \u12531  \u12522 \u12517 \u12540 \u12474  - Ryuzu,Minato-ku,Japan,,La Liste,,84.00\
+796,\uc0\u31934 \u36914 \u26009 \u29702  \u37261 \u37264  - Daigo,Minato-ku,Japan,,La Liste,,84.00\
+797,\uc0\u32043 \u36920 \u36713  Zi Yat Heen,\u28595 \u38376 ,Macau SAR China,,La Liste,,84.00\
+798,Adam/Albin,Stockholm,Sweden,,La Liste,,83.50\
+799,Alena at The Norman,Tel Aviv-Yafo,Israel,,La Liste,,83.50\
+800,Aurelios,Lech,Austria,,La Liste,,83.50\
+801,BENTLEY Restaurant & Bar,Sydney,Australia,,La Liste,,83.50\
+802,Californios,San Francisco,United States,,La Liste,,83.50\
+803,Carolina at The St. Regis Punta Mita Resort,Punta de Mita,Mexico,,La Liste,,83.50\
+804,Coast - Ocean House,Westerly,United States,,La Liste,,83.50\
+805,Contraste,Milano,Italy,,La Liste,,83.50\
+806,Cutler & Co.,Fitzroy,Australia,,La Liste,,83.50\
+807,Da Terra,London,United Kingdom,,La Liste,,83.50\
+808,Eden - The Rimrock Resort,Banff,Canada,,La Liste,,83.50\
+809,Emerils,New Orleans,United States,,La Liste,,83.50\
+810,Essigbr\'e4tlein,N\'fcrnberg,Germany,,La Liste,,83.50\
+811,Hyle,San Giovanni in Fiore,Italy,,La Liste,,83.50\
+812,Interalpen Chefs Table,Telfs,Austria,,La Liste,,83.50\
+813,Kitchen Table,London,United Kingdom,,La Liste,,83.50\
+814,Klein Jan,Kalahari CBDC,South Africa,,La Liste,,83.50\
+815,LOrangerie,Paris,France,,La Liste,,83.50\
+816,La Distillerie,Bourglinster,Luxembourg,,La Liste,,83.50\
+817,Lasai,Rio de Janeiro,Brazil,,La Liste,,83.50\
+818,Pepe Vieira,Poio,Spain,,La Liste,,83.50\
+819,Percorso at the Four Seasons,Sankt-Peterburg,Russia,,La Liste,,83.50\
+820,Sosban and the old Butchers,Menai Bridge,United Kingdom,,La Liste,,83.50\
+821,Statholdergaarden,Oslo,Norway,,La Liste,,83.50\
+822,Syttende,S\'f8nderborg,Denmark,,La Liste,,83.50\
+823,The Five Fields,London,United Kingdom,,La Liste,,83.50\
+824,The Grove,Auckland,New Zealand,,La Liste,,83.50\
+825,The White Barn Inn Restaurant,Kennebunk,United States,,La Liste,,83.50\
+826,Venta Moncalvillo,Daroca de Rioja,Spain,,La Liste,,83.50\
+827,\uc0\u931 \u960 \u959 \u957 \u948 \u942  - Spondi,Athina,Greece,,La Liste,,83.50\
+828,\uc0\u1087 \u1088 \u1086 \u1073 \u1082 \u1072  - Probka,Sankt-Peterburg,Russia,,La Liste,,83.50\
+829,\uc0\u12456 \u12487 \u12451 \u12471 \u12519 \u12531 \u12539 \u12467 \u12454 \u12472  \u12471 \u12514 \u12512 \u12521  - Edition Koji Shimomura,Minato-ku,Japan,,La Liste,,83.50\
+830,\uc0\u12524  \u12475 \u12478 \u12531  - Les Saisons - Hotel Imperial,Chiyoda City,Japan,,La Liste,,83.50\
+831,\uc0\u22825 \u25919  - Tenmasa,,Macau SAR China,,La Liste,,83.50\
+832,\uc0\u31047 \u22290  \u12395 \u12375 \u12363 \u12431  - Gion Nishikawa,Ky\u333 to-shi,Japan,,La Liste,,83.50\
+833,\uc0\u35199 \u37066 5\u21495  Xijiao No.5 - Maggie 5,Shanghai,China,,La Liste,,83.50\
+834,\uc0\u36817 \u26494  - Chikamatsu,Fukuoka,Japan,,La Liste,,83.50\
+835,\uc0\u39848  \u12373 \u12363 \u12356  - Sakai,Fukuoka-shi,Japan,,La Liste,,83.50\
+836,Acquerello,San Francisco,United States,,La Liste,,83.00\
+837,Almara,Ciudad de M\'e9xico,Mexico,,La Liste,,83.00\
+838,Aramburu,ACY,Argentina,,La Liste,,83.00\
+839,Aura by Alexander Herrmann & Tobias B\'e4tz,Wirsberg,Germany,,La Liste,,83.00\
+840,Chefs Table at Brooklyn Fare,New York,United States,,La Liste,,83.00\
+841,Cocoro,Auckland,New Zealand,,La Liste,,83.00\
+842,Dar Moha,Marrakesh,Morocco,,La Liste,,83.00\
+843,Dum Pukht,New Delhi,India,,La Liste,,83.00\
+844,Enoteca,Barcelona,Spain,,La Liste,,83.00\
+845,Esplanade,Saarbr\'fccken,Germany,,La Liste,,83.00\
+846,Gravetye Manor,East Grinstead,United Kingdom,,La Liste,,83.00\
+847,Ikoyi,London,United Kingdom,,La Liste,,83.00\
+848,LAstrance,Paris,France,,La Liste,,83.00\
+849,LAtelier de Jo\'ebl Robuchon,Miami,United States,,La Liste,,83.00\
+850,Meta,Singapore,Singapore,,La Liste,,83.00\
+851,Olo,Helsinki,Finland,,La Liste,,83.00\
+852,Roots,Basel,Switzerland,,La Liste,,83.00\
+853,Sabi Omakase,Stavanger,Norway,,La Liste,,83.00\
+854,Sushi Yasuda,New York,United States,,La Liste,,83.00\
+855,Venissa,Venezia,Italy,,La Liste,,83.00\
+856,Widder,Z\'fcrich,Switzerland,,La Liste,,83.00\
+857,\uc0\u53080 \u54000 \u45352 \u53448  - Continental - The Shilla,Seoul,South Korea,,La Liste,,83.00\
+ID,Name,City,Country,Award,Source List,Cuisine,Score\
+858,8\'bd Otto e Mezzo BOMBANA Macau,,Macau SAR China,,La Liste,,82.50\
+859,Adaa at Falaknuma Palace,Hyderabad,India,,La Liste,,82.50\
+860,August,Augsburg,Germany,,La Liste,,82.50\
+861,El Poblet,Val\'e8ncia,Spain,,La Liste,,82.50\
+862,etz,N\'fcrnberg,Germany,,La Liste,,82.50\
+863,Ga\'9aperov Mlyn,Batizovce,Slovakia,,La Liste,,82.50\
+864,Hjem,Hexham,United Kingdom,,La Liste,,82.50\
+865,Horv\'e1th,Berlin,Germany,,La Liste,,82.50\
+866,Jamavar - Leela Palace,Bengaluru,India,,La Liste,,82.50\
+867,Lakeside - The Fontenay,Hamburg,Germany,,La Liste,,82.50\
+868,Le Champignon Sauvage,Cheltenham,United Kingdom,,La Liste,,82.50\
+869,Le Pavillon,New York,United States,,La Liste,,82.50\
+870,Marea,New York,United States,,La Liste,,82.50\
+871,Mishiguene,FAJ,Argentina,,La Liste,,82.50\
+872,Nour,Stockholm,Sweden,,La Liste,,82.50\
+873,Odo,New York,United States,,La Liste,,82.50\
+874,Ox & Klee,K\'f6ln,Germany,,La Liste,,82.50\
+875,Provenance,Beechworth,Australia,,La Liste,,82.50\
+876,Ronan Kervarrec - Le Saison,Saint-Gr\'e9goire,France,,La Liste,,82.50\
+877,SAGA,New York,United States,,La Liste,,82.50\
+878,Santa Elisabetta,Firenze,Italy,,La Liste,,82.50\
+879,Seasons at the Ocean House,Westerly,United States,,La Liste,,82.50\
+880,Sons & Daughters,San Francisco,United States,,La Liste,,82.50\
+881,The Angel at Hetton,Skipton,United Kingdom,,La Liste,,82.50\
+882,The Kitchin,Edinburgh,United Kingdom,,La Liste,,82.50\
+883,The Ledbury,London,United Kingdom,,La Liste,,82.50\
+884,Ti Trin Ned,Fredericia,Denmark,,La Liste,,82.50\
+885,Yauatcha Mumbai,Mumbai,India,,La Liste,,82.50\
+886,Yoshimi,Ciudad de M\'e9xico,Mexico,,La Liste,,82.50\
+887,\uc0\u1055 \u1072 \u1083 \u1082 \u1080 \u1085 \u1098  - Palkin,Sankt-Peterburg,Russia,,La Liste,,82.50\
+888,\uc0\u1062 .\u1044 .\u1051 . - TS.D.L.,Moskva,Russia,,La Liste,,82.50\
+889,\uc0\u1062 \u1072 \u1088 \u1089 \u1082 \u1072 \u1103  \u1054 \u1093 \u1086 \u1090 \u1072  - Tsarskaya Okhota,Zhukovka,Russia,,La Liste,,82.50\
+890,\uc0\u44428 \u49689 \u49688  - Kwon Sook Soo,Gangnam-gu,South Korea,,La Liste,,82.50\
+891,\uc0\u52600 \u51060 \u45815  - Choi Dot,,South Korea,,La Liste,,82.50\
+892,\uc0\u21644 \u12372 \u12371 \u12429  \u27849  - Wagokoro Izumi,Ky\u333 to-shi,Japan,,La Liste,,82.50\
+893,\uc0\u22823 \u29677 \u27155  - The Chairman,Central,Hong Kong SAR China,,La Liste,,82.50\
+894,\uc0\u22825 \u23551 \u12375  \u20140 \u30010 \u24215  - Tenzushi Kyomachi,Kitaky\u363 sh\u363 -shi,Japan,,La Liste,,82.50\
+895,\uc0\u29577 \u33437 \u20848  - Yu Zhi Lan,Chengdu Shi,China,,La Liste,,82.50\
+896,\uc0\u39848  \u19977 \u24515  - Sushi SANSHIN,Osaka,Japan,,La Liste,,82.50\
+897,\uc0\u12540 \u12473 \u12522 \u12458 \u12521 \u12540 Zurriola,Ch\u363 \u333 -ku,Japan,,La Liste,,82.00\
+898,Asahina Gastronome,Chuo City,Japan,,La Liste,,82.00\
+899,Canoe Restaurant and Bar,Toronto,Canada,,La Liste,,82.00\
+900,Dinner by Heston Blumenthal,London,United Kingdom,,La Liste,,82.00\
+901,La Merise,Laubach,France,,La Liste,,82.00\
+902,Lake Road Kitchen,Ambleside,United Kingdom,,La Liste,,82.00\
+903,Le Comptoir de Pierre Gagnaire at Shanghai Jianyeli Capella Hotel,,China,,La Liste,,82.00\
+904,Martin Wishart,Edinburgh,United Kingdom,,La Liste,,82.00\
+905,Mielcke & Hurtigkarl,Frederiksberg,Denmark,,La Liste,,82.00\
+906,Restaurant at Winvian Farm,Morris,United States,,La Liste,,82.00\
+907,Speisemeisterei,Stuttgart,Germany,,La Liste,,82.00\
+908,UFO,Bratislava,Slovakia,,La Liste,,82.00\
+909,\uc0\u1043 \u1091 \u1089 \u1103 \u1090 \u1085 \u1080 \u1082 \u1086 ff - Gusiatnikoff,Moskva,Russia,,La Liste,,82.00\
+910,\uc0\u12490 \u12505 \u12494 -\u12452 \u12474 \u12512  - Nabeno-Ism,Tait\u333 -ku,Japan,,La Liste,,82.00\
+911,\uc0\u39640 \u21488 \u23546  \u21644 \u20037 \u20659  - Kodaiji Wakuden,Ky\u333 to-shi,Japan,,La Liste,,82.00\
+912,\uc0\u40635 \u24067  \u24184 \u26449  - Yukimura,Minato-ku,Japan,,La Liste,,82.00\
+913,7132 Silver,Vals,Switzerland,,La Liste,,81.50\
+914,Atman - Villa Rospigliosi,Loc. Spicchio, Lamporecchio,Italy,,La Liste,,81.50\
+915,Bennelong,Sydney,Australia,,La Liste,,81.50\
+916,Bodendorfs - Landhaus Stricker,Sylt,Germany,,La Liste,,81.50\
+917,Cosme,New York,United States,,La Liste,,81.50\
+918,Duende,N\'eemes,France,,La Liste,,81.50\
+919,Edomae Sushi Matsuki,Bratislava,Slovakia,,La Liste,,81.50\
+920,Kilian Stuba im Travel Charme Ifen Hotel Kleinwalsertal,Hirschegg,Austria,,La Liste,,81.50\
+921,La Degustation Boh\'eame Bourgeoise,Prague,Czech Republic,,La Liste,,81.50\
+922,La Rei Natura - Il Boscareto Resort & Spa,Serralunga dAlba,Italy,,La Liste,,81.50\
+923,Le Skiff Club,La Teste-de-Buch,France,,La Liste,,81.50\
+924,Lysverket,Bergen,Norway,,La Liste,,81.50\
+925,Maison Rostang,Paris,France,,La Liste,,81.50\
+926,Penfolds Magill Estate,Adelaide,Australia,,La Liste,,81.50\
+927,Skins \'96 the Restaurant,Lenzburg,Switzerland,,La Liste,,81.50\
+928,Skina,Marbella,Spain,,La Liste,,81.50\
+929,Stadtpfeiffer,Leipzig,Germany,,La Liste,,81.50\
+930,The Hand & Flowers,Marlow,United Kingdom,,La Liste,,81.50\
+931,The House Restaurant at The Cliff House Hotel,Ardmore,Ireland,,La Liste,,81.50\
+932,The Peat Inn,Cupar,United Kingdom,,La Liste,,81.50\
+933,Zum L\'f6wen,Tesimo,Italy,,La Liste,,81.50\
+934,\uc0\u1041 \u1077 \u1083 \u1091 \u1075 \u1072  - Beluga,Moskva,Russia,,La Liste,,81.50\
+935,\uc0\u1043 \u1086 \u1088 \u1099 \u1085 \u1099 \u1095  - Gorynych,Moskva,Russia,,La Liste,,81.50\
+936,\uc0\u50640 \u48727  - Evett,,South Korea,,La Liste,,81.50\
+937,\uc0\u12377 \u12365 \u12420 \u12400 \u12375 \u27425 \u37070  \u20845 \u26412 \u26408 \u12498 \u12523 \u12474 \u24215  - Sukiyabashi Jiro (Roppongi),Minato-ku,Japan,,La Liste,,81.50\
+938,\uc0\u20140 \u25040 \u30707  \u21513 \u27849  - Kichisen,Ky\u333 to-shi,Japan,,La Liste,,81.50\
+939,\uc0\u21416 \u39764  Bo Innovation,Hong Kong,Hong Kong SAR China,,La Liste,,81.50\
+940,\uc0\u25040 \u30707  \u23567 \u23460  - Komuro,Shinjuku-ku,Japan,,La Liste,,81.50\
+941,Boka,Chicago,United States,,La Liste,,81.00\
+942,Cignale Enoteca,Meguro City,Japan,,La Liste,,81.00\
+943,Colline Ciociare,Acuto,Italy,,La Liste,,81.00\
+944,Commis,Oakland,United States,,La Liste,,81.00\
+945,Don Alfonso 1890,Toronto,Canada,,La Liste,,81.00\
+946,Gasthaus Zum Gupf,Rehetobel,Switzerland,,La Liste,,81.00\
+947,Inver,Cairndow,United Kingdom,,La Liste,,81.00\
+948,JB - Janez Bratov\'9e,Ljubljana,Slovenia,,La Liste,,81.00\
+949,La Tour dArgent,Chiyoda City,Japan,,La Liste,,81.00\
+950,Le Cirque Signature - The Leela Palace,Bengaluru,India,,La Liste,,81.00\
+951,Le Puits St-Jacques,Pujaudran,France,,La Liste,,81.00\
+952,Lea Linster,Frisange,Luxembourg,,La Liste,,81.00\
+953,Luisa Gourmet,,Italy,,La Liste,,81.00\
+954,Manta Ray,Tel Aviv-Yafo,Israel,,La Liste,,81.00\
+955,Mon Lapin,Montr\'e9al,Canada,,La Liste,,81.00\
+956,Nagaya,D\'fcsseldorf,Germany,,La Liste,,81.00\
+957,Saint Peter,Paddington,Australia,,La Liste,,81.00\
+958,SW Steakhouse \uc0\u27704 \u21033 \u25170 \u25151 ,Macau,Macau SAR China,,La Liste,,81.00\
+959,The Ocean - The Atlantic Hotel,Jersey,Jersey,,La Liste,,81.00\
+960,Votum,Hannover,Germany,,La Liste,,81.00\
+961,\uc0\u1059 \u1075 \u1086 \u1083 \u1077 \u1082  - Ugolek,Moskva,Russia,,La Liste,,81.00\
+962,\uc0\u50500 \u47532 \u50500 \u52992  - Ariake - The Shilla,Seoul,South Korea,,La Liste,,81.00\
+963,\uc0\u12456 \u12473 \u12486 \u12540 \u12523  - Esterre,Chiyoda City,Japan,,La Liste,,81.00\
+964,\uc0\u28845 \u28779 \u21106 \u28921  \u12356 \u12405 \u12365  - Ifuki,Ky\u333 to-shi,Japan,,La Liste,,81.00\
+965,\uc0\u37504 \u24231  \u12524 \u12459 \u12531  - LEcrin,Ch\u363 \u333 -ku,Japan,,La Liste,,81.00\
+966,Bardal,Ronda,Spain,,La Liste,,80.50\
+967,Coda Dessert Dining & Bar,Berlin,Germany,,La Liste,,80.50\
+968,Cubo,Ljubljana,Slovenia,,La Liste,,80.50\
+969,CUT by Wolfgang Puck,Singapore,Singapore,,La Liste,,80.50\
+970,Danilo - Restaurant & Wine,\'8akofja Loka,Slovenia,,La Liste,,80.50\
+971,Epice,Franschhoek,South Africa,,La Liste,,80.50\
+972,Feng Wei Ju,,Macau SAR China,,La Liste,,80.50\
+973,Gut Purbach,Purbach am Neusiedler See,Austria,,La Liste,,80.50\
+974,Haoma,,Thailand,,La Liste,,80.50\
+975,LOiseau Blanc,Paris,France,,La Liste,,80.50\
+976,Le Pigeon,Portland,United States,,La Liste,,80.50\
+977,Megu,New Delhi,India,,La Liste,,80.50\
+978,Mosconi,Luxembourg,Luxembourg,,La Liste,,80.50\
+979,Ormer Mayfair,London,United Kingdom,,La Liste,,80.50\
+980,Palais Royal Restaurant,Paris,France,,La Liste,,80.50\
+981,Pelegrini,\'8aibenik,Croatia,,La Liste,,80.50\
+982,PIER,Cape Town,South Africa,,La Liste,,80.50\
+983,Tian,Wien,Austria,,La Liste,,80.50\
+984,Varoulko Seaside,Pireas,Greece,,La Liste,,80.50\
+985,Vermeer,Amsterdam,Netherlands,,La Liste,,80.50\
+986,Voro,Mallorca,Spain,,La Liste,,80.50\
+987,\uc0\u53076 \u51648 \u47560  - Kojima,,South Korea,,La Liste,,80.50\
+988,\uc0\u12458 \u12510 \u12540 \u12472 \u12517  - Hommage,Tait\u333 -ku,Japan,,La Liste,,80.50\
+989,\uc0\u22856 \u33391  \u32780 \u20170  (\u12395 \u12371 \u12435 ) - Nara Nikon,Nara,Japan,,La Liste,,80.50\
+990,\uc0\u37504 \u24231  \u39848  \u12363 \u12397 \u12373 \u12363  \u26412 \u24215  - Sushi Kanesaka,Ch\u363 \u333 -ku,Japan,,La Liste,,80.50\
+991,\uc0\u38605 \u38597 \u27827 \u40092 \u39302 (\u26704 \u26771 \u26519 \u24215 ) Yongya Hexian (TongZiLin),Chengdu Shi,China,,La Liste,,80.50\
+992,\uc0\u39848  \u34892 \u22825  - Sushi Gyoten,Fukuoka-shi,Japan,,La Liste,,80.50\
+993,Acquerello,Fagnano Olona,Italy,,La Liste,,80.00\
+994,Alma,Lisboa,Portugal,,La Liste,,80.00\
+995,Amelia by Paulo Airaudo,Donostia,Spain,,La Liste,,80.00\
+996,Aniar,Galway,Ireland,,La Liste,,80.00\
+997,Aqua Crua,Barbarano Vicentino,Italy,,La Liste,,80.00\
+998,Beyond,Cape Town,South Africa,,La Liste,,80.00\
+999,Bo.TiC,Cor\'e7\'e0,Spain,,La Liste,,80.00\
+1000,Cinc Sentits,Barcelona,Spain,,La Liste,,80.00\
+1001,Claro,\uc0\u1514 \u1500  \u1488 \u1489 \u1497 \u1489  \u1497 \u1508 \u1493 ,Israel,,La Liste,,80.00\
+1002,Home by James Sommerin,Penarth,United Kingdom,,La Liste,,80.00\
+1003,Iggys,Singapore,Singapore,,La Liste,,80.00\
+1004,KOMU,M\'fcnchen,Germany,,La Liste,,80.00\
+1005,LAuberge de Montmin,Talloires-Montmin,France,,La Liste,,80.00\
+1006,Lake House,Daylesford,Australia,,La Liste,,80.00\
+1007,Langouste,Beograd,Serbia,,La Liste,,80.00\
+1008,Les Moraini\'e8res,Jongieux,France,,La Liste,,80.00\
+1009,Maison Beno\'eet Vidal - Sur les Bois,Annecy,France,,La Liste,,80.00\
+1010,Maison Lameloise,,China,,La Liste,,80.00\
+1011,Paste Bangkok,Bangkok,Thailand,,La Liste,,80.00\
+1012,Pitiona,Oaxaca de Ju\'e1rez,Mexico,,La Liste,,80.00\
+1013,Racine,Reims,France,,La Liste,,80.00\
+1014,Salon 1905,Beograd,Serbia,,La Liste,,80.00\
+1015,Sixpenny,Stanmore,Australia,,La Liste,,80.00\
+1016,The Plumed Horse,Saratoga,United States,,La Liste,,80.00\
+1017,The Pot Luck Club,Cape Town,South Africa,,La Liste,,80.00\
+1018,\uc0\u47924 \u50724 \u53412  - Muoki,,South Korea,,La Liste,,80.00\
+1019,\uc0\u49464 \u48656 \u49828 \u46020 \u50612  - 7th door,,South Korea,,La Liste,,80.00\
+1020,\uc0\u50508 \u46972 \u54532 \u47532 \u47560  - Alla Prima,Gangnam-gu,South Korea,,La Liste,,80.00\
+1021,\uc0\u51060 \u53440 \u45769  \u44032 \u46304  - Eatanic Garden,,South Korea,,La Liste,,80.00\
+1022,\uc0\u21218 \u40607  - Seirin,Hamamatsu,Japan,,La Liste,,80.00\
+1023,\uc0\u26586 \u26408 \u20803  - Yukimoto,Iida,Japan,,La Liste,,80.00\
+1024,\uc0\u33980  \u35199 \u40635 \u24067  - Ao Nishiazabu,Minato City,Japan,,La Liste,,80.00\
+1025,100/200 Kitchen,Hamburg,Germany,,La Liste,,79.50\
+1026,C\'e9dric Burtin - LAmaryllis,Saint-R\'e9my,France,,La Liste,,79.50\
+1027,Costes,Budapest,Hungary,,La Liste,,79.50\
+1028,Cracco,Milano,Italy,,La Liste,,79.50\
+1029,DBerto,O Grove,Spain,,La Liste,,79.50\
+1030,El Molino de Urd\'e1niz,Urd\'e1niz,Spain,,La Liste,,79.50\
+1031,Els Casals,Sag\'e0s,Spain,,La Liste,,79.50\
+1032,Els Tinars,Llagostera,Spain,,La Liste,,79.50\
+1033,Fantino - Ritz Carlton Canc\'fan,Canc\'fan,Mexico,,La Liste,,79.50\
+1034,Johannesstube taste nature,Nova Levante,Italy,,La Liste,,79.50\
+1035,Jos\'e9 Carlos Garc\'eda,M\'e1laga,Spain,,La Liste,,79.50\
+1036,Le Pressoir dArgent,Bordeaux,France,,La Liste,,79.50\
+1037,Marsan - H\'e9l\'e8ne Darroze,Paris,France,,La Liste,,79.50\
+1038,Nineteen18,Vilnius,Lithuania,,La Liste,,79.50\
+1039,Noa Chefs Hall,Tallinn,Estonia,,La Liste,,79.50\
+1040,Pastel,\uc0\u1514 \u1500  \u1488 \u1489 \u1497 \u1489  \u1497 \u1508 \u1493 ,Israel,,La Liste,,79.50\
+1041,Published on Main,Vancouver,Canada,,La Liste,,79.50\
+1042,Py-R,Toulouse,France,,La Liste,,79.50\
+1043,Resonance,,Thailand,,La Liste,,79.50\
+1044,Taian Table,Guangzhou,China,,La Liste,,79.50\
+1045,Tartarbar,Sankt-Peterburg,Russia,,La Liste,,79.50\
+1046,Toqu\'e9!,Montr\'e9al,Canada,,La Liste,,79.50\
+1047,Twenty-Eight Atlantic,Harwich,United States,,La Liste,,79.50\
+1048,Wine and Crab,Moskva,Russia,,La Liste,,79.50\
+1049,Ying,Macau,Macau SAR China,,La Liste,,79.50\
+1050,\uc0\u49548 \u50872  - Soul,,South Korea,,La Liste,,79.50\
+1051,\uc0\u49556 \u48164  - Solbam,,South Korea,,La Liste,,79.50\
+1052,\uc0\u36947 \u20154  - Doujin,Kyoto,Japan,,La Liste,,79.50\
+1053,\uc0\u38134 \u33453  Yinba (\u31185 \u23398 \u22478 ),Chengdu,China,,La Liste,,79.50\
+1054,42 Restaurant,Esztergom,Hungary,,La Liste,,79.00\
+1055,Arbor,,Hong Kong SAR China,,La Liste,,79.00\
+1056,Ernas Elderberry House Restaurant,Oakhurst,United States,,La Liste,,79.00\
+1057,Five Foot Road,,Macau SAR China,,La Liste,,79.00\
+1058,Gamberro,Bogot\'e1,Colombia,,La Liste,,79.00\
+1059,Indaco - Albergo Della Regina Isabella,Lacco Ameno,Italy,,La Liste,,79.00\
+1060,Jean-Georges Philadelphia,Philadelphia,United States,,La Liste,,79.00\
+1061,Ormeggio at The Spit,Mosman,Australia,,La Liste,,79.00\
+1062,Petri,Stockholm,Sweden,,La Liste,,79.00\
+1063,Pur,Berchtesgaden,Germany,,La Liste,,79.00\
+1064,Rybtorg,Moskva,Russia,,La Liste,,79.00\
+1065,Tate Dining Room,,Hong Kong SAR China,,La Liste,,79.00\
+1066,The Fearrington House Restaurant,Pittsboro,United States,,La Liste,,79.00\
+1067,Wing Lei at Wynn Las Vegas,Las Vegas,United States,,La Liste,,79.00\
+1068,\uc0\u44256 \u47308 \u47532  \u52996  - Goryori Ken,,South Korea,,La Liste,,79.00\
+1069,\uc0\u46972 \u48120 \u46944 \u50640  - Lamiti\'e9,Seoul,South Korea,,La Liste,,79.00\
+1070,\uc0\u21513 \u21697 \u36713  - Ji Pin Court,,China,,La Liste,,79.00\
+1071,\uc0\u24481 \u23453 \u36713  - Imperial Treasure Fine Chinese Cuisine,Shanghai,China,,La Liste,,79.00\
+1072,7 Mehmet,Antalya,Turkey,,La Liste,,78.50\
+1073,Amazing Chinese Cuisine,Shanghai,China,,La Liste,,78.50\
+1074,Armani / Ristorante,\uc0\u1583 \u1576 \u1610 ,United Arab Emirates,,La Liste,,78.50\
+1075,Chakra,Jerusalem,Israel,,La Liste,,78.50\
+1076,Clara,,Thailand,,La Liste,,78.50\
+1077,Comp\'e8re Lapin,New Orleans,United States,,La Liste,,78.50\
+1078,COTE Miami,Miami,United States,,La Liste,,78.50\
+1079,D\'9eiaugsmas,Vilnius,Lithuania,,La Liste,,78.50\
+1080,Ensue - Shangri La Hotel,Shen Zhen Shi,China,,La Liste,,78.50\
+1081,Evoka,Apizaco,Mexico,,La Liste,,78.50\
+1082,Haawm,,Thailand,,La Liste,,78.50\
+1083,Harrimans Virginia Piedmont Grill,Middleburg,United States,,La Liste,,78.50\
+1084,L\'92Abattoir,Vancouver,Canada,,La Liste,,78.50\
+1085,La Baie - The Ritz-Carlton,Osaka,Japan,,La Liste,,78.50\
+1086,Number One at The Balmoral,Edinburgh,United Kingdom,,La Liste,,78.50\
+1087,Sacha,Madrid,Spain,,La Liste,,78.50\
+1088,Sushi Guen,,Brazil,,La Liste,,78.50\
+1089,The Lady Helen,Thomastown,Ireland,,La Liste,,78.50\
+1090,The Ocean Room,Kiawah Island,United States,,La Liste,,78.50\
+1091,Vespertine,Culver City,United States,,La Liste,,78.50\
+1092,\uc0\u27743 -\u30001 \u36745 \u24072 \u20613 \u20027 \u29702  - Jiang by Chef Fei,Guangzhou Shi,China,,La Liste,,78.50\
+1093,\uc0\u29281 \u20025 \u65294 \u26997 \u19978  \u22825 \u12407 \u12425 \u65294 \u26412 \u24215  . Mudan,,Taiwan,,La Liste,,78.50\
+1094,Acqua,,Thailand,,La Liste,,78.00\
+1095,Aksorn,,Thailand,,La Liste,,78.00\
+1096,Al Mahara,Dubai,United Arab Emirates,,La Liste,,78.00\
+1097,Blackswan by Viannay Massot - Luo Hong Art Museum,,China,,La Liste,,78.00\
+1098,Boskinac,Novalja,Croatia,,La Liste,,78.00\
+1099,Carlota,S\'e3o Paulo,Brazil,,La Liste,,78.00\
+1100,Chakaiseki Akiyoshi,Paris,France,,La Liste,,78.00\
+1101,Commanders Palace,New Orleans,United States,,La Liste,,78.00\
+1102,Florentino,Melbourne,Australia,,La Liste,,78.00\
+1103,Gaspars,Vilnius,Lithuania,,La Liste,,78.00\
+1104,Gymkhana,London,United Kingdom,,La Liste,,78.00\
+1105,Karavalli,Bengaluru,India,,La Liste,,78.00\
+1106,Kontrast,Oslo,Norway,,La Liste,,78.00\
+1107,La Ferme de la Ruchotte,Bligny-sur-Ouche,France,,La Liste,,78.00\
+1108,LD,Kor\uc0\u269 ula,Croatia,,La Liste,,78.00\
+1109,Nav,Zagreb,Croatia,,La Liste,,78.00\
+1110,Sein,Karlsruhe,Germany,,La Liste,,78.00\
+1111,Shoukouwa,Singapore,Singapore,,La Liste,,78.00\
+1112,The Grey,Savannah,United States,,La Liste,,78.00\
+1113,Toppers,Nantucket,United States,,La Liste,,78.00\
+1114,\uc0\u1055 \u1088 \u1086 \u1073 \u1082 \u1072  \u1085 \u1072  \u1062 \u1074 \u1077 \u1090 \u1085 \u1086 \u1084  - Probka na Cvetnom,Moskva,Russia,,La Liste,,78.00\
+1115,\uc0\u49828 \u49884 \u51312  - Sushi Cho,Seoul,South Korea,,La Liste,,78.00\
+1116,\uc0\u51228 \u47196  \u52980 \u54540 \u47113 \u49828  - Zero Complex,Seoul,South Korea,,La Liste,,78.00\
+1117,\uc0\u54588 \u50640 \u47476  \u44032 \u45768 \u50640 \u47476  \u49436 \u50872  - Pierre Gagnaire \'e0 S\'e9oul,,South Korea,,La Liste,,78.00\
+1118,\uc0\u21033 \u33489 \u37202 \u23478  (\u23452 \u23433 \u24191 \u22330 \u24215 ) Lei Garden,Guangzhou Shi,China,,La Liste,,78.00\
+1119,\uc0\u25196 \u24030 \u29422 \u23376 \u27004 \u22823 \u37202 \u24215 (\u37015 \u27743 \u24215 ) - Yangzhou Lion Pavilion Hotel,Yangzhou Shi,China,,La Liste,,78.00\
+1120,\uc0\u26207 \u27704 \u20852  Sheng Yong Xing,,China,,La Liste,,78.00\
+1121,\uc0\u28142 \u25196 \u24220  (\u23433 \u23450 \u38376 \u24215 ) Huai Yang Fu at Andingmen,Beijing,China,,La Liste,,78.00\
+1122,Angle,Barcelona,Spain,,La Liste,,77.50\
+1123,Arbane,Reims,France,,La Liste,,77.50\
+1124,Bag\'e1,Ja\'e9n,Spain,,La Liste,,77.50\
+1125,Bukhara,New Delhi,India,,La Liste,,77.50\
+1126,Cail Bruich,Glasgow,United Kingdom,,La Liste,,77.50\
+1127,C\'9cur dArtichaut,M\'fcnster,Germany,,La Liste,,77.50\
+1128,Cyril Attrazic - Chez Camillou,Peyre en Aubrac,France,,La Liste,,77.50\
+1129,El Mural de los Poblanos,Heroica Puebla de Zaragoza,Mexico,,La Liste,,77.50\
+1130,Kaikatei,Fukui,Japan,,La Liste,,77.50\
+1131,Grand Cru,Moskva,Russia,,La Liste,,77.50\
+1132,Hawksworth,Vancouver,Canada,,La Liste,,77.50\
+1133,Il Ristorante - Niko Romito,Dubai,United Arab Emirates,,La Liste,,77.50\
+1134,Jazamango,La Paz,Mexico,,La Liste,,77.50\
+1135,Jun Sakamoto,S\'e3o Paulo,Brazil,,La Liste,,77.50\
+1136,Matur og Drykkur,Reykjav\'edk,Iceland,,La Liste,,77.50\
+1137,Mount Juliet,Thomastown,Ireland,,La Liste,,77.50\
+1138,Mugaritz,Errenteria,Spain,,La Liste,,77.50\
+1139,Nuema,Quito,Ecuador,,La Liste,,77.50\
+1140,Palace,Helsinki,Finland,,La Liste,,77.50\
+1141,PasMus,Vilnius,Lithuania,,La Liste,,77.50\
+1142,R-Haan,,Thailand,,La Liste,,77.50\
+1143,Rockpool Bar & Grill,Sydney,Australia,,La Liste,,77.50\
+1144,Spago Beverly Hills,Beverly Hills,United States,,La Liste,,77.50\
+1145,Sushi Masaki Saito,Toronto,Canada,,La Liste,,77.50\
+1146,Sushi Saito,Hong Kong,Hong Kong SAR China,,La Liste,,77.50\
+1147,The Krug Room,Central,Hong Kong SAR China,,La Liste,,77.50\
+1148,Yi at Morpheus,Macao,Macau SAR China,,La Liste,,77.50\
+1149,Zibu,Acapulco de Ju\'e1rez,Mexico,,La Liste,,77.50\
+1150,\uc0\u44536 \u47536 \u53580 \u51060 \u48660  - The Green Table,,South Korea,,La Liste,,77.50\
+1151,\uc0\u47448 \u45768 \u45124  - Ryunique,,South Korea,,La Liste,,77.50\
+1152,\uc0\u20848 \u36713 \u26449 \u24196 \u39135 \u22346  (\u23433 \u32550 \u27861 \u20113 \u24215 ) - Lanxuan Village Food Restaurant,Hangzhou,China,,La Liste,,77.50\
+1153,\uc0\u38065 \u28246 \u28180 \u28207  Qianhu Yugang at Park Hyatt,Ningbo Shi,China,,La Liste,,77.50\
+1154,Arco by Paco P\'e9rez,Gda\uc0\u324 sk,Poland,,La Liste,,77.00\
+1155,A\'fcrt,Barcelona,Spain,,La Liste,,77.00\
+1156,Baan Thai,Kolkata,India,,La Liste,,77.00\
+1157,Birdsong,San Francisco,United States,,La Liste,,77.00\
+1158,Casa de Ch\'e1 da Boa Nova,Le\'e7a da Palmeira,Portugal,,La Liste,,77.00\
+1159,Casa Maria Luigia,Modena,Italy,,La Liste,,77.00\
+1160,Demo,Vilnius,Lithuania,,La Liste,,77.00\
+1161,Desde 1911,Madrid,Spain,,La Liste,,77.00\
+1162,Eulalie,New York,United States,,La Liste,,77.00\
+1163,Farmhouse,Forestville,United States,,La Liste,,77.00\
+1164,G\'fceyu Mar,Ribadesella,Spain,,La Liste,,77.00\
+1165,Il Gallo dOro,Funchal,Portugal,,La Liste,,77.00\
+1166,ION Harbour by Simon Rogan,Valletta,Malta,,La Liste,,77.00\
+1167,Jordan,Stellenbosch,South Africa,,La Liste,,77.00\
+1168,La Voile - La R\'e9serve Ramatuelle,Ramatuelle,France,,La Liste,,77.00\
+1169,NARO,New York,United States,,La Liste,,77.00\
+1170,NOK by Alara,Lagos,Nigeria,,La Liste,,77.00\
+1171,Olluco,Moskva,Russia,,La Liste,,77.00\
+1172,Osaka Nikkei,San Isidro,Peru,,La Liste,,77.00\
+1173,Osteria Giulia,Toronto,Canada,,La Liste,,77.00\
+1174,Peumayen,Providencia,Chile,,La Liste,,77.00\
+1175,Popina,Tel Aviv-Yafo,Israel,,La Liste,,77.00\
+1176,Re-naa,Stavanger,Norway,,La Liste,,77.00\
+1177,Scaramouche,Toronto,Canada,,La Liste,,77.00\
+1178,Shisen Hanten,Singapore,Singapore,,La Liste,,77.00\
+1179,Stone Sal,,China,,La Liste,,77.00\
+1180,The Belvedere,Beverly Hills,United States,,La Liste,,77.00\
+1181,The Table,Mumbai,India,,La Liste,,77.00\
+1182,Three on the Bund - Jean Georges Shanghai,Huangpu,China,,La Liste,,77.00\
+1183,Vetri Cucina,Philadelphia,United States,,La Liste,,77.00\
+1184,Wana Yook,,Thailand,,La Liste,,77.00\
+1185,Ziya,Mumbai,India,,La Liste,,77.00\
+1186,\uc0\u44053 \u48124 \u52384  \u47112 \u49828 \u53664 \u46993  - Kang Minchul,,South Korea,,La Liste,,77.00\
+1187,\uc0\u45908  \u44536 \u47112 \u51060 \u53944  \u54861 \u50672  - The Great Hong Yuan,,South Korea,,La Liste,,77.00\
+1188,\uc0\u49328 \u47196  \u19977 \u38706  - Sanro,,South Korea,,La Liste,,77.00\
+1189,\uc0\u54036 \u47112 \u53944  - Palate,,South Korea,,La Liste,,77.00\
+1190,\uc0\u54036 \u49440  - Palsun - The Shilla,Seoul,South Korea,,La Liste,,77.00\
+1191,\uc0\u54861 \u48372 \u44033  - Hong Bo Gak,,South Korea,,La Liste,,77.00\
+1192,\uc0\u12465 \u12452 \u12467 \u12524 \u12463 \u12471 \u12519 \u12531 \u12497 \u12522  - KEI Collection Paris,Minato City,Japan,,La Liste,,77.00\
+1193,\uc0\u26032 \u21516 \u20048 \u40060 \u32709 \u37202 \u23478  - Sun Tung Lok,Hong Kong,Hong Kong SAR China,,La Liste,,77.00\
+1194,\uc0\u26032 \u23551 \u21496  - Shin-Zushi,S\'e3o Paulo,Brazil,,La Liste,,77.00\
+1195,\uc0\u26690 \u35821 \u23665 \u25151 \u39640 \u32423 \u39184 \u21381  GuiYuShanFang,Hangzhou Shi,China,,La Liste,,77.00\
+1196,80/20,,Thailand,,La Liste,,76.50\
+1197,Alexander,P\'e4daste,Estonia,,La Liste,,76.50\
+1198,Amaru,Armadale,Australia,,La Liste,,76.50\
+1199,Carusos,Montecito,United States,,La Liste,,76.50\
+1200,Drukarnia Smaku Cristina,Zakopane,Poland,,La Liste,,76.50\
+1201,Element 47,Aspen,United States,,La Liste,,76.50\
+1202,Epoka,Warszawa,Poland,,La Liste,,76.50\
+1203,Horizon - Hilton Pattaya,Muang Pattaya,Thailand,,La Liste,,76.50\
+1204,H\uc0\u333 seki,Dubai,United Arab Emirates,,La Liste,,76.50\
+1205,Iloli,Casablanca,Morocco,,La Liste,,76.50\
+1206,Isolina Taberna Peruana,Barranco,Peru,,La Liste,,76.50\
+1207,Kadota,Daylesford,Australia,,La Liste,,76.50\
+1208,LAtelier de Jo\'ebl Robuchon (USA),Las Vegas,United States,,La Liste,,76.50\
+1209,L\'92Italien par Jean-Georges,Marrakech,Morocco,,La Liste,,76.50\
+1210,Le 1947 - Cheval Blanc Randheli,,Maldives,,La Liste,,76.50\
+1211,Le Basilic,Canc\'fan,Mexico,,La Liste,,76.50\
+1212,Le Hatley,North Hatley,Canada,,La Liste,,76.50\
+1213,LuMi Bar & Dining,Pyrmont,Australia,,La Liste,,76.50\
+1214,Mullixhiu,Tirana,Albania,,La Liste,,76.50\
+1215,Pangea,Monterrey,Mexico,,La Liste,,76.50\
+1216,Pearl Morissette,Lincoln,Canada,,La Liste,,76.50\
+1217,Rasoi by Vineet, Gulf Hotel Bahrain,Manama,Bahrain,,La Liste,,76.50\
+1218,Salon,Cape Town,South Africa,,La Liste,,76.50\
+1219,Salt,Fernandina Beach,United States,,La Liste,,76.50\
+1220,St. Lawrence,Vancouver,Canada,,La Liste,,76.50\
+1221,Tannenhof,Sankt Anton am Arlberg,Austria,,La Liste,,76.50\
+1222,The Club Grill,Canc\'fan,Mexico,,La Liste,,76.50\
+1223,The Herbfarm,Woodinville,United States,,La Liste,,76.50\
+1224,The Restaurant at Justin,Paso Robles,United States,,La Liste,,76.50\
+1225,Wasabi By Morimoto - The Taj Mahal Palace Hotel,Mumbai,India,,La Liste,,76.50\
+1226,Wills Domain,Yallingup,Australia,,La Liste,,76.50\
+1227,\uc0\u1040 \u1085 \u1076 \u1088 \'e9 - Andr\'e9,Sofia,Bulgaria,,La Liste,,76.50\
+1228,\uc0\u1050 \u1086 \u1089 \u1084 \u1086 \u1089  - Cosmos,Sofia,Bulgaria,,La Liste,,76.50\
+1229,\uc0\u1054 \u1075 \u1086 \u1085 \u1105 \u1082  - Ogonek,Almaty,Kazakhstan,,La Liste,,76.50\
+1230,\uc0\u1057 \u1080 \u1085 \u1090 \u1086 \u1093 \u1086  - Sintoho at the Four Seasons,Sankt-Peterburg,Russia,,La Liste,,76.50\
+1231,\uc0\u45908  \u54540 \u46972 \u51081  \u54840 \u44536  - The Flying Hog,Seogwipo,South Korea,,La Liste,,76.50\
+1232,\uc0\u47017 24 \u48148 \u51060  \u53216 \u47924 \u45796  - LAB XXIV by Kumuda,,South Korea,,La Liste,,76.50\
+1233,\uc0\u21322 \u23707 \u37202 \u24215  \u33406 \u21033 \u29237 \u22763 \u39184 \u21381  - Sir Ellys Restaurant at The Peninsula,Shanghai,China,,La Liste,,76.50\
+1234,\uc0\u31119 1015 - FU1015,Shanghai,China,,La Liste,,76.50\
+1235,Ahora by Sevda Dimitrova,Sofia,Bulgaria,,La Liste,,76.00\
+1236,Avartana,Chennai,India,,La Liste,,76.00\
+1237,Bomras,Anjuna,India,,La Liste,,76.00\
+1238,Costanera 700,Miraflores,Peru,,La Liste,,76.00\
+1239,Dede at the Customs House Baltimore,Baltimore,Ireland,,La Liste,,76.00\
+1240,INDDEE,,Thailand,,La Liste,,76.00\
+1241,Joe Beef,Montr\'e9al,Canada,,La Liste,,76.00\
+1242,June,Nashville,United States,,La Liste,,76.00\
+1243,La Bourgogne,Punta del Este,Uruguay,,La Liste,,76.00\
+1244,Le Restaurant - La Maison Arabe,Marrakesh,Morocco,,La Liste,,76.00\
+1245,Le Sylvestre,Courchevel,France,,La Liste,,76.00\
+1246,Les Pr\'e9sidents,,Brazil,,La Liste,,76.00\
+1247,LOONA,Moskva,Russia,,La Liste,,76.00\
+1248,MAK,Maribor,Slovenia,,La Liste,,76.00\
+1249,Nikolas 0/360,Sofia,Bulgaria,,La Liste,,76.00\
+1250,OD Urla,,Turkey,,La Liste,,76.00\
+1251,O\'9aterija Debeluh,Bre\'9eice,Slovenia,,La Liste,,76.00\
+1252,Qazaq Gourmet,Astana,Kazakhstan,,La Liste,,76.00\
+1253,Selfie,Astana,Kazakhstan,,La Liste,,76.00\
+1254,Small Dinner Club,,Thailand,,La Liste,,76.00\
+1255,Spice Market,\uc0\u1575 \u1604 \u1583 \u1608 \u1581 \u1577 ,Qatar,,La Liste,,76.00\
+1256,Terre,Cork,Ireland,,La Liste,,76.00\
+1257,The French Caf\'e9,Auckland,New Zealand,,La Liste,,76.00\
+1258,The River Caf\'e9,Calgary,Canada,,La Liste,,76.00\
+1259,Tuju,,Brazil,,La Liste,,76.00\
+1260,\uc0\u1054 \u1085 \u1077 \u1075 \u1080 \u1085  \u1044 \u1072 \u1095 \u1072  - Onegin Dacha,Rostov,Russia,,La Liste,,76.00\
+1261,\uc0\u12524 \u12473 \u12488 \u12521 \u12531  \u12497 \u12483 \u12471 \u12519 \u12531  - Pachon,Shibuya-ku,Japan,,La Liste,,76.00\
+1262,\uc0\u20140 \u20806 \u23609  - Kings Joy Beijing,Beijing,China,,La Liste,,76.00\
+1263,\uc0\u23376 \u38750  Zi Fei,Chengdu Shi,China,,La Liste,,76.00\
+1264,\uc0\u26000 \u38675 \u19997  PH\'c9NIX - The PuLI,,China,,La Liste,,76.00\
+1265,\uc0\u28246 \u28392 28\u39184 \u21381  28 HuBin Road at Hyatt Regency Hangzhou,Hangzhou Shi,China,,La Liste,,76.00\
+1266,\uc0\u28851 \u32988 \u31169 \u21416 (\u28851 \u32988 \u38598 \u22242 ) BingSheng Private Kitchen,Guangzhou Shi,China,,La Liste,,76.00\
+1267,Agli Amici Rovinj,Rovinj,Croatia,,La Liste,,75.50\
+1268,Americano,Mumbai,India,,La Liste,,75.50\
+1269,Antiqvvm,Porto,Portugal,,La Liste,,75.50\
+1270,Aragu - Velaa Private Island,Republic of Maldives,Maldives,,La Liste,,75.50\
+1271,Astrid y Gast\'f3n (PE),Lima,Peru,,La Liste,,75.50\
+1272,Azul Hist\'f3rico,Ciudad de M\'e9xico,Mexico,,La Liste,,75.50\
+1273,Birch,Sankt-Peterburg,Russia,,La Liste,,75.50\
+1274,Blue Margouillat,Saint Leu,R\'e9union,,La Liste,,75.50\
+1275,Cloudstreet,Singapore,Singapore,,La Liste,,75.50\
+1276,Coquette,New Orleans,United States,,La Liste,,75.50\
+1277,Harry Sasson,Bogot\'e1,Colombia,,La Liste,,75.50\
+1278,Hayato,Los Angeles,United States,,La Liste,,75.50\
+1279,Irin,Bratislava,Slovakia,,La Liste,,75.50\
+1280,\'cct\'e0n Test Kitchen,Lagos,Nigeria,,La Liste,,75.50\
+1281,Izumi Bandra,Mumbai,India,,La Liste,,75.50\
+1282,Kahyangan,Gondangdia,Indonesia,,La Liste,,75.50\
+1283,Koan,K\'f8benhavn,Denmark,,La Liste,,75.50\
+1284,LAmb\'e9ric,Le Tampon,R\'e9union,,La Liste,,75.50\
+1285,LAtelier de Ben,Saint-Denis,R\'e9union,,La Liste,,75.50\
+1286,La Case Pitey,Saint-Louis,R\'e9union,,La Liste,,75.50\
+1287,La Marea at Viceroy Riviera Maya,Playa del Carmen,Mexico,,La Liste,,75.50\
+1288,Laganini Lounge Bar & Fish House,Hvar,Croatia,,La Liste,,75.50\
+1289,Le Royal at The Raffles,Phnom Penh,Cambodia,,La Liste,,75.50\
+1290,Max Cekot Kitchen,R\uc0\u299 ga,Latvia,,La Liste,,75.50\
+1291,Muga,Pozna\uc0\u324 ,Poland,,La Liste,,75.50\
+1292,Oyster Talks \uc0\u34461 \u21543 ,,China,,La Liste,,75.50\
+1293,Renaissance,Prishtin\'eb,Kosovo,,La Liste,,75.50\
+1294,SAGE,Moskva,Russia,,La Liste,,75.50\
+1295,Sienna Store & Cafe,Kolkata,India,,La Liste,,75.50\
+1296,The Bombay Canteen,Mumbai,India,,La Liste,,75.50\
+1297,The Dining Room at Moody Tongue,Chicago,United States,,La Liste,,75.50\
+1298,The Planters at The Danna,Langkawi,Malaysia,,La Liste,,75.50\
+1299,Thevar,Singapore,Singapore,,La Liste,,75.50\
+1300,Toyo Eatery,Makati,Philippines,,La Liste,,75.50\
+1301,Villa Fleuri\'e9,Saint-Denis,R\'e9union,,La Liste,,75.50\
+1302,Villa Frantz\'e9n,,Thailand,,La Liste,,75.50\
+1303,\uc0\u1585 \u1587 \u1578 \u1608 \u1585 \u1575 \u1606  \u1581 \u1587 \u1578 \u1608 \u1585 \u1575 \u1606  - Hestooran,Tehran,Iran,,La Liste,,75.50\
+1304,\uc0\u12456 \u12473 \u12503 \u12522  \u12475 \u12540  \u12465 \u12452  \u12462 \u12531 \u12470  - Esprit C. Kei Ginza,Chuo City,Japan,,La Liste,,75.50\
+1305,\uc0\u26085 \u26412 \u26009 \u29702  \u37549 \u23627  - Zeniya,Kanazawa-shi,Japan,,La Liste,,75.50\
+1306,Akuna,,Vietnam,,La Liste,,75.00\
+1307,Anan Saigon,,Vietnam,,La Liste,,75.00\
+1308,Babel,Budapest,Hungary,,La Liste,,75.00\
+1309,Bao Li Xuan - Bulgari Hotel Shanghai,,China,,La Liste,,75.00\
+1310,Belly of the beast,Cape Town,South Africa,,La Liste,,75.00\
+1311,Bengaluru Oota Company,Bengaluru,India,,La Liste,,75.00\
+1312,Borkonhya Winekitchen,Budapest,Hungary,,La Liste,,75.00\
+1313,Boulevard,San Francisco,United States,,La Liste,,75.00\
+1314,Cantinetta Antinori,Moskva,Russia,,La Liste,,75.00\
+1315,Canton 8 (Runan Street) \uc0\u21916 \u31908 8\u21495 \u65288 \u27741 \u21335 \u34903 \u65289 ,,China,,La Liste,,75.00\
+1316,Chefs Table,Moskva,Russia,,La Liste,,75.00\
+1317,Chefs Warehouse at Tintswalo Atlantic,Le Cap,South Africa,,La Liste,,75.00\
+1318,Cosme,San Isidro,Peru,,La Liste,,75.00\
+1319,\'e9 by Jos\'e9 Andres,Las Vegas,United States,,La Liste,,75.00\
+1320,El Mercado,Miraflores,Peru,,La Liste,,75.00\
+1321,El Puntal del Norte,Ciudad de M\'e9xico,Mexico,,La Liste,,75.00\
+1322,Ess\'eancia,Budapest,Hungary,,La Liste,,75.00\
+1323,Estero,Playa del Carmen,Mexico,,La Liste,,75.00\
+1324,Farmlore,Bengaluru,India,,La Liste,,75.00\
+1325,Fonda Fina,Ciudad de M\'e9xico,Mexico,,La Liste,,75.00\
+1326,Frantsuza Bistrot,Sankt-Peterburg,Russia,,La Liste,,75.00\
+1327,George & John,Tel Aviv-Yafo,Israel,,La Liste,,75.00\
+1328,Gia,,Vietnam,,La Liste,,75.00\
+1329,Giewont,Ko\uc0\u347 cielisko,Poland,,La Liste,,75.00\
+1330,Hibana by Koki,,Vietnam,,La Liste,,75.00\
+1331,Huset,Ciudad de M\'e9xico,Mexico,,La Liste,,75.00\
+1332,Ikra,Moskva,Russia,,La Liste,,75.00\
+1333,Issaya Siamese Club,Bangkok,Thailand,,La Liste,,75.00\
+1334,John Chefs Hall,R\uc0\u299 ga,Latvia,,La Liste,,75.00\
+1335,Khufus,,Egypt,,La Liste,,75.00\
+1336,Krasota,Dubai,United Arab Emirates,,La Liste,,75.00\
+1337,La Maison 1888,,Vietnam,,La Liste,,75.00\
+1338,La Villa,,Vietnam,,La Liste,,75.00\
+1339,Le Jasmine - Le Doge,Casablanca,Morocco,,La Liste,,75.00\
+1340,Le Mousso,Montr\'e9al,Canada,,La Liste,,75.00\
+1341,Le Sarkara,Courchevel,France,,La Liste,,75.00\
+1342,Leo Wine & Kitchen,Rostov,Russia,,La Liste,,75.00\
+1343,Ling Long - Waldorf Astoria Shanghai on the Bund,,China,,La Liste,,75.00\
+1344,Logy,,Taiwan,,La Liste,,75.00\
+1345,Long Trieu - The Reverie Saigon,,Vietnam,,La Liste,,75.00\
+1346,LPM - La Petite Maison,Dubai,United Arab Emirates,,La Liste,,75.00\
+1347,Maison Barnes,New York,United States,,La Liste,,75.00\
+1348,Maya,Moskva,Russia,,La Liste,,75.00\
+1349,Menssa,Woluwe-Saint-Pierre,Belgium,,La Liste,,75.00\
+1350,Naoki,Vitacura,Chile,,La Liste,,75.00\
+1351,Q Sushi,Los Angeles,United States,,La Liste,,75.00\
+1352,Rumour by R\'e1cz Jen\uc0\u337 ,Budapest,Hungary,,La Liste,,75.00\
+1353,Salt,Budapest,Hungary,,La Liste,,75.00\
+1354,Sushi Ginza Onodera,West Hollywood,United States,,La Liste,,75.00\
+1355,The Singular Santiago,Lastarria Hotel,Santiago,Chile,,La Liste,,75.00\
+1356,Trzy Rybki,Krak\'f3w,Poland,,La Liste,,75.00\
+1357,Yoshino,New York,United States,,La Liste,,75.00\
+1358,\uc0\u1050 \u1072 \u1079 \u1072 \u1093  \u1040 \u1091 \u1083  - Qazaq Auyl,Almaty,Kazakhstan,,La Liste,,75.00\
+1359,\uc0\u1050 \u1088 \u1072 \u1089 \u1086 \u1090 \u1072  - Krasota,Moskva,Russia,,La Liste,,75.00\
+1360,\uc0\u1057 \u1072 \u1076  - Sad,Sankt-Peterburg,Russia,,La Liste,,75.00\
+1361,\uc0\u1061 \u1072 \u1088 \u1074 \u1077 \u1089 \u1090  - Harvest,Sankt-Peterburg,Russia,,La Liste,,75.00\
+1362,\uc0\u1578 \u1603 \u1610 \u1577  - TAKYA,Riyadh,Saudi Arabia,,La Liste,,75.00\
+1363,\uc0\u20399 \u24067 \u38596 \u27861 \u24335 \u39184 \u24307  - L\'92Atelier de Jo\'ebl Robuchon,,Taiwan,,La Liste,,75.00\
+1364,\uc0\u20581 \u19968 \u20844 \u39302  J & E Mansion,,China,,La Liste,,75.00\
+1365,\uc0\u22777 \u38646 \u36019 \u23567 \u39208  - 102 House,Shanghai,China,,La Liste,,75.00\
+1366,\uc0\u24481 \u23453 \u36713  (\u24191 \u24030 \u24215 ) - Imperial Treasure Fine Chinese Cuisine,Guang Zhou Shi,China,,La Liste,,75.00\
+1367,\uc0\u26032 \u33635 \u35760  - Xin Rong Ji Chengdu,Chengdu,China,,La Liste,,75.00\
+1368,\uc0\u26032 \u33635 \u35760 \u65288 \u37329 \u34701 \u22823 \u34903 \u24215 \u65289 Xin Rong Ji \u65288 Jinrong Street\u65289 ,,China,,La Liste,,75.00\
+1369,\uc0\u30591 \u40599 \u39184 \u24307  - La Vie by Thomas B\'fchner,,Taiwan,,La Liste,,75.00\
+1370,\uc0\u38605 \u31119 \u20250  YongFoo Elite,Shanghai,China,,La Liste,,75.00}

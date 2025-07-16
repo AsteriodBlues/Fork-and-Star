@@ -1,0 +1,661 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ID,Name,City,Country,Award,Source List,Cuisine\
+1,Onjaku,Shizuoka,Japan,Tabelog Gold,Tabelog Selection,Japanese\
+2,PRESENTE Sugi,Chiba,Japan,Tabelog Gold,Tabelog Selection,Italian\
+3,Shimizu,Aichi,Japan,Tabelog Gold,Tabelog Selection,Japanese\
+4,PELLEGRINO,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Italian\
+5,Kasahara,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Yakitori/Poultry\
+6,Amamoto,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Sushi\
+7,Kataori,Ishikawa,Japan,Tabelog Gold,Tabelog Selection,Japanese\
+8,Naz,Nagano,Japan,Tabelog Gold,Tabelog Selection,Innovative\
+9,Sottaku Tsukamoto,Kyoto,Japan,Tabelog Gold,Tabelog Selection,Japanese\
+10,Shimbashi Hoshino,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Japanese\
+11,Ninshurou,Kyoto,Japan,Tabelog Gold,Tabelog Selection,Chinese\
+12,Saito,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Sushi\
+13,Chikamatsu,Fukuoka,Japan,Tabelog Gold,Tabelog Selection,Sushi\
+14,Chiso Nishikenichi,Shizuoka,Japan,Tabelog Gold,Tabelog Selection,French\
+15,Kinoshita,Hyogo,Japan,Tabelog Gold,Tabelog Selection,Italian\
+16,YUKIMOTO,Nagano,Japan,Tabelog Gold,Tabelog Selection,Japanese\
+17,ac\'e1 1\'b0,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Spanish\
+18,Shinohara,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Japanese\
+19,Sanshin,Osaka,Japan,Tabelog Gold,Tabelog Selection,Sushi\
+20,Naruse,Shizuoka,Japan,Tabelog Gold,Tabelog Selection,Tempura\
+21,Uran,Shiga,Japan,Tabelog Gold,Tabelog Selection,Unagi\
+22,Tenzushi Kyomachi,Fukuoka,Japan,Tabelog Gold,Tabelog Selection,Sushi\
+23,L'\'e9vo,Toyama,Japan,Tabelog Gold,Tabelog Selection,Innovative\
+24,Sazenka,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Chinese\
+25,Chez Inno,Tokyo,Japan,Tabelog Gold,Tabelog Selection,French\
+26,Sakai,Fukuoka,Japan,Tabelog Gold,Tabelog Selection,Sushi\
+27,Ao,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Innovative\
+28,Matsukawa,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Japanese\
+29,Dojin,Kyoto,Japan,Tabelog Gold,Tabelog Selection,Japanese\
+30,Iida,Kyoto,Japan,Tabelog Gold,Tabelog Selection,Japanese\
+31,Arai,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Sushi\
+32,Sawada,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Sushi\
+33,SEIZAN,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Japanese\
+34,Ikko,Hokkaido,Japan,Tabelog Gold,Tabelog Selection,Sushi\
+35,Sugita,Tokyo,Japan,Tabelog Gold,Tabelog Selection,Sushi\
+36,Abon,Hyogo,Japan,Tabelog Silver,Tabelog Selection,Tonkatsu/Fried foods\
+37,Ajidocoro,Hokkaido,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+38,Ajihiro,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+39,AKAI,Hiroshima,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+40,Akira,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+41,akordu,Nara,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+42,AO,Fukuoka,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+43,APICIUS,Tokyo,Japan,Tabelog Silver,Tabelog Selection,French\
+44,Asanuma,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Tempura\
+45,bb9,Hyogo,Japan,Tabelog Silver,Tabelog Selection,Spanish\
+46,Bia,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+47,Bon.nu,Tokyo,Japan,Tabelog Silver,Tabelog Selection,French\
+48,C\'e1 sento,Hyogo,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+49,Chataro,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Yakitori/Poultry\
+50,Chiso Sottakuito,Hiroshima,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+51,CHIUnE,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+52,DEN,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Creative\
+53,Dewaya,Yamagata,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+54,Ebisu YORONIKU,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Yakiniku/Meat dishes\
+55,ESqUISSE,Tokyo,Japan,Tabelog Silver,Tabelog Selection,French\
+56,\'e9t\'e9,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+57,Fogliolina della Porta Fortuna,Nagano,Japan,Tabelog Silver,Tabelog Selection,Italian\
+58,FUJI,Shizuoka,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+59,Fujii,Toyama,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+60,Fujiya 1935,Osaka,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+61,FUREIKA,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Chinese\
+62,Furuta,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Chinese\
+63,Gessen,Osaka,Japan,Tabelog Silver,Tabelog Selection,Chinese\
+64,GOURMANDISE,Tokyo,Japan,Tabelog Silver,Tabelog Selection,French\
+65,Gyoten,Fukuoka,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+66,HAGI,Fukushima,Japan,Tabelog Silver,Tabelog Selection,French\
+67,HAJIME,Osaka,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+68,Hasegawa Minoru,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+69,Hashimoto,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+70,Hayashi,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+71,Hirasansou,Shiga,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+72,Hirokado,Oita,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+73,Hirosawa,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Chinese\
+74,Hisada,Okayama,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+75,Hiyama,Saitama,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+76,Honkogetsu,Osaka,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+77,Ichirin Hanare,Kanagawa,Japan,Tabelog Silver,Tabelog Selection,Chinese\
+78,IIDASHOUTEN,Kanagawa,Japan,Tabelog Silver,Tabelog Selection,Ramen\
+79,il AOYAMA,Aichi,Japan,Tabelog Silver,Tabelog Selection,Italian\
+80,Inomata,Saitama,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+81,Ishikawa,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+82,Jambo Hanare,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Yakiniku/Meat dishes\
+83,Jo\'ebl Robuchon,Tokyo,Japan,Tabelog Silver,Tabelog Selection,French\
+84,Jubei,Fukui,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+85,Kabuto,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Unagi\
+86,kate cuore,Saga,Japan,Tabelog Silver,Tabelog Selection,Italian\
+87,Kawashima,Ishikawa,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+88,Kenya,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+89,Kikuzushi,Fukuoka,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+90,Kimoto,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+91,Kitagawa,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+92,Kitajima,Kanagawa,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+93,Kiu,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+94,Kiyama,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+95,Kizuna,Osaka,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+96,Kohaku,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+97,Komada,Mie,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+98,Korian,Shiga,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+99,Kotan,Fukuoka,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+100,Kuko,Nara,Japan,Tabelog Silver,Tabelog Selection,Chinese\
+101,Kurumasushi,Ehime,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+102,Kusunoki,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Tempura\
+103,Kyotenjin Noguchi,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+104,L'Effervescence,Tokyo,Japan,Tabelog Silver,Tabelog Selection,French\
+105,L'OSIER,Tokyo,Japan,Tabelog Silver,Tabelog Selection,French\
+106,Makimura,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+107,MAKITORI SHINKOBE,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Yakitori/Poultry\
+108,Matsuyama,Fukuoka,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+109,Meino,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+110,Mekumi,Ishikawa,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+111,Mikadoya,Shimane,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+112,Mita,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+113,Mitaka,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+114,Mitani,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+115,Miyakawa,Hokkaido,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+116,Miyoshi,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Yakiniku/Meat dishes\
+117,Myojaku,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+118,Namba,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+119,NARISAWA,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+120,NH,Osaka,Japan,Tabelog Silver,Tabelog Selection,French\
+121,Nikuya Tanaka Ginza,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Yakiniku/Meat dishes\
+122,Nishibuchi Hanten,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Chinese\
+123,NK,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+124,Noguchi,Osaka,Japan,Tabelog Silver,Tabelog Selection,Tonkatsu/Fried foods\
+125,Nozawa,Aichi,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+126,Numata,Osaka,Japan,Tabelog Silver,Tabelog Selection,Tempura\
+127,Ogata,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+128,Ogawa,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+129,Ogino,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+130,Oishi,Tokyo,Japan,Tabelog Silver,Tabelog Selection,French\
+131,PARCO FIERA,Hokkaido,Japan,Tabelog Silver,Tabelog Selection,Italian\
+132,pesceco,Nagasaki,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+133,Quintessence,Tokyo,Japan,Tabelog Silver,Tabelog Selection,French\
+134,Raimon,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Yakiniku/Meat dishes\
+135,Reminiscence,Aichi,Japan,Tabelog Silver,Tabelog Selection,French\
+136,respiraci\'f3n,Ishikawa,Japan,Tabelog Silver,Tabelog Selection,Spanish\
+137,Restaurant UOZEN,Niigata,Japan,Tabelog Silver,Tabelog Selection,French\
+138,Ryujiro,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+139,SAGRA,Hokkaido,Japan,Tabelog Silver,Tabelog Selection,Italian\
+140,Saika,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Chinese\
+141,Sanwa,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Italian\
+142,SASAKI,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+143,Sawada,Osaka,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+144,Sawaishi,Kanagawa,Japan,Tabelog Silver,Tabelog Selection,Yakiniku/Meat dishes\
+145,Seirin,Shizuoka,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+146,S\'c9ZANNE,Tokyo,Japan,Tabelog Silver,Tabelog Selection,French\
+147,Shimazu,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+148,Shimbashi Shimizu,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+149,Shinzenbi,Aichi,Japan,Tabelog Silver,Tabelog Selection,Chinese\
+150,SHUN,Shizuoka,Japan,Tabelog Silver,Tabelog Selection,Unagi\
+151,Shunseki Suzue,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+152,Shunsuke,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+153,Sojiki Nakahigashi,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+154,Sonoji,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Tempura\
+155,Suetomi,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+156,SUGALABO,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+157,Sushi Josuke,Hyogo,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+158,Sushikoma,Akita,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+159,Sushisho,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+160,Sushisho Nomura,Kagoshima,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+161,Sutaminaen,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Yakiniku/Meat dishes\
+162,TACUBO,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Italian\
+163,Takamitsu,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+164,Takamura,Akita,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+165,Takiya,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Tempura\
+166,Tanaka Yoshihide,Osaka,Japan,Tabelog Silver,Tabelog Selection,Chinese\
+167,TOBIUME,Fukuoka,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+168,Tokiwa,Niigata,Japan,Tabelog Silver,Tabelog Selection,Sushi\
+169,Tokuhamotonari,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+170,Tokuyamazushi,Shiga,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+171,Tomoei,Kanagawa,Japan,Tabelog Silver,Tabelog Selection,Unagi\
+172,Torishiki,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Yakitori/Poultry\
+173,Torisho Ishii,Osaka,Japan,Tabelog Silver,Tabelog Selection,Yakitori/Poultry\
+174,Toshi,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Chinese\
+175,TSUSHIMI,Yamanashi,Japan,Tabelog Silver,Tabelog Selection,French\
+176,Uemura,Hyogo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+177,Uomasa,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Unagi\
+178,Ushimaru,Chiba,Japan,Tabelog Silver,Tabelog Selection,Italian\
+179,WASA,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Chinese\
+180,Yamagishi,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+181,Yamaguchi,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Italian\
+182,Yamazaki,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+183,Yanagiya,Gifu,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+184,Yonemasu,Osaka,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+185,Yoshihisa,Kyoto,Japan,Tabelog Silver,Tabelog Selection,Japanese\
+186,\uc0\u964 \u961 \u949 \u8150 \u962 ,Tokyo,Japan,Tabelog Silver,Tabelog Selection,Innovative\
+187,4000 Chinese Restaurant,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+188,400\uc0\u8451  PIZZA,Okayama,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+189,6,Okinawa,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+190,ad hoc,Osaka,Japan,Tabelog Bronze,Tabelog Selection,French\
+191,affetto akita,Akita,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+192,agnel d'or,Osaka,Japan,Tabelog Bronze,Tabelog Selection,French\
+193,Aji Arai,Oita,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+194,Ajiman,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Seafood\
+195,Ajiyuki,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+196,Akakichi,Ehime,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+197,Akasaka Kikunoi,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+198,Akasaka Kitafuku,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Seafood\
+199,aki nagao,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,French\
+200,Alarde,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Spanish\
+201,Amaki,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+202,Amandier,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+203,Amegen,Saga,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+204,Ankyu,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+205,AO,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+206,Aoki,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+207,Araki,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+208,Arata,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+209,Arima,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+210,aru,Aichi,Japan,Tabelog Bronze,Tabelog Selection,French\
+211,Asago,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Soba\
+212,ASAHINA Gastronome,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+213,AUBE,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+214,Auberge eaufeu,Ishikawa,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+215,AZUR et MASA UEKI,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+216,BAMBOU,Chiba,Japan,Tabelog Bronze,Tabelog Selection,Tonkatsu/Fried foods\
+217,Bekk,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+218,Bleston Court Yukawatan,Nagano,Japan,Tabelog Bronze,Tabelog Selection,French\
+219,BOTANI:CURRY,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Asian/Ethnic/Curry\
+220,Caravan,Saga,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+221,Casa del cibo,Aomori,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+222,ca\'92enne,Nagano,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+223,cenci,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+224,c\'e9pages,Gunma,Japan,Tabelog Bronze,Tabelog Selection,French\
+225,CERCA TROVA,Miyazaki,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+226,Chiba Takaoka,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+227,Chiso Nakamura,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+228,C\'d4TE D'OR,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+229,CUCCAGNA,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+230,Cucina Italiana Gallura,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+231,Daichan,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+232,Daiichi,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Seafood\
+233,Daimon,Toyama,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+234,Doyama,Nagasaki,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+235,\'c9dition Koji Shimomura,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+236,Edomae Shinsaku,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+237,Eigetsu,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+238,Eiki,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+239,Eizan,Hiroshima,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+240,En,Okayama,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+241,Endo,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+242,Enoteca La Ricolma,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+243,entre nous,Hyogo,Japan,Tabelog Bronze,Tabelog Selection,French\
+244,Eragon,Hyogo,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+245,f,Akita,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+246,Fen\'eatre,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,French\
+247,Fujisawa,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+248,Fujiyama,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+249,Fukamachi,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+250,Fukunaga,Shiga,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+251,Funachef,Osaka,Japan,Tabelog Bronze,Tabelog Selection,French\
+252,fuxing,Hyogo,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+253,Gahojin,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+254,Gamou,Kagawa,Japan,Tabelog Bronze,Tabelog Selection,Udon\
+255,GapricE,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+256,Gatagataya,Kanagawa,Japan,Tabelog Bronze,Tabelog Selection,Creative\
+257,Ginza Kitafuku,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Seafood\
+258,Gion Endo,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+259,giueme,Akita,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+260,Goichi Higobashi,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+261,Guchokuni,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+262,gucite,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+263,Guu,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+264,Hachisen,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+265,Hakkoku,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+266,Hakuun,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+267,Hanaichi,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+268,Haramasa,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+269,Haru,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+270,Harutaka,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+271,Hashiguchi,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+272,Hashimoto,Kumamoto,Japan,Tabelog Bronze,Tabelog Selection,Other\
+273,Hashimotoya,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Asian/Ethnic/Curry\
+274,Hassun,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+275,Hasunomi,Okayama,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+276,Hato,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+277,Hatsunezushi,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+278,Hide,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Izakaya\
+279,Hidetaka,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+280,Higashiyama Ogata,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+281,Higebozu,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+282,Higuchi,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+283,Hijikata,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+284,Hijikata,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+285,Hinode,Mie,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+286,Hinotori,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+287,hiro,Gifu,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+288,HIRO NAGOYA,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+289,Hirosaku,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+290,Hirovanna,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+291,Hitotsu,Miyazaki,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+292,HOMMAGE,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+293,h\'f4tel de yoshino,Wakayama,Japan,Tabelog Bronze,Tabelog Selection,French\
+294,Ichikawa,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+295,Ichitaka,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+296,Ifuki,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+297,IL GARAGE,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+298,IL NODO,Kanagawa,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+299,Imai,Hyogo,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+300,IMAISHIHANTEN SUZUKA,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+301,Imoto,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+302,Ino,Ehime,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+303,Installation Table ENSO L'asymetrie du calme,Ishikawa,Japan,Tabelog Bronze,Tabelog Selection,French\
+304,Ishibashi,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+305,Ishimaru,Saitama,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+306,Isoda,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+307,Isshinzushi Koyo,Miyazaki,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+308,Ito,Fukushima,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+309,Ito,Oita,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+310,Itto,Fukui,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+311,iwanaga,Miyazaki,Japan,Tabelog Bronze,Tabelog Selection,Other\
+312,Iyuki,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+313,Izumo,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+314,Jambo Shinozaki Honten,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+315,Jinsei,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+316,Jiyu San,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Soba\
+317,JO,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+318,JOTAKI,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+319,Kadowaki,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+320,KAHALA,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Creative\
+321,KAI,Kagoshima,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+322,Kaikatei,Gifu,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+323,Kalpasi,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Asian/Ethnic/Curry\
+324,kamoshiya Kusumoto,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Creative\
+325,Kaniyoshi,Tottori,Japan,Tabelog Bronze,Tabelog Selection,Seafood\
+326,Kanjo,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+327,Kaoru HIROO,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+328,Karashima,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+329,Karatsu,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+330,Karyu,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+331,Kashiwaya,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+332,Kashu,Aomori,Japan,Tabelog Bronze,Tabelog Selection,French\
+333,Katatsumuri,Gifu,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+334,Kawada,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+335,Kawaguchi,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+336,Kawaki,Fukui,Japan,Tabelog Bronze,Tabelog Selection,Seafood\
+337,Kawamura,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+338,Kibatani,Ishikawa,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+339,Kikunoi Honten,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+340,Kinryusan,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+341,Kioicho Mitani,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+342,Kitagawa,Mie,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+343,Kitajimatei,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+344,Kitchen Ribbon,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+345,kitchen Toshiki,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Other\
+346,Kiyota Hanare,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+347,Kizaki,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+348,Kobanzushi,Fukushima,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+349,Kobayashi,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+350,Kodaiji Wakuden,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+351,Kohane,Shizuoka,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+352,Koho,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+353,Koki,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+354,Komatsu,Ishikawa,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+355,Komatsu Yasuke,Ishikawa,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+356,Kondo,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+357,Konishiya,Hyogo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+358,Korakuan,Shiga,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+359,Koshiba,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+360,Kotowari wo Hakarumise Bando,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+361,Kuishinbo YAMANAKA,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+362,Kurogi,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+363,KUROMORI,Miyagi,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+364,Kurosaki,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+365,Kuruma,Gunma,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+366,Kutan,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+367,Kyo Seika,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+368,Kyoaji Motoi,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+369,Kyodaizushi,Niigata,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+370,Kyogokuzushi,Shiga,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+371,KYOTO KITCHO Arashiyama,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+372,Kyu,Akita,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+373,L'AFFINAGE,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+374,L'ALGORITHME,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+375,L'Atelier de NOTO,Ishikawa,Japan,Tabelog Bronze,Tabelog Selection,French\
+376,L'\'e9crin,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+377,La Blanche,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+378,LA CASA DI Tetsuo Ota,Nagano,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+379,La Cime,Osaka,Japan,Tabelog Bronze,Tabelog Selection,French\
+380,La Clairi\'e8re,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+381,La Floraison de TAKEUCHI,Aichi,Japan,Tabelog Bronze,Tabelog Selection,French\
+382,La Kanro,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+383,La Mer,Mie,Japan,Tabelog Bronze,Tabelog Selection,French\
+384,La Mer the CLASSIC,Mie,Japan,Tabelog Bronze,Tabelog Selection,French\
+385,La Stalla,Ibaraki,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+386,LA VAGABONDE,Aichi,Japan,Tabelog Bronze,Tabelog Selection,French\
+387,LATURE,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+388,Le Mange-Tout,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+389,Le Mus\'e9e IDEA,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,French\
+390,le-sorcier,Yamaguchi,Japan,Tabelog Bronze,Tabelog Selection,French\
+391,Les champs d'or,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,French\
+392,Les Saisons,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+393,LURRA\'b0,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+394,Maeda,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+395,Maekawa,Ishikawa,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+396,Maison DIA Mizuguchi,Aichi,Japan,Tabelog Bronze,Tabelog Selection,French\
+397,maison FUJIYA Hakodate,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,French\
+398,Maison KEI,Shizuoka,Japan,Tabelog Bronze,Tabelog Selection,French\
+399,MAISON LAFITE,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,French\
+400,Makino,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Seafood\
+401,MAKINONC\'ce,Ishikawa,Japan,Tabelog Bronze,Tabelog Selection,French\
+402,malca,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+403,MANGER,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Tonkatsu/Fried foods\
+404,Manzan,Chiba,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+405,Marushin,Fukushima,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+406,Maruyasu,Hyogo,Japan,Tabelog Bronze,Tabelog Selection,Seafood\
+407,Mas de Lavande,Aichi,Japan,Tabelog Bronze,Tabelog Selection,French\
+408,Masachan,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+409,Masuda,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+410,Matayoshi,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+411,Matsuishi,Miyagi,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+412,Matsuka,Nagano,Japan,Tabelog Bronze,Tabelog Selection,Unagi\
+413,Matsumoto,Hyogo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+414,Matsuura,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+415,MAZ,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+416,mikami limited50,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+417,Mikasa,Kanagawa,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+418,Mikawa,Akita,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+419,Mikawa Zezankyo,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+420,Mimuro,Kumamoto,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+421,Minato,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+422,Mitsuki,Tottori,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+423,Mitsuyasu,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+424,Miyamasou,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+425,Miyamoto,Shizuoka,Japan,Tabelog Bronze,Tabelog Selection,Soba\
+426,Miyamoto,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+427,Miyasaka,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+428,Miyazaki,Fukui,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+429,Mizai,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+430,Mizukami,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+431,Mizuki,Gifu,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+432,Mochizuki,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+433,Moe es,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+434,Mokkosu,Gunma,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+435,Moli\'e8re,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,French\
+436,Momen,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+437,Morifuji,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+438,MOTO\'cf,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,French\
+439,Mumyo,Nagano,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+440,Murakami,Osaka,Japan,Tabelog Bronze,Tabelog Selection,French\
+441,Murakami,Kumamoto,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+442,Muroi,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+443,Muroi,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+444,Muromachi Wakuden,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+445,Mutsuki,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+446,Myoken Ishiharaso Shokusai Ishikura,Kagoshima,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+447,N.,Akita,Japan,Tabelog Bronze,Tabelog Selection,Izakaya\
+448,Nabeno-Ism,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+449,NAKADO,Hiroshima,Japan,Tabelog Bronze,Tabelog Selection,French\
+450,NAKAHARA,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+451,Nakajo,Kanagawa,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+452,Nakamura,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+453,Nakamura,Shizuoka,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+454,Nakamura,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Steak/Teppanyaki\
+455,Nakashima,Hiroshima,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+456,Nanachome,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+457,Narikura,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Tonkatsu/Fried foods\
+458,Nawaya,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+459,Nijikichi,Ehime,Japan,Tabelog Bronze,Tabelog Selection,Seafood\
+460,Nikaku,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+461,Nikon,Nara,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+462,Nikutoieba Matsuda Nara Honten,Nara,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+463,Nikuya Setsugekka Nagoya,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+464,Ninomae,Hyogo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+465,Nishi,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+466,Nishikawa,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+467,Nishizaki,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+468,No Name,Ehime,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+469,Noguchi Taro,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+470,NONOKA RESTAURANT,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+471,Obana,Gunma,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+472,Oga,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+473,Ohata,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+474,OHKUSA,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+475,Ohtani,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+476,Omino,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+477,Omino Kamiyacho,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+478,Oniya,Niigata,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+479,Ono,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+480,Onozawa,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+481,Onza,Shiga,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+482,Osamu,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+483,Osamuchan,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+484,OSTERIA ENOTECA DA SASINO,Aomori,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+485,Otagi,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+486,Otomezushi,Ishikawa,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+487,Otowa restaurant,Tochigi,Japan,Tabelog Bronze,Tabelog Selection,French\
+488,Owatari,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+489,Point,Osaka,Japan,Tabelog Bronze,Tabelog Selection,French\
+490,Pome,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+491,PRISMA,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+492,RADICE,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+493,Ranmaru,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+494,Rantei Vivian,Fukushima,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+495,Rem\'e8de nikaho,Akita,Japan,Tabelog Bronze,Tabelog Selection,French\
+496,Ren Mishina,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+497,Restaurant HONJIN,Aichi,Japan,Tabelog Bronze,Tabelog Selection,French\
+498,Restaurant l'equateur,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+499,Restaurant La FinS,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+500,RESTAURANT Ohtsu,Ibaraki,Japan,Tabelog Bronze,Tabelog Selection,French\
+501,restaurant Ryu,Mie,Japan,Tabelog Bronze,Tabelog Selection,French\
+502,RESTAURANT Ryuzu,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+503,Restaurant SNOW,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+504,Restaurant Sola,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,French\
+505,RESTAURANT TAKATSU,Yamaguchi,Japan,Tabelog Bronze,Tabelog Selection,French\
+506,Ribatei,Kanagawa,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+507,Rin,Shizuoka,Japan,Tabelog Bronze,Tabelog Selection,Unagi\
+508,ristorante NAKAMOTO,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+509,Ristorante SHIKAZAWA,Iwate,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+510,Roan Matsuda Sasayama,Hyogo,Japan,Tabelog Bronze,Tabelog Selection,Soba\
+511,Rokkan,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+512,Ryobo,Kagawa,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+513,RYORIYA STEPHAN PANTEL,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,French\
+514,RyuGin,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+515,Saeki,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+516,Saeki Hanten,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+517,Sakagawa,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+518,Sakana,Gifu,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+519,Sangencha,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+520,Sanroku,Kumamoto,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+521,Sato,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+522,SATO Briand Honten,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+523,SATO Briand Nigo,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+524,Seiryuen,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+525,Sen,Kanagawa,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+526,SEN,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+527,Senpachi,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+528,SENSE,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+529,SENTI.U,Kagoshima,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+530,Sessonan,Ibaraki,Japan,Tabelog Bronze,Tabelog Selection,French\
+531,Setsugekka Ginza,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+532,Setsugekka Tanaka Satoru,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+533,Shimbashi Sasada,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+534,Shimizu,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+535,shimoyamitenaeizuru,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+536,Shinchaya,Iwate,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+537,Shinoda,Ehime,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+538,ShinoiS,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+539,Shintaku,Niigata,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+540,Shizuku,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+541,Shofukuro Honten,Shiga,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+542,SH\'d3KUD\uc0\u332  YArn,Ishikawa,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+543,Shota,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+544,Shunji,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+545,Shutei Tanaka,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+546,Sinc\'e8re,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+547,sio,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+548,Sizen Mukuan,Wakayama,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+549,Sobiki,Hiroshima,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+550,Soshi,Hiroshima,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+551,Souan Nabeshima,Saga,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+552,Sous-sus,Akita,Japan,Tabelog Bronze,Tabelog Selection,French\
+553,STEAK HOUSE Baron,Kumamoto,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+554,Sudo Haruyoshi,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+555,SUGALABO V,Osaka,Japan,Tabelog Bronze,Tabelog Selection,French\
+556,Sugaya,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+557,Sushiei,Chiba,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+558,Sushikin,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+559,Sushimichi Sakurada,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+560,Sushinokura,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+561,Sushisai Wakichi,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+562,Sushisho,Akita,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+563,Sushisho Saito,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+564,Sushishunbi Nishikawa,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+565,Suyama,Hokkaido,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+566,Suzaki Shokuryohinten,Kagawa,Japan,Tabelog Bronze,Tabelog Selection,Udon\
+567,Suzuki,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+568,Suzutashiki,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+569,Tada,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+570,Tagawa,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+571,Tagetsu,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+572,Takajo Kotobuki,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+573,Takarazushibunten,Akita,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+574,TAKAYAMA,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+575,Takeru,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+576,Takeuchi,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+577,Takumi Shingo,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+578,Tamawarai,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Soba\
+579,Tamura,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Asian/Ethnic/Curry\
+580,Taniguchi,Hyogo,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+581,Tanryu,Hyogo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+582,Tashiro,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Unagi\
+583,Tempura Kusunoki,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+584,Tenhaku,Chiba,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+585,Terasawa,Iwate,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+586,Terroir Aitoibukuro,Yamanashi,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+587,TERUZUSHI,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+588,Tokyo Nikushabuya,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+589,Tokyo Nikushabuya Subin,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+590,TOM Curiosa,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+591,Tomato,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Asian/Ethnic/Curry\
+592,Tomidokoro,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+593,Tomisuke,Hiroshima,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+594,TOMONO,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+595,Tomura,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+596,Toraya Kochuan,Tokushima,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+597,torila,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+598,Torisaki,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+599,Torisawa22,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+600,Torishige,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Izakaya\
+601,Torishige,Shizuoka,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+602,Torisho Ishii Hina,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakitori/Poultry\
+603,TOUR D'ARGENT TOKYO,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+604,Tout La Joie Ism,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+605,Toyonaga,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+606,Tsubaki,Gifu,Japan,Tabelog Bronze,Tabelog Selection,Other\
+607,Tsubasa,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+608,Tsubomi,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+609,Tsuchiya,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Tempura\
+610,Tsugumi,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+611,Tsugumian,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Unagi\
+612,Tsukasa,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+613,Tsukioka,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+614,Tsukumo,Nara,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+615,Tsunechan,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+616,Tsushima,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Chinese\
+617,TTOAHISU,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+618,U.KAI,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+619,Ueda,Hyogo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+620,Ueda,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+621,Umi,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+622,unis,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,French\
+623,Uotora,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Izakaya\
+624,Uozuya,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+625,USHIGORO S. GINZA,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+626,Vesta,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+627,villa aida,Wakayama,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+628,Villa del nido,Nagasaki,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+629,Villa della Pace,Ishikawa,Japan,Tabelog Bronze,Tabelog Selection,Italian\
+630,Wadakin,Mie,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+631,Wagyu lab K,Hiroshima,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+632,Yamadaya,Oita,Japan,Tabelog Bronze,Tabelog Selection,Seafood\
+633,Yamaguchi,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+634,Yamanomi,Nagano,Japan,Tabelog Bronze,Tabelog Selection,Soba\
+635,Yamasaryokan,Oita,Japan,Tabelog Bronze,Tabelog Selection,Seafood\
+636,Yamasei,Nagano,Japan,Tabelog Bronze,Tabelog Selection,Unagi\
+637,Yamato,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+638,Yanagiyanishiki,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+639,Yassan,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+640,Yonemura,Kyoto,Japan,Tabelog Bronze,Tabelog Selection,Innovative\
+641,Yoroniku,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+642,YORONIKU TOKYO AZABUDAIHILLS,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+643,Yoshicho,Ibaraki,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+644,Yoshida,Fukuoka,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+645,Yoshii,Aichi,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+646,Yoshitake,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+647,Yu,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+648,Yuji,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Yakiniku/Meat dishes\
+649,Yukimura,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+650,Zai,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Sushi\
+651,Zenryomaru,Miyazaki,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+652,Zeshin,Osaka,Japan,Tabelog Bronze,Tabelog Selection,Japanese\
+653,ZURRIOLA,Tokyo,Japan,Tabelog Bronze,Tabelog Selection,Spanish}

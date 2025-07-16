@@ -1,0 +1,110 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 You're looking to consolidate the "94 best Australian restaurants right now" list, which is indeed from the Gourmet Traveller Restaurant Awards. I will create a new CSV file for this list, ensure "N/A" for awards (unless specifically noted as "State winner"), and use "Gourmet Traveller Restaurant Awards Top 100 Australian" as the source list.\
+Here is the consolidated CSV file:\
+\pard\pardeftab720\partightenfactor0
+\cf0 Code snippet\
+\
+ID,Name,City,Country,Award,Source List,Cuisine\
+1,Cafe Paci,Sydney,Australia,State winner,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+2,Aalia,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+3,Ante,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+4,Bar Heather,Byron Bay,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+5,Bathers\'92 Pavilion,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+6,Bistro Livi,Murwillumbah,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+7,Ester,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+8,EXP.,Hunter Valley,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+9,Ho Jiak Town Hall,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+10,Kiln,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+11,King Clarence,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+12,Margaret,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+13,Megalong,Blue Mountains,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+14,Ormeggio at the Spit,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+15,Pipit,Pottsville,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+16,Porcine,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+17,Porkfat,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+18,Quay,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+19,Saint Peter,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+20,Sixpenny,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+21,The Zin House,Mudgee,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+22,Ursula\'92s,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+23,White Horse,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+24,Yoshii\'92s Omakase,Sydney,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+25,Vue de Monde,Melbourne,Australia,State winner,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+26,Attica,Ripponlea,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+27,Bistra,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+28,Brae,Birregurra,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+29,Chauncy,Heathcote,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+30,Di Stasio Carlton,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+31,Embla,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+32,Flower Drum,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+33,Gimlet,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+34,Greasy Zoe\'92s,Hurtsbridge,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+35,Grill Americano,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+36,Julie,Abbotsford,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+37,Kafeneion,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+38,Lagoon Dining,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+39,Lake House,Daylesford,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+40,Lee Ho Fook,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+41,Manz\'e9,North Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+42,Minamishima,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+43,O.My,Beaconsfield,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+44,Patsy\'92s,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+45,Pipis Kiosk,Albert Park,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+46,Provenance,Beechworth,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+47,Serai,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+48,Tedesca Osteria,Red Hiil,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+49,Toddy Shop,Melbourne,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+50,Restaurant Labart,Burleigh Heads,Australia,State winner,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+51,Agnes,Brisbane,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+52,Blume Restaurant,Boonah,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+53,Essa,Brisbane,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+54,Exhibition Restaurant,Brisbane,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+55,Gerard\'92s,Brisbane,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+56,Hellenika at the Calile,Brisbane,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+57,Joy Restaurant,Brisbane,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+58,Mapleton Public House,Mapleton,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+59,Nu Nu,Palm Cove,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+60,Pilloni,Brisbane,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+61,Pneuma,Brisbane,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+62,Restaurant Dan Arnold,Brisbane,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+63,Rick Shores,Burleigh Heads,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+64,Short Grain,Brisbane,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+65,Maxwell Restaurant,McLaren Vale,Australia,State winner,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+66,Elementary,Mount Gambier,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+67,Fino Vino,Adelaide,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+68,Kiin,Adelaide,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+69,LVN Restaurant,Woodside,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+70,Magill Estate Restaurant,Magill,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+71,Muni,Willunga,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+72,Sofia,Adelaide,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+73,Temperance,Renmark,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+74,The Little Rickshaw,Aldinga,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+75,Casa,Perth,Australia,State winner,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+76,De\'92sendent,Margaret River,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+77,Gibney,Perth,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+78,Le Rebelle,Perth,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+79,Lulu La Delizia,Perth,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+80,Madalena\'92s,Fremantle,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+81,Millbrook,Jarrahdale,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+82,Nieuw Ruin,Fremantle,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+83,Vasse Felix,Cowaramup,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+84,Wills Domain,Yallingup,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+85,The Agrarian Kitchen,New Norfolk,Australia,State winner,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+86,Fico,Hobart,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+87,Omotenashi,Hobart,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+88,Peppina,Hobart,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+89,Stillwater,Launceston,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+90,Pilot,Ainslie,Australia,State winner,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+91,Bar Rochford,Canberra,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+92,Mu Omakase,Canberra,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+93,Onzieme,Canberra,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+94,Such and Such,Canberra,Australia,N/A,Gourmet Traveller Restaurant Awards Top 100 Australian,N/A\
+}
