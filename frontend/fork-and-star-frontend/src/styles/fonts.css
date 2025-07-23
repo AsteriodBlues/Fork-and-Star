@@ -1,0 +1,120 @@
+/* Modern Font Stack for Fork & Star */
+
+/* Import Inter from Google Fonts - Modern, readable, geometric */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Import Playfair Display for elegant headings */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap');
+
+/* Import JetBrains Mono for code/data */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;200;300;400;500;600;700;800&display=swap');
+
+/* Font CSS Variables */
+:root {
+  /* Primary fonts */
+  --font-display: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --font-body: 'Inter', 'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --font-elegant: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', Monaco, 'Cascadia Code', monospace;
+  
+  /* Font weights */
+  --font-weight-thin: 100;
+  --font-weight-light: 300;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  --font-weight-black: 900;
+  
+  /* Letter spacing */
+  --letter-spacing-tight: -0.04em;
+  --letter-spacing-normal: 0;
+  --letter-spacing-wide: 0.08em;
+  --letter-spacing-wider: 0.15em;
+}
+
+/* Typography utility classes */
+.font-display {
+  font-family: var(--font-display);
+  font-feature-settings: 'liga', 'kern', 'ss01', 'ss02';
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-elegant {
+  font-family: var(--font-elegant);
+  font-feature-settings: 'liga', 'kern', 'dlig', 'swsh';
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-mono {
+  font-family: var(--font-mono);
+  font-feature-settings: 'liga', 'zero';
+  text-rendering: optimizeLegibility;
+}
+
+/* Hero title styling */
+.hero-title {
+  font-family: var(--font-display);
+  font-weight: var(--font-weight-black);
+  letter-spacing: var(--letter-spacing-tight);
+  line-height: 0.9;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: 'liga', 'kern', 'ss01';
+}
+
+/* Elegant subtitle styling */
+.hero-subtitle {
+  font-family: var(--font-display);
+  font-weight: var(--font-weight-light);
+  letter-spacing: var(--letter-spacing-wide);
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Button text styling */
+.button-text {
+  font-family: var(--font-display);
+  font-weight: var(--font-weight-semibold);
+  letter-spacing: 0.02em;
+  text-rendering: optimizeLegibility;
+}
+
+/* Country section headings */
+.country-title {
+  font-family: var(--font-elegant);
+  font-weight: var(--font-weight-bold);
+  letter-spacing: var(--letter-spacing-normal);
+  line-height: 1.2;
+  text-rendering: optimizeLegibility;
+}
+
+/* Data/analytics text */
+.data-text {
+  font-family: var(--font-mono);
+  font-weight: var(--font-weight-medium);
+  letter-spacing: 0.01em;
+  line-height: 1.4;
+}
+
+/* Responsive font sizes */
+@media (max-width: 640px) {
+  .hero-title {
+    letter-spacing: -0.02em;
+  }
+  
+  .hero-subtitle {
+    letter-spacing: 0.04em;
+  }
+}
+
+/* Performance optimizations */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    font-feature-settings: initial;
+  }
+}
