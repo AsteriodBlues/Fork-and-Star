@@ -51,6 +51,12 @@ from app.routers import restaurants, recommendation
 app.include_router(restaurants.router)
 app.include_router(recommendation.router)
 
+# Health Check Endpoint for Render
+@app.get("/health")
+def health_check():
+    return {"status": "ok"}
+
+# Root route
 @app.get("/")
 def root():
     return {"message": "🚀 Fork & Star backend running"}
