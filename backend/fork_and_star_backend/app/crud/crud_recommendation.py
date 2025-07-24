@@ -6,9 +6,10 @@ import os
 # Load environment variables
 load_dotenv(dotenv_path=".fork_env")
 
-# Get configuration from environment variables
+# Load configuration from environment
 PROJECT_ID = os.getenv("GCP_PROJECT_ID")
 CREDENTIALS_PATH = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+BQ_DATASET = os.getenv("BQ_DATASET_ID")
 BQ_TABLE = os.getenv("BQ_RECOMMENDATIONS_TABLE")
 
 # Validate required environment variables
@@ -16,19 +17,24 @@ if not PROJECT_ID:
     raise ValueError("GCP_PROJECT_ID is not set in .fork_env")
 if not CREDENTIALS_PATH:
     raise ValueError("GOOGLE_APPLICATION_CREDENTIALS is not set in .fork_env")
+if not BQ_DATASET:
+    raise ValueError("BQ_DATASET_ID is not set in .fork_env")
 if not BQ_TABLE:
     raise ValueError("BQ_RECOMMENDATIONS_TABLE is not set in .fork_env")
 
-# Verify credentials file exists
+# Check credentials file exists
 if not os.path.exists(CREDENTIALS_PATH):
     raise ValueError(f"Credentials file not found at: {CREDENTIALS_PATH}")
 
-# Load BigQuery credentials
+# Authenticate BigQuery
 try:
     credentials = service_account.Credentials.from_service_account_file(CREDENTIALS_PATH)
     client = bigquery.Client(credentials=credentials, project=PROJECT_ID)
 except Exception as e:
     raise ValueError(f"Failed to load Google Cloud credentials: {e}")
+
+# ✅ Full table path
+FULL_TABLE = f"{PROJECT_ID}.{BQ_DATASET}.{BQ_TABLE}"
 
 
 def get_recommendations(restaurant_name: str, limit: int = 10):
@@ -40,7 +46,7 @@ def get_recommendations(restaurant_name: str, limit: int = 10):
             Rec_Name AS name,
             final_inclusive_score AS score,
             sim_rank AS rank
-        FROM `{BQ_TABLE}`
+        FROM `{FULL_TABLE}`
         WHERE LOWER(Base_Name) = @restaurant_name
         ORDER BY final_inclusive_score DESC
         LIMIT @limit
@@ -77,7 +83,7 @@ def get_enriched_explainability(restaurant_name: str, limit: int = 10):
             Rec_Cluster AS cluster,
             final_inclusive_score AS final_score,
             Explainability_Text AS explanation
-        FROM `{BQ_TABLE}`
+        FROM `{FULL_TABLE}`
         WHERE LOWER(Base_Name) = @restaurant_name
         ORDER BY final_inclusive_score DESC
         LIMIT @limit

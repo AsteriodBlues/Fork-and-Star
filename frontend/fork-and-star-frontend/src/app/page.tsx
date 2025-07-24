@@ -105,6 +105,7 @@ export default function LuxuryVideoLanding() {
       <video
         ref={videoRef}
         className="absolute inset-0 w-full h-full object-cover"
+        autoPlay
         muted
         loop
         playsInline
