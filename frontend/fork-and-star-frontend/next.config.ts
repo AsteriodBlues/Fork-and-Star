@@ -71,8 +71,8 @@ const nextConfig: NextConfig = {
     esmExternals: true, // Helps with Three.js and other ESM packages
   },
   
-  // Optimize for production
-  swcMinify: true,
+  // Remove swcMinify - it's deprecated in Next.js 15
+  // swcMinify is now enabled by default
   trailingSlash: false,
 };
 
