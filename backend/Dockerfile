@@ -25,5 +25,5 @@ USER app
 
 EXPOSE $PORT
 
-# Use main:app since main.py is in root, not app/main.py
-CMD ["sh", "-c", "uvicorn main:app --host 0.0.0.0 --port $PORT"]
+# Keep app.main:app but use Railway's PORT variable
+CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port $PORT"]
