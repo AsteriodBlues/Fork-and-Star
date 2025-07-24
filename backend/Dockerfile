@@ -23,7 +23,10 @@ RUN useradd --create-home --shell /bin/bash app \
 
 USER app
 
-EXPOSE $PORT
+EXPOSE 8000
 
-# Keep app.main:app but use Railway's PORT variable
-CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port $PORT"]
+# Set default PORT if not provided (for local Docker)
+ENV PORT=8000
+
+# Use app.main:app with PORT variable (works both locally and on Railway)
+CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
