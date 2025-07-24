@@ -5,34 +5,48 @@ import os
 from dotenv import load_dotenv
 import time
 import math
+import json
 from typing import List, Dict, Any
 
-# Load environment variables
-load_dotenv(".fork_env")
-
-# Get configuration from environment variables
+# Get configuration from environment variables (Railway compatible)
 PROJECT_ID = os.getenv("GCP_PROJECT_ID")
-RECOMMENDATIONS_TABLE = os.getenv("BQ_RECOMMENDATIONS_TABLE")
-CREDENTIALS_PATH = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+DATASET_ID = os.getenv("BQ_DATASET_ID", "fork_and_star_cleaned")
+RECOMMENDATIONS_TABLE_NAME = os.getenv("BQ_RECOMMENDATIONS_TABLE", "top10_recommendations_enriched")
+
+# Build full table reference from environment variables
+RECOMMENDATIONS_TABLE = f"{PROJECT_ID}.{DATASET_ID}.{RECOMMENDATIONS_TABLE_NAME}"
 
 # Validate required environment variables
 if not PROJECT_ID:
-    raise ValueError("GCP_PROJECT_ID is not set in .fork_env")
-if not RECOMMENDATIONS_TABLE:
-    raise ValueError("BQ_RECOMMENDATIONS_TABLE is not set in .fork_env")
-if not CREDENTIALS_PATH:
-    raise ValueError("GOOGLE_APPLICATION_CREDENTIALS is not set in .fork_env")
+    raise ValueError("GCP_PROJECT_ID environment variable is required")
 
-# Verify credentials file exists
-if not os.path.exists(CREDENTIALS_PATH):
-    raise ValueError(f"Credentials file not found at: {CREDENTIALS_PATH}")
+# Initialize BigQuery client with Railway credentials
+def get_bigquery_client():
+    # Try JSON credentials first (Railway)
+    creds_json = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS_JSON")
+    if creds_json:
+        try:
+            creds_info = json.loads(creds_json)
+            credentials = service_account.Credentials.from_service_account_info(creds_info)
+            return bigquery.Client(credentials=credentials, project=PROJECT_ID)
+        except Exception as e:
+            print(f"Error with JSON credentials: {e}")
+    
+    # Fallback to file path (local development)
+    creds_path = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS")
+    if creds_path and os.path.exists(creds_path):
+        credentials = service_account.Credentials.from_service_account_file(creds_path)
+        return bigquery.Client(credentials=credentials, project=PROJECT_ID)
+    
+    raise ValueError("No valid GCP credentials found")
 
-# Load credentials
+# Initialize client
 try:
-    credentials = service_account.Credentials.from_service_account_file(CREDENTIALS_PATH)
-    client = bigquery.Client(credentials=credentials, project=PROJECT_ID)
+    client = get_bigquery_client()
+    print("✅ BigQuery client initialized successfully")
 except Exception as e:
-    raise ValueError(f"Failed to load Google Cloud credentials: {e}")
+    print(f"❌ Failed to initialize BigQuery client: {e}")
+    client = None
 
 router = APIRouter(prefix="/recommendations", tags=["recommendations"])
 
