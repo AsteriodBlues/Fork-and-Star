@@ -21,6 +21,8 @@ app = FastAPI(
 origins = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
+    "https://fork-and-star.vercel.app",
+    "https://*.vercel.app",  
     "*"  # You can later restrict this to production frontend domain
 ]
 
