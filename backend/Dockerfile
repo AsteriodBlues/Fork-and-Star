@@ -4,7 +4,6 @@ WORKDIR /app
 
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
-ENV PYTHONPATH=/app
 
 RUN apt-get update \
  && apt-get install -y --no-install-recommends \
@@ -24,9 +23,7 @@ RUN useradd --create-home --shell /bin/bash app \
 USER app
 
 EXPOSE 8000
-
-# Set default PORT if not provided (for local Docker)
 ENV PORT=8000
 
-# Use app.main:app with PORT variable (works both locally and on Railway)
+# Use app.main:app with proper working directory
 CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
