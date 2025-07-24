@@ -9,6 +9,7 @@ import { fetchRecommendations, fetchRestaurants, searchRestaurants, fetchBackend
 import useSound from "use-sound";
 import BackgroundGlow from "@/components/BackgroundGlow";
 import { useVoiceSearch } from "@/hooks/useVoiceSearch";
+import AmbientSoundscape from "@/components/AmbientSoundscape";
 
 type Restaurant = {
   id?: string | number;
@@ -1026,6 +1027,11 @@ export default function RecommendationsPage() {
             </div>
           </motion.div>
         )}
+      </div>
+
+      {/* Ambient Soundscape */}
+      <div className="absolute top-8 right-8 z-30 flex items-center gap-3">
+        <AmbientSoundscape src="/sounds/ambient-recommendations.mp3" />
       </div>
     </div>
   );

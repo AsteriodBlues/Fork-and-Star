@@ -110,29 +110,31 @@ const EnhancedItalianJourney = () => {
           </motion.div>
         </div>
 
-        {/* Floating Particles */}
-        <div className="absolute inset-0 pointer-events-none">
-          {[...Array(20)].map((_, i) => (
-            <motion.div
-              key={i}
-              className="absolute w-1 h-1 bg-amber-400/30 rounded-full"
-              initial={{ 
-                x: Math.random() * window.innerWidth, 
-                y: Math.random() * window.innerHeight,
-                opacity: 0 
-              }}
-              animate={{ 
-                y: [null, -100, -200],
-                opacity: [0, 1, 0]
-              }}
-              transition={{
-                duration: 4 + Math.random() * 2,
-                repeat: Infinity,
-                delay: Math.random() * 3
-              }}
-            />
-          ))}
-        </div>
+        {/* Floating Particles (client-only) */}
+        {typeof window !== "undefined" && (
+          <div className="absolute inset-0 pointer-events-none">
+            {[...Array(20)].map((_, i) => (
+              <motion.div
+                key={i}
+                className="absolute w-1 h-1 bg-amber-400/30 rounded-full"
+                initial={{ 
+                  x: Math.random() * window.innerWidth, 
+                  y: Math.random() * window.innerHeight,
+                  opacity: 0 
+                }}
+                animate={{ 
+                  y: [null, -100, -200],
+                  opacity: [0, 1, 0]
+                }}
+                transition={{
+                  duration: 4 + Math.random() * 2,
+                  repeat: Infinity,
+                  delay: Math.random() * 3
+                }}
+              />
+            ))}
+          </div>
+        )}
       </motion.div>
     );
   };
@@ -1060,28 +1062,31 @@ const EnhancedItalianJourney = () => {
             }}
           >
             {/* Animated Background Elements */}
-            <div className="absolute inset-0">
-              {[...Array(15)].map((_, i) => (
-                <motion.div
-                  key={i}
-                  className="absolute w-2 h-2 bg-amber-400/20 rounded-full"
-                  initial={{ 
-                    x: Math.random() * window.innerWidth, 
-                    y: window.innerHeight + 50,
-                    opacity: 0 
-                  }}
-                  animate={{ 
-                    y: -50,
-                    opacity: [0, 1, 0]
-                  }}
-                  transition={{
-                    duration: 8 + Math.random() * 4,
-                    repeat: Infinity,
-                    delay: Math.random() * 5
-                  }}
-                />
-              ))}
-            </div>
+            {/* Animated Background Elements (client-only) */}
+            {typeof window !== "undefined" && (
+              <div className="absolute inset-0">
+                {[...Array(15)].map((_, i) => (
+                  <motion.div
+                    key={i}
+                    className="absolute w-2 h-2 bg-amber-400/20 rounded-full"
+                    initial={{ 
+                      x: Math.random() * window.innerWidth, 
+                      y: window.innerHeight + 50,
+                      opacity: 0 
+                    }}
+                    animate={{ 
+                      y: -50,
+                      opacity: [0, 1, 0]
+                    }}
+                    transition={{
+                      duration: 8 + Math.random() * 4,
+                      repeat: Infinity,
+                      delay: Math.random() * 5
+                    }}
+                  />
+                ))}
+              </div>
+            )}
 
             <motion.div
               className="text-center relative z-10"

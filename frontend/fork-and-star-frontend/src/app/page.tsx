@@ -4,7 +4,10 @@ import { useRef, useState, useEffect } from "react";
 import gsap from "gsap";
 import Link from "next/link";
 
+import AmbientSoundscape from "@/components/AmbientSoundscape";
+
 export default function LuxuryVideoLanding() {
+  // ...existing code...
   const videoRef = useRef<HTMLVideoElement>(null);
   const titleRef = useRef<HTMLDivElement>(null);
   const subtitleRef = useRef<HTMLDivElement>(null);
@@ -12,6 +15,8 @@ export default function LuxuryVideoLanding() {
   
   const [isPlaying, setIsPlaying] = useState(false);
   const [showPlayButton, setShowPlayButton] = useState(true);
+
+  // ...existing code...
 
   // Simple autoplay attempt
   useEffect(() => {
@@ -147,6 +152,10 @@ export default function LuxuryVideoLanding() {
 
       {/* Main Content */}
       <div className="relative z-10 min-h-screen flex flex-col items-center justify-center text-center px-6">
+        {/* Soundscape Controls */}
+        <div className="absolute top-8 right-8 z-30 flex items-center gap-3">
+          <AmbientSoundscape src="/sounds/ambient-home.mp3" />
+        </div>
         
         {/* Luxury Title */}
         <div ref={titleRef} className="mb-8">
@@ -234,14 +243,7 @@ export default function LuxuryVideoLanding() {
       </div>
       {/* Close main content container */}
       </div>
-
-      {/* Debug Info (remove in production) */}
-      <div className="absolute bottom-4 left-4 text-white/60 text-sm bg-black/30 p-2 rounded">
-        <p>Video: {isPlaying ? '✅ Playing' : '⏸️ Stopped'}</p>
-        <p>Play Button: {showPlayButton ? '👁️ Visible' : '🙈 Hidden'}</p>
-      </div>
-
-      {/* Premium Fonts */}
+      
       <style jsx>{`
         @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@300;400;500;600;700&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');

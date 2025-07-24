@@ -86,7 +86,7 @@ def check_momentum_data():
 def get_filters():
     try:
         # Get unique cuisines
-        cuisines_query = """
+        cuisines_query = f"""
             SELECT DISTINCT Base_Cuisine AS cuisine
             FROM `{RECOMMENDATIONS_TABLE}`
             WHERE Base_Cuisine IS NOT NULL
@@ -95,7 +95,7 @@ def get_filters():
         cuisines = [row["cuisine"] for row in client.query(cuisines_query).result()]
         
         # Get unique countries
-        countries_query = """
+        countries_query = f"""
             SELECT DISTINCT Base_Country AS country
             FROM `{RECOMMENDATIONS_TABLE}`
             WHERE Base_Country IS NOT NULL
@@ -104,7 +104,7 @@ def get_filters():
         countries = [row["country"] for row in client.query(countries_query).result()]
         
         # Get unique reputation labels
-        reputations_query = """
+        reputations_query = f"""
             SELECT DISTINCT Base_Reputation_Label AS reputation
             FROM `{RECOMMENDATIONS_TABLE}`
             WHERE Base_Reputation_Label IS NOT NULL
@@ -113,7 +113,7 @@ def get_filters():
         reputations = [row["reputation"] for row in client.query(reputations_query).result()]
         
         # Get unique badges
-        badges_query = """
+        badges_query = f"""
             SELECT DISTINCT Base_Badge_List AS badge
             FROM `{RECOMMENDATIONS_TABLE}`
             WHERE Base_Badge_List IS NOT NULL
@@ -122,7 +122,7 @@ def get_filters():
         badges = [row["badge"] for row in client.query(badges_query).result()]
         
         # Get unique clusters
-        clusters_query = """
+        clusters_query = f"""
             SELECT DISTINCT Base_Cluster AS cluster
             FROM `{RECOMMENDATIONS_TABLE}`
             WHERE Base_Cluster IS NOT NULL
@@ -706,7 +706,7 @@ def get_trending_restaurants(limit: int = 10):
     """Get restaurants with highest momentum scores - FIXED VERSION"""
     try:
         # First check if momentum data exists
-        check_query = """
+        check_query = f"""
             SELECT COUNT(*) as count
             FROM `{RECOMMENDATIONS_TABLE}`
             WHERE Base_Momentum_Score_Num IS NOT NULL AND Base_Momentum_Score_Num > 0
@@ -715,15 +715,14 @@ def get_trending_restaurants(limit: int = 10):
         count_result = list(client.query(check_query).result())[0]
         
         if count_result["count"] == 0:
-            # Fallback to string momentum score or recalculated score
-            query = """
+            # Fallback to recalculated score
+            query = f"""
                 SELECT DISTINCT
                     Base_ID as id,
                     Base_Name as name,
                     Base_Cuisine as cuisine,
                     Base_Country as country,
                     Base_Star_Rating as stars,
-                    Base_Momentum_Score as momentum_score,
                     Base_Recalculated_Score as calculated_score,
                     Base_Badge_List as badges,
                     Base_Reputation_Label as reputation
@@ -732,10 +731,9 @@ def get_trending_restaurants(limit: int = 10):
                 ORDER BY Base_Recalculated_Score DESC
                 LIMIT @limit
             """
-            
             message = "Using calculated score as momentum data not available"
         else:
-            query = """
+            query = f"""
                 SELECT DISTINCT
                     Base_ID as id,
                     Base_Name as name,

@@ -7,6 +7,7 @@ import Lottie from "lottie-react";
 import emptyAnimation from "@/lotties/empty.json";
 import { AnimatePresence, motion, useScroll, useTransform, useInView } from "framer-motion";
 import { Heart, Star, Sparkles, Flame, Crown, Trophy, Zap, ChefHat, MapPin, Calendar, Filter } from "lucide-react";
+import AmbientSoundscape from "@/components/AmbientSoundscape";
 
 // ✅ Use same interface as explore page
 interface Restaurant {
@@ -1064,6 +1065,11 @@ export default function FavoritesPage() {
             }}
           />
         ))}
+      </div>
+
+      {/* Ambient Soundscape */}
+      <div className="absolute top-8 right-8 z-30 flex items-center gap-3">
+        <AmbientSoundscape src="/sounds/ambient-favorites.mp3" />
       </div>
     </div>
   );

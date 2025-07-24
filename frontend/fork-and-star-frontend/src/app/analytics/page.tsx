@@ -14,6 +14,7 @@ import {
   fetchAnalyticsOverview,
   fetchAllAnalyticsData
 } from "@/utils/api";
+import AmbientSoundscape from "@/components/AmbientSoundscape";
 
 // Mock data generators for demo
 const generateCuisineData = () => [
@@ -1159,18 +1160,21 @@ if (loading && !analyticsData) {
       </div>
 
       {/* Scanning line effect */}
-      <motion.div
-        className="absolute inset-0 bg-gradient-to-r from-transparent via-purple-500/10 to-transparent"
-        style={{ width: '2px' }}
-        animate={{
-          x: [-10, window.innerWidth + 10],
-        }}
-        transition={{
-          duration: 3,
-          repeat: Infinity,
-          ease: "linear"
-        }}
-      />
+      {/* Scanning line effect (client-only) */}
+      {typeof window !== "undefined" && (
+        <motion.div
+          className="absolute inset-0 bg-gradient-to-r from-transparent via-purple-500/10 to-transparent"
+          style={{ width: '2px' }}
+          animate={{
+            x: [-10, window.innerWidth + 10],
+          }}
+          transition={{
+            duration: 3,
+            repeat: Infinity,
+            ease: "linear"
+          }}
+        />
+      )}
     </div>
   );
 }

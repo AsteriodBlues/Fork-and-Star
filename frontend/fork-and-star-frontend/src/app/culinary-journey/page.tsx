@@ -3,6 +3,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import { motion, useScroll, useTransform, useInView } from 'framer-motion';
 import Link from 'next/link';
 import { ArrowRight, Globe, Star, Award } from 'lucide-react';
+import AmbientSoundscape from "@/components/AmbientSoundscape";
 
 const CulinaryJourneyHub = () => {
   const containerRef = useRef(null);
