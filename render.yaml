@@ -1,0 +1,29 @@
+services:
+  - type: web
+    name: fork-and-star-backend
+    env: docker
+    repo: https://github.com/AsteriodBlues/fork-and-star
+    branch: main
+    rootDir: backend/fork_and_star_backend
+    dockerfilePath: Dockerfile
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: PORT
+        value: 8000
+
+  - type: web
+    name: fork-and-star-frontend
+    env: docker
+    repo: https://github.com/AsteriodBlues/fork-and-star
+    branch: main
+    rootDir: frontend/fork-and-star-frontend
+    dockerfilePath: Dockerfile
+    plan: free
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3000
+      - key: NEXT_PUBLIC_API_URL
+        value: https://fork-and-star-backend.onrender.com
