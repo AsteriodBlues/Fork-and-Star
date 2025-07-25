@@ -13,11 +13,7 @@ RUN npm run build
 
 FROM base AS runner
 WORKDIR /app
-
 ENV NODE_ENV=production
-ENV DOCKER_BUILD=true
-# Add your Railway API URL here
-ENV NEXT_PUBLIC_API_URL=https://fork-and-star-production.up.railway.app
 
 RUN addgroup --system --gid 1001 nodejs
 RUN adduser --system --uid 1001 nextjs

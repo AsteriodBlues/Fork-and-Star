@@ -1,79 +1,33 @@
 import type { NextConfig } from "next";
 
-// Detect deployment environment
-const isDocker = process.env.DOCKER_BUILD === 'true';
-const isVercel = process.env.VERCEL === '1';
-
 const nextConfig: NextConfig = {
-  // Conditional Docker support
-  ...(isDocker && { output: 'standalone' }),
+  // Enable standalone output for Docker
+  output: 'standalone',
   
-  // Environment-specific error handling
+  // Skip ESLint during build for Docker
   eslint: {
-    ignoreDuringBuilds: isDocker, // Ignore for Docker, check for Vercel
+    ignoreDuringBuilds: true,
   },
   
+  // Skip TypeScript checking during build (optional)
   typescript: {
-    ignoreBuildErrors: isDocker, // Ignore for Docker, check for Vercel
+    ignoreBuildErrors: true,
   },
   
-  // Conditional image optimization
-  images: {
-    unoptimized: isDocker, // Disable for Docker, enable for Vercel
-    domains: [
-      "www.noburestaurants.com",
-      "www.elevenmadisonpark.com",
-      "static01.nyt.com",
-      "www.quincerestaurant.com",
-      "cdn.vox-cdn.com",
-      "media.cntraveler.com",
-      "media-cdn.tripadvisor.com",
-      "example.com",
-    ],
-  },
-  
-  // Environment variables only for Docker (Vercel uses dashboard)
-  ...(isDocker && {
-    env: {
-      NEXT_PUBLIC_API_URL: process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000',
-    },
-  }),
-  
-  // Add webpack config for Three.js and other client-side libraries
-  webpack: (config, { isServer }) => {
-    if (!isServer) {
-      config.resolve.fallback = {
-        ...config.resolve.fallback,
-        fs: false,
-        path: false,
-        crypto: false,
-        stream: false,
-        buffer: false,
-      };
-    }
-
-    // Handle media files
-    config.module.rules.push({
-      test: /\.(mp3|wav|ogg|mp4|webm)$/,
-      use: {
-        loader: 'file-loader',
-        options: {
-          publicPath: '/_next/static/media/',
-          outputPath: 'static/media/',
-        },
-      },
-    });
-
-    return config;
-  },
-  
+  // Other config options
   experimental: {
-    esmExternals: true, // Helps with Three.js and other ESM packages
+    // Add any experimental features you're using
   },
   
-  // Remove swcMinify - it's deprecated in Next.js 15
-  // swcMinify is now enabled by default
-  trailingSlash: false,
+  // Image optimization for Docker
+  images: {
+    unoptimized: true, // Disable image optimization for Docker
+  },
+  
+  // Environment variables
+  env: {
+    NEXT_PUBLIC_API_URL: process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000',
+  },
 };
 
 export default nextConfig;

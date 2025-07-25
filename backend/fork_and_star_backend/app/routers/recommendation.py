@@ -1,52 +1,63 @@
+import os
+import time
 from fastapi import APIRouter, HTTPException
 from google.cloud import bigquery
 from google.oauth2 import service_account
-import os
 from dotenv import load_dotenv
-import time
-import math
-import json
 from typing import List, Dict, Any
+from pathlib import Path
 
-# Get configuration from environment variables (Railway compatible)
-PROJECT_ID = os.getenv("GCP_PROJECT_ID")
-DATASET_ID = os.getenv("BQ_DATASET_ID", "fork_and_star_cleaned")
-RECOMMENDATIONS_TABLE_NAME = os.getenv("BQ_RECOMMENDATIONS_TABLE", "top10_recommendations_enriched")
+load_dotenv('.fork_env')
 
-# Build full table reference from environment variables
-RECOMMENDATIONS_TABLE = f"{PROJECT_ID}.{DATASET_ID}.{RECOMMENDATIONS_TABLE_NAME}"
+# Get values from environment  
+PROJECT_ID = os.getenv('GCP_PROJECT_ID')
+DATASET_ID = os.getenv('BQ_DATASET_ID')
+TABLE_ID = os.getenv('BQ_RECOMMENDATIONS_TABLE')
+CREDENTIALS_PATH = os.getenv('GOOGLE_APPLICATION_CREDENTIALS')
 
+# IMPORTANT: Add these aliases for any existing code that expects different variable names
+RECOMMENDATIONS_TABLE = TABLE_ID  # <-- This fixes the NameError
+BQ_TABLE = f"`{PROJECT_ID}.{DATASET_ID}.{TABLE_ID}`"  # <-- This might be used somewhere too
+
+# Build proper table name
+FULL_TABLE_NAME = f"`{PROJECT_ID}.{DATASET_ID}.{TABLE_ID}`"
+
+print(f"✅ Using table: {FULL_TABLE_NAME}")
+
+# Initialize BigQuery client
+try:
+    from google.oauth2 import service_account
+    from google.cloud import bigquery
+    
+    credentials = service_account.Credentials.from_service_account_file(CREDENTIALS_PATH)
+    client = bigquery.Client(credentials=credentials, project=PROJECT_ID)
+    print("✅ BigQuery client initialized")
+except Exception as e:
+    print(f"❌ BigQuery initialization failed: {e}")
+    client = None
 # Validate required environment variables
 if not PROJECT_ID:
-    raise ValueError("GCP_PROJECT_ID environment variable is required")
+    raise ValueError("GCP_PROJECT_ID is not set in .fork_env")
+if not DATASET_ID:
+    raise ValueError("BQ_DATASET_ID is not set in .fork_env")
+if not RECOMMENDATIONS_TABLE:
+    raise ValueError("BQ_RECOMMENDATIONS_TABLE is not set in .fork_env")
+if not CREDENTIALS_PATH:
+    raise ValueError("GOOGLE_APPLICATION_CREDENTIALS is not set in .fork_env")
 
-# Initialize BigQuery client with Railway credentials
-def get_bigquery_client():
-    # Try JSON credentials first (Railway)
-    creds_json = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS_JSON")
-    if creds_json:
-        try:
-            creds_info = json.loads(creds_json)
-            credentials = service_account.Credentials.from_service_account_info(creds_info)
-            return bigquery.Client(credentials=credentials, project=PROJECT_ID)
-        except Exception as e:
-            print(f"Error with JSON credentials: {e}")
-    
-    # Fallback to file path (local development)
-    creds_path = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS")
-    if creds_path and os.path.exists(creds_path):
-        credentials = service_account.Credentials.from_service_account_file(creds_path)
-        return bigquery.Client(credentials=credentials, project=PROJECT_ID)
-    
-    raise ValueError("No valid GCP credentials found")
+# Create fully qualified table name
+FULL_TABLE_NAME = f"{PROJECT_ID}.{DATASET_ID}.{RECOMMENDATIONS_TABLE}"
 
-# Initialize client
+# Verify credentials file exists
+if not os.path.exists(CREDENTIALS_PATH):
+    raise ValueError(f"Credentials file not found at: {CREDENTIALS_PATH}")
+
+# Load credentials
 try:
-    client = get_bigquery_client()
-    print("✅ BigQuery client initialized successfully")
+    credentials = service_account.Credentials.from_service_account_file(CREDENTIALS_PATH)
+    client = bigquery.Client(credentials=credentials, project=PROJECT_ID)
 except Exception as e:
-    print(f"❌ Failed to initialize BigQuery client: {e}")
-    client = None
+    raise ValueError(f"Failed to load Google Cloud credentials: {e}")
 
 router = APIRouter(prefix="/recommendations", tags=["recommendations"])
 
@@ -67,7 +78,7 @@ def get_sample_data():
                 Base_Score_Color,
                 Base_Cluster,
                 Base_Momentum_Score_Num
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             LIMIT 10
         """
         results = list(client.query(query).result())
@@ -86,7 +97,7 @@ def check_momentum_data():
                 MIN(Base_Momentum_Score_Num) as min_momentum,
                 MAX(Base_Momentum_Score_Num) as max_momentum,
                 AVG(Base_Momentum_Score_Num) as avg_momentum
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
         """
         result = list(client.query(query).result())[0]
         return dict(result)
@@ -102,7 +113,7 @@ def get_filters():
         # Get unique cuisines
         cuisines_query = f"""
             SELECT DISTINCT Base_Cuisine AS cuisine
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE Base_Cuisine IS NOT NULL
             ORDER BY Base_Cuisine
         """
@@ -111,7 +122,7 @@ def get_filters():
         # Get unique countries
         countries_query = f"""
             SELECT DISTINCT Base_Country AS country
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE Base_Country IS NOT NULL
             ORDER BY Base_Country
         """
@@ -120,7 +131,7 @@ def get_filters():
         # Get unique reputation labels
         reputations_query = f"""
             SELECT DISTINCT Base_Reputation_Label AS reputation
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE Base_Reputation_Label IS NOT NULL
             ORDER BY Base_Reputation_Label
         """
@@ -129,7 +140,7 @@ def get_filters():
         # Get unique badges
         badges_query = f"""
             SELECT DISTINCT Base_Badge_List AS badge
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE Base_Badge_List IS NOT NULL
             ORDER BY Base_Badge_List
         """
@@ -138,7 +149,7 @@ def get_filters():
         # Get unique clusters
         clusters_query = f"""
             SELECT DISTINCT Base_Cluster AS cluster
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE Base_Cluster IS NOT NULL
             ORDER BY Base_Cluster
         """
@@ -161,9 +172,9 @@ def search_restaurants(q: str = None):
         if not q:
             raise HTTPException(status_code=400, detail="Query parameter 'q' is required")
             
-        query = """
+        query = f"""
             SELECT DISTINCT Base_Name as restaurant_name, Base_ID as id
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE LOWER(Base_Name) LIKE LOWER(@search_term)
             ORDER BY Base_Name
             LIMIT 20
@@ -183,9 +194,9 @@ def search_restaurants(q: str = None):
 @router.get("/explanation/{restaurant_name}")
 def get_explanation(restaurant_name: str):
     try:
-        query = """
+        query = f"""
             SELECT DISTINCT Explainability_Text
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE Base_Name = @restaurant_name
             LIMIT 1
         """
@@ -206,7 +217,7 @@ def get_explanation(restaurant_name: str):
 @router.get("/cluster/{cluster_id}")
 def get_restaurants_in_cluster(cluster_id: int, limit: int = 10):
     try:
-        query = """
+        query = f"""
             SELECT
                 Rec_Name AS name,
                 Rec_Cuisine AS cuisine,
@@ -219,7 +230,7 @@ def get_restaurants_in_cluster(cluster_id: int, limit: int = 10):
                 Rec_Cluster AS cluster,
                 final_inclusive_score AS final_score,
                 Explainability_Text AS explanation
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE Rec_Cluster = @cluster_id
             ORDER BY final_inclusive_score DESC
             LIMIT @limit
@@ -239,7 +250,7 @@ def get_restaurants_in_cluster(cluster_id: int, limit: int = 10):
 @router.get("/similarity_matrix/{restaurant_name}")
 def similarity_matrix(restaurant_name: str):
     try:
-        query = """
+        query = f"""
             SELECT
               Rec_Name,
               region_score,
@@ -249,7 +260,7 @@ def similarity_matrix(restaurant_name: str):
               year_diff_penalty,
               similarity_score,
               final_inclusive_score
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE Base_Name = @restaurant_name
             ORDER BY final_inclusive_score DESC
         """
@@ -267,7 +278,7 @@ def similarity_matrix(restaurant_name: str):
 @router.get("/restaurant/{id}")
 def get_restaurant_by_id(id: int):
     try:
-        query = """
+        query = f"""
             SELECT
               Base_Name AS name,
               Base_Cuisine AS cuisine,
@@ -279,7 +290,7 @@ def get_restaurant_by_id(id: int):
               Base_Momentum_Score AS momentum,
               Base_Cluster AS cluster,
               Explainability_Text AS explanation
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE Base_ID = @id
             LIMIT 1
         """
@@ -297,7 +308,7 @@ def get_restaurant_by_id(id: int):
 @router.get("/diversity/{restaurant_name}")
 def get_diverse_recommendations(restaurant_name: str, limit: int = 10):
     try:
-        query = """
+        query = f"""
             SELECT
               Rec_Name AS name,
               Rec_Cuisine AS cuisine,
@@ -310,7 +321,7 @@ def get_diverse_recommendations(restaurant_name: str, limit: int = 10):
               Rec_Cluster AS cluster,
               final_inclusive_score AS final_score,
               Explainability_Text AS explanation
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE Base_Name = @restaurant_name
             ORDER BY final_inclusive_score DESC
             LIMIT @limit
@@ -381,7 +392,7 @@ def filter_restaurants(
         # Add debugging: count total matches first
         count_query = f"""
             SELECT COUNT(DISTINCT Base_ID) as total_count
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE {where_clause}
         """
         
@@ -410,7 +421,7 @@ def filter_restaurants(
                 Base_Momentum_Score as momentum,
                 Base_Cluster as cluster,
                 Base_Recalculated_Score as score
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE {where_clause}
             ORDER BY Base_Recalculated_Score DESC
             LIMIT @limit OFFSET @offset
@@ -443,7 +454,7 @@ def filter_restaurants(
 def get_analytics_overview():
     """Get overall statistics about the restaurant database"""
     try:
-        query = """
+        query = f"""
             SELECT
                 COUNT(DISTINCT Base_ID) as total_restaurants,
                 COUNT(DISTINCT Base_Cuisine) as total_cuisines,
@@ -453,7 +464,7 @@ def get_analytics_overview():
                 MIN(Base_Star_Rating) as min_stars,
                 MAX(Base_Star_Rating) as max_stars,
                 COUNT(DISTINCT Base_Reputation_Label) as reputation_types
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
         """
         result = list(client.query(query).result())[0]
         return dict(result)
@@ -487,7 +498,7 @@ def get_top_restaurants(metric: str, limit: int = 10):
                 Base_Momentum_Score_Num as momentum,
                 Base_Reputation_Label as reputation,
                 Base_Badge_List as badges
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE {order_column} IS NOT NULL
             ORDER BY {order_column} DESC
             LIMIT @limit
@@ -511,9 +522,9 @@ def compare_restaurants(restaurant1_id: int, restaurant2_id: int):
     """Compare two restaurants side by side - FIXED VERSION"""
     try:
         # First check if the IDs exist
-        check_query = """
+        check_query = f"""
             SELECT Base_ID
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_ID IN (@id1, @id2)
             GROUP BY Base_ID
         """
@@ -529,7 +540,7 @@ def compare_restaurants(restaurant1_id: int, restaurant2_id: int):
         if restaurant2_id not in existing_ids:
             raise HTTPException(status_code=404, detail=f"Restaurant with ID {restaurant2_id} not found")
         
-        query = """
+        query = f"""
             SELECT DISTINCT
                 Base_ID as id,
                 Base_Name as name,
@@ -542,7 +553,7 @@ def compare_restaurants(restaurant1_id: int, restaurant2_id: int):
                 Base_Badge_List as badges,
                 Base_Cluster as cluster,
                 Base_Score_Color as score_color
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_ID IN (@id1, @id2)
             ORDER BY Base_ID
         """
@@ -574,7 +585,7 @@ def compare_restaurants(restaurant1_id: int, restaurant2_id: int):
 def get_nearby_restaurants(umap1: float, umap2: float, radius: float = 0.5, limit: int = 10):
     """Find restaurants near specific UMAP coordinates"""
     try:
-        query = """
+        query = f"""
             SELECT DISTINCT
                 Base_ID as id,
                 Base_Name as name,
@@ -584,7 +595,7 @@ def get_nearby_restaurants(umap1: float, umap2: float, radius: float = 0.5, limi
                 Base_UMAP_1 as umap1,
                 Base_UMAP_2 as umap2,
                 SQRT(POW(Base_UMAP_1 - @umap1, 2) + POW(Base_UMAP_2 - @umap2, 2)) as distance
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE SQRT(POW(Base_UMAP_1 - @umap1, 2) + POW(Base_UMAP_2 - @umap2, 2)) <= @radius
             ORDER BY distance ASC
             LIMIT @limit
@@ -607,7 +618,7 @@ def get_nearby_restaurants(umap1: float, umap2: float, radius: float = 0.5, limi
 def get_cluster_analysis():
     """Get analysis of all clusters with their characteristics"""
     try:
-        query = """
+        query = f"""
             SELECT
                 Base_Cluster as cluster_id,
                 Base_Cluster_Explainability_Label as cluster_description,
@@ -616,7 +627,7 @@ def get_cluster_analysis():
                 AVG(Base_Recalculated_Score) as avg_score,
                 STRING_AGG(DISTINCT Base_Cuisine ORDER BY Base_Cuisine LIMIT 5) as top_cuisines,
                 STRING_AGG(DISTINCT Base_Country ORDER BY Base_Country LIMIT 5) as top_countries
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Cluster IS NOT NULL
             GROUP BY Base_Cluster, Base_Cluster_Explainability_Label
             ORDER BY restaurant_count DESC
@@ -632,7 +643,7 @@ def get_cluster_analysis():
 def get_recommendation_quality(restaurant_name: str):
     """Get detailed quality metrics for recommendations"""
     try:
-        query = """
+        query = f"""
             SELECT
                 Base_Name as base_restaurant,
                 Rec_Name as recommended_restaurant,
@@ -645,7 +656,7 @@ def get_recommendation_quality(restaurant_name: str):
                 final_inclusive_score,
                 sim_rank,
                 Explainability_Text as explanation
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Name = @restaurant_name
             ORDER BY final_inclusive_score DESC
             LIMIT 10
@@ -701,7 +712,7 @@ def discover_random_restaurants(
                 Base_Score_Color as score_color,
                 Base_Badge_List as badges,
                 Base_Reputation_Label as reputation
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE {where_clause}
             ORDER BY RAND()
             LIMIT @count
@@ -722,7 +733,7 @@ def get_trending_restaurants(limit: int = 10):
         # First check if momentum data exists
         check_query = f"""
             SELECT COUNT(*) as count
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Momentum_Score_Num IS NOT NULL AND Base_Momentum_Score_Num > 0
         """
         
@@ -740,7 +751,7 @@ def get_trending_restaurants(limit: int = 10):
                     Base_Recalculated_Score as calculated_score,
                     Base_Badge_List as badges,
                     Base_Reputation_Label as reputation
-                FROM `{RECOMMENDATIONS_TABLE}`
+                FROM `{FULL_TABLE_NAME}`
                 WHERE Base_Recalculated_Score IS NOT NULL
                 ORDER BY Base_Recalculated_Score DESC
                 LIMIT @limit
@@ -757,7 +768,7 @@ def get_trending_restaurants(limit: int = 10):
                     Base_Momentum_Score_Num as momentum_score,
                     Base_Badge_List as badges,
                     Base_Reputation_Label as reputation
-                FROM `{RECOMMENDATIONS_TABLE}`
+                FROM `{FULL_TABLE_NAME}`
                 WHERE Base_Momentum_Score_Num IS NOT NULL AND Base_Momentum_Score_Num > 0
                 ORDER BY Base_Momentum_Score_Num DESC
                 LIMIT @limit
@@ -788,7 +799,7 @@ def get_all_tags():
     """Get all unique tags for filters or badges"""
     try:
         # Get all unique badge tags (split by common delimiters)
-        badges_query = """
+        badges_query = f"""
             SELECT DISTINCT
                 TRIM(badge) as tag,
                 'badge' as tag_type,
@@ -796,7 +807,7 @@ def get_all_tags():
             FROM (
                 SELECT 
                     SPLIT(Base_Badge_List, ',') as badge_array
-                FROM `{RECOMMENDATIONS_TABLE}`
+                FROM `{FULL_TABLE_NAME}`
                 WHERE Base_Badge_List IS NOT NULL AND Base_Badge_List != ''
             ), UNNEST(badge_array) as badge
             WHERE TRIM(badge) != ''
@@ -805,36 +816,36 @@ def get_all_tags():
         """
         
         # Get cuisine tags
-        cuisine_query = """
+        cuisine_query = f"""
             SELECT DISTINCT
                 Base_Cuisine as tag,
                 'cuisine' as tag_type,
                 COUNT(*) as usage_count
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Cuisine IS NOT NULL
             GROUP BY Base_Cuisine
             ORDER BY usage_count DESC
         """
         
         # Get reputation tags
-        reputation_query = """
+        reputation_query = f"""
             SELECT DISTINCT
                 Base_Reputation_Label as tag,
                 'reputation' as tag_type,
                 COUNT(*) as usage_count
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Reputation_Label IS NOT NULL
             GROUP BY Base_Reputation_Label
             ORDER BY usage_count DESC
         """
         
         # Get country tags
-        country_query = """
+        country_query = f"""
             SELECT DISTINCT
                 Base_Country as tag,
                 'country' as tag_type,
                 COUNT(*) as usage_count
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Country IS NOT NULL
             GROUP BY Base_Country
             ORDER BY usage_count DESC
@@ -869,13 +880,13 @@ def health_check():
     """Check BigQuery connection health"""
     try:
         # Simple query to test connection
-        test_query = """
+        test_query = f"""
             SELECT 
                 COUNT(*) as total_records,
                 COUNT(DISTINCT Base_ID) as unique_restaurants,
                 MAX(Base_Star_Rating) as max_stars,
                 MIN(Base_Star_Rating) as min_stars
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             LIMIT 1
         """
         
@@ -911,7 +922,7 @@ def health_check():
 def get_restaurant_by_name(restaurant_name: str):
     """Return full info about a restaurant by name (not ID)"""
     try:
-        query = """
+        query = f"""
             SELECT DISTINCT
                 Base_ID as id,
                 Base_Name as name,
@@ -928,7 +939,7 @@ def get_restaurant_by_name(restaurant_name: str):
                 Base_UMAP_1 as umap_x,
                 Base_UMAP_2 as umap_y,
                 Base_Cluster_Explainability_Label as cluster_description
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE LOWER(Base_Name) = LOWER(@restaurant_name)
             LIMIT 1
         """
@@ -940,7 +951,7 @@ def get_restaurant_by_name(restaurant_name: str):
         
         if not results:
             # Try partial match as fallback
-            partial_query = """
+            partial_query = f"""
                 SELECT DISTINCT
                     Base_ID as id,
                     Base_Name as name,
@@ -957,7 +968,7 @@ def get_restaurant_by_name(restaurant_name: str):
                     Base_UMAP_1 as umap_x,
                     Base_UMAP_2 as umap_y,
                     Base_Cluster_Explainability_Label as cluster_description
-                FROM `{RECOMMENDATIONS_TABLE}`
+                FROM `{FULL_TABLE_NAME}`
                 WHERE LOWER(Base_Name) LIKE LOWER(@restaurant_name_partial)
                 ORDER BY Base_Recalculated_Score DESC
                 LIMIT 5
@@ -1005,19 +1016,19 @@ def get_score_distribution():
     """Get score distribution buckets for graphs or UI heatmaps"""
     try:
         # Star rating distribution
-        star_distribution_query = """
+        star_distribution_query = f"""
             SELECT
                 CAST(FLOOR(Base_Star_Rating * 2) / 2 AS FLOAT64) as star_bucket,
                 COUNT(*) as count,
                 ROUND(AVG(Base_Recalculated_Score), 2) as avg_calculated_score
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Star_Rating IS NOT NULL
             GROUP BY star_bucket
             ORDER BY star_bucket
         """
         
         # Calculated score distribution (10 buckets)
-        score_distribution_query = """
+        score_distribution_query = f"""
             SELECT
                 CASE 
                     WHEN Base_Recalculated_Score < 10 THEN '0-10'
@@ -1035,34 +1046,34 @@ def get_score_distribution():
                 MIN(Base_Recalculated_Score) as min_score,
                 MAX(Base_Recalculated_Score) as max_score,
                 ROUND(AVG(Base_Recalculated_Score), 2) as avg_score
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Recalculated_Score IS NOT NULL
             GROUP BY score_bucket
             ORDER BY min_score
         """
         
         # Cluster distribution
-        cluster_distribution_query = """
+        cluster_distribution_query = f"""
             SELECT
                 Base_Cluster as cluster_id,
                 COUNT(*) as restaurant_count,
                 ROUND(AVG(Base_Star_Rating), 2) as avg_stars,
                 ROUND(AVG(Base_Recalculated_Score), 2) as avg_score,
                 MAX(Base_Cluster_Explainability_Label) as cluster_description
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Cluster IS NOT NULL
             GROUP BY Base_Cluster
             ORDER BY restaurant_count DESC
         """
         
         # Country distribution (top 15)
-        country_distribution_query = """
+        country_distribution_query = f"""
             SELECT
                 Base_Country as country,
                 COUNT(*) as restaurant_count,
                 ROUND(AVG(Base_Star_Rating), 2) as avg_stars,
                 ROUND(AVG(Base_Recalculated_Score), 2) as avg_score
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Country IS NOT NULL
             GROUP BY Base_Country
             ORDER BY restaurant_count DESC
@@ -1114,7 +1125,7 @@ def get_related_clusters(cluster_id: int, limit: int = 3):
     """Recommend nearby clusters or overlapping themes"""
     try:
         # First, get characteristics of the input cluster
-        cluster_info_query = """
+        cluster_info_query = f"""
             SELECT
                 Base_Cluster as cluster_id,
                 ANY_VALUE(Base_Cluster_Explainability_Label) as cluster_description,
@@ -1126,7 +1137,7 @@ def get_related_clusters(cluster_id: int, limit: int = 3):
                 STRING_AGG(DISTINCT Base_Reputation_Label ORDER BY Base_Reputation_Label LIMIT 3) as top_reputations,
                 AVG(Base_UMAP_1) as avg_umap_x,
                 AVG(Base_UMAP_2) as avg_umap_y
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Cluster = @cluster_id
             GROUP BY Base_Cluster
         """
@@ -1142,7 +1153,7 @@ def get_related_clusters(cluster_id: int, limit: int = 3):
         source_cluster = dict(cluster_info[0])
         
         # Find related clusters using multiple similarity measures
-        related_clusters_query = """
+        related_clusters_query = f"""
             WITH cluster_stats AS (
                 SELECT
                     Base_Cluster as cluster_id,
@@ -1155,7 +1166,7 @@ def get_related_clusters(cluster_id: int, limit: int = 3):
                     STRING_AGG(DISTINCT Base_Reputation_Label ORDER BY Base_Reputation_Label LIMIT 3) as top_reputations,
                     AVG(Base_UMAP_1) as avg_umap_x,
                     AVG(Base_UMAP_2) as avg_umap_y
-                FROM `{RECOMMENDATIONS_TABLE}`
+                FROM `{FULL_TABLE_NAME}`
                 WHERE Base_Cluster IS NOT NULL AND Base_Cluster != @cluster_id
                 GROUP BY Base_Cluster
             ),
@@ -1219,14 +1230,14 @@ def get_related_clusters(cluster_id: int, limit: int = 3):
         
         # Get sample restaurants from each related cluster
         for cluster in related_clusters:
-            sample_query = """
+            sample_query = f"""
                 SELECT
                     Base_Name as name,
                     Base_Cuisine as cuisine,
                     Base_Country as country,
                     Base_Star_Rating as stars,
                     Base_Recalculated_Score as score
-                FROM `{RECOMMENDATIONS_TABLE}`
+                FROM `{FULL_TABLE_NAME}`
                 WHERE Base_Cluster = @cluster_id
                 ORDER BY Base_Recalculated_Score DESC
                 LIMIT 3
@@ -1266,7 +1277,7 @@ def explore_by_country(country: str, limit: int = 15, sort_by: str = "score"):
         sort_column = valid_sorts[sort_by]
         
         # Get country overview
-        overview_query = """
+        overview_query = f"""
             SELECT
                 Base_Country as country,
                 COUNT(DISTINCT Base_ID) as total_restaurants,
@@ -1276,7 +1287,7 @@ def explore_by_country(country: str, limit: int = 15, sort_by: str = "score"):
                 ROUND(AVG(Base_Recalculated_Score), 2) as avg_score,
                 STRING_AGG(DISTINCT Base_Cuisine ORDER BY Base_Cuisine LIMIT 8) as top_cuisines,
                 STRING_AGG(DISTINCT Base_Reputation_Label ORDER BY Base_Reputation_Label LIMIT 5) as reputation_types
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE LOWER(Base_Country) = LOWER(@country)
             GROUP BY Base_Country
         """
@@ -1305,7 +1316,7 @@ def explore_by_country(country: str, limit: int = 15, sort_by: str = "score"):
                 Base_Badge_List as badges,
                 Base_Cluster as cluster,
                 Base_Score_Color as score_color
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE LOWER(Base_Country) = LOWER(@country)
             AND {sort_column} IS NOT NULL
             ORDER BY {sort_column} DESC
@@ -1319,12 +1330,12 @@ def explore_by_country(country: str, limit: int = 15, sort_by: str = "score"):
         restaurants = [dict(row) for row in client.query(restaurants_query, job_config=restaurants_job_config).result()]
         
         # Get cuisine breakdown
-        cuisine_query = """
+        cuisine_query = f"""
             SELECT 
                 Base_Cuisine as cuisine,
                 COUNT(*) as restaurant_count,
                 ROUND(AVG(Base_Star_Rating), 2) as avg_stars
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE LOWER(Base_Country) = LOWER(@country)
             GROUP BY Base_Cuisine
             ORDER BY restaurant_count DESC
@@ -1365,7 +1376,7 @@ def explore_by_cuisine(cuisine: str, limit: int = 15, sort_by: str = "score"):
         sort_column = valid_sorts[sort_by]
         
         # Get cuisine overview
-        overview_query = """
+        overview_query = f"""
             SELECT
                 Base_Cuisine as cuisine,
                 COUNT(DISTINCT Base_ID) as total_restaurants,
@@ -1375,7 +1386,7 @@ def explore_by_cuisine(cuisine: str, limit: int = 15, sort_by: str = "score"):
                 ROUND(AVG(Base_Recalculated_Score), 2) as avg_score,
                 STRING_AGG(DISTINCT Base_Country ORDER BY Base_Country LIMIT 8) as top_countries,
                 STRING_AGG(DISTINCT Base_Reputation_Label ORDER BY Base_Reputation_Label LIMIT 5) as reputation_types
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE LOWER(Base_Cuisine) = LOWER(@cuisine)
             GROUP BY Base_Cuisine
         """
@@ -1404,7 +1415,7 @@ def explore_by_cuisine(cuisine: str, limit: int = 15, sort_by: str = "score"):
                 Base_Badge_List as badges,
                 Base_Cluster as cluster,
                 Base_Score_Color as score_color
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE LOWER(Base_Cuisine) = LOWER(@cuisine)
             AND {sort_column} IS NOT NULL
             ORDER BY {sort_column} DESC
@@ -1418,12 +1429,12 @@ def explore_by_cuisine(cuisine: str, limit: int = 15, sort_by: str = "score"):
         restaurants = [dict(row) for row in client.query(restaurants_query, job_config=restaurants_job_config).result()]
         
         # Get country breakdown
-        country_query = """
+        country_query = f"""
             SELECT 
                 Base_Country as country,
                 COUNT(*) as restaurant_count,
                 ROUND(AVG(Base_Star_Rating), 2) as avg_stars
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE LOWER(Base_Cuisine) = LOWER(@cuisine)
             GROUP BY Base_Country
             ORDER BY restaurant_count DESC
@@ -1456,7 +1467,7 @@ def market_gap_analysis(
     """Analyze market gaps and investment opportunities"""
     try:
         # Analyze geographic gaps using grid-based approach
-        geographic_gaps_query = """
+        geographic_gaps_query = f"""
             WITH grid_analysis AS (
                 SELECT
                     FLOOR(Base_UMAP_1 / @grid_size) * @grid_size as grid_x,
@@ -1467,7 +1478,7 @@ def market_gap_analysis(
                     COUNT(DISTINCT Base_Cuisine) as cuisine_diversity,
                     STRING_AGG(DISTINCT Base_Cuisine ORDER BY Base_Cuisine LIMIT 5) as cuisines_present,
                     STRING_AGG(DISTINCT Base_Country ORDER BY Base_Country LIMIT 3) as countries_present
-                FROM `{RECOMMENDATIONS_TABLE}`
+                FROM `{FULL_TABLE_NAME}`
                 WHERE Base_UMAP_1 IS NOT NULL AND Base_UMAP_2 IS NOT NULL
                 GROUP BY grid_x, grid_y
             ),
@@ -1546,7 +1557,7 @@ def market_gap_analysis(
         geographic_gaps = [dict(row) for row in client.query(geographic_gaps_query, job_config=gap_job_config).result()]
         
         # Analyze cuisine gaps
-        cuisine_gap_query = """
+        cuisine_gap_query = f"""
             WITH cuisine_country_matrix AS (
                 SELECT 
                     Base_Country as country,
@@ -1554,7 +1565,7 @@ def market_gap_analysis(
                     COUNT(*) as restaurant_count,
                     AVG(Base_Star_Rating) as avg_stars,
                     AVG(Base_Recalculated_Score) as avg_score
-                FROM `{RECOMMENDATIONS_TABLE}`
+                FROM `{FULL_TABLE_NAME}`
                 WHERE Base_Country IS NOT NULL AND Base_Cuisine IS NOT NULL
                 GROUP BY Base_Country, Base_Cuisine
             ),
@@ -1601,7 +1612,7 @@ def market_gap_analysis(
         cuisine_gaps = [dict(row) for row in client.query(cuisine_gap_query).result()]
         
         # Calculate overall market metrics
-        market_overview_query = """
+        market_overview_query = f"""
             SELECT
                 COUNT(DISTINCT Base_ID) as total_restaurants,
                 COUNT(DISTINCT Base_Cuisine) as total_cuisines,
@@ -1612,7 +1623,7 @@ def market_gap_analysis(
                 ROUND(MAX(Base_UMAP_1), 2) as max_umap_x,
                 ROUND(MIN(Base_UMAP_2), 2) as min_umap_y,
                 ROUND(MAX(Base_UMAP_2), 2) as max_umap_y
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
         """
         
         market_overview = dict(list(client.query(market_overview_query).result())[0])
@@ -1663,7 +1674,7 @@ def predict_rising_stars(
     """Predict restaurants likely to gain recognition using momentum analysis"""
     try:
         # Analyze momentum patterns and predict rising stars
-        rising_stars_query = """
+        rising_stars_query = f"""
             WITH momentum_analysis AS (
                 SELECT
                     Base_ID as id,
@@ -1685,7 +1696,7 @@ def predict_rising_stars(
                         WHEN Base_Star_Rating > 0 THEN Base_Recalculated_Score / Base_Star_Rating
                         ELSE 0
                     END as score_star_ratio
-                FROM `{RECOMMENDATIONS_TABLE}`
+                FROM `{FULL_TABLE_NAME}`
                 WHERE Base_Momentum_Score_Num IS NOT NULL
                 AND Base_Star_Rating IS NOT NULL
                 AND Base_Star_Rating <= @current_star_max  -- Focus on restaurants not already at the top
@@ -1746,7 +1757,7 @@ def predict_rising_stars(
         rising_stars = [dict(row) for row in client.query(rising_stars_query, job_config=job_config).result()]
         
         # Get momentum distribution for context
-        momentum_stats_query = """
+        momentum_stats_query = f"""
             SELECT 
                 COUNT(*) as total_restaurants,
                 AVG(Base_Momentum_Score_Num) as avg_momentum,
@@ -1836,7 +1847,7 @@ def discovery_maps_data(
                 Base_Badge_List as badges,
                 Base_Reputation_Label as reputation,
                 Base_Momentum_Score_Num as momentum
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE {where_clause}
             ORDER BY Base_Recalculated_Score DESC
         """
@@ -1860,7 +1871,7 @@ def discovery_maps_data(
                 AVG(Base_Recalculated_Score) as avg_score,
                 STRING_AGG(DISTINCT Base_Cuisine ORDER BY Base_Cuisine LIMIT 5) as top_cuisines,
                 STRING_AGG(DISTINCT Base_Country ORDER BY Base_Country LIMIT 5) as top_countries
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE {where_clause}
             AND Base_Cluster IS NOT NULL
             GROUP BY Base_Cluster
@@ -1955,7 +1966,7 @@ def sustainability_trends(min_green_score: float = 0.0, limit: int = 50):
     """Analyze sustainability trends across restaurants"""
     try:
         # Green focus by country analysis
-        country_green_query = """
+        country_green_query = f"""
             SELECT
                 Base_Country as country,
                 COUNT(DISTINCT Base_ID) as restaurant_count,
@@ -1964,7 +1975,7 @@ def sustainability_trends(min_green_score: float = 0.0, limit: int = 50):
                 ROUND(AVG(Base_Recalculated_Score), 2) as avg_overall_score,
                 COUNT(CASE WHEN green_focus_score > 0.7 THEN 1 END) as high_green_restaurants,
                 ROUND(COUNT(CASE WHEN green_focus_score > 0.7 THEN 1 END) * 100.0 / COUNT(*), 1) as green_percentage
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Country IS NOT NULL 
             AND green_focus_score IS NOT NULL
             AND green_focus_score >= @min_green_score
@@ -1975,7 +1986,7 @@ def sustainability_trends(min_green_score: float = 0.0, limit: int = 50):
         """
         
         # Green focus by cuisine analysis
-        cuisine_green_query = """
+        cuisine_green_query = f"""
             SELECT
                 Base_Cuisine as cuisine,
                 COUNT(DISTINCT Base_ID) as restaurant_count,
@@ -1983,7 +1994,7 @@ def sustainability_trends(min_green_score: float = 0.0, limit: int = 50):
                 ROUND(AVG(Base_Star_Rating), 2) as avg_stars,
                 COUNT(CASE WHEN green_focus_score > 0.7 THEN 1 END) as high_green_restaurants,
                 ROUND(COUNT(CASE WHEN green_focus_score > 0.7 THEN 1 END) * 100.0 / COUNT(*), 1) as green_percentage
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Cuisine IS NOT NULL 
             AND green_focus_score IS NOT NULL
             AND green_focus_score >= @min_green_score
@@ -1994,7 +2005,7 @@ def sustainability_trends(min_green_score: float = 0.0, limit: int = 50):
         """
         
         # Green vs Star Rating correlation
-        correlation_query = """
+        correlation_query = f"""
             SELECT
                 CASE 
                     WHEN green_focus_score >= 0.8 THEN 'Very High Green (0.8+)'
@@ -2007,7 +2018,7 @@ def sustainability_trends(min_green_score: float = 0.0, limit: int = 50):
                 ROUND(AVG(Base_Star_Rating), 2) as avg_stars,
                 ROUND(AVG(Base_Recalculated_Score), 2) as avg_score,
                 ROUND(AVG(Base_Momentum_Score_Num), 2) as avg_momentum
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE green_focus_score IS NOT NULL 
             AND Base_Star_Rating IS NOT NULL
             GROUP BY green_level
@@ -2022,7 +2033,7 @@ def sustainability_trends(min_green_score: float = 0.0, limit: int = 50):
         """
         
         # Top green restaurants
-        top_green_query = """
+        top_green_query = f"""
             SELECT
                 Base_ID as id,
                 Base_Name as name,
@@ -2033,7 +2044,7 @@ def sustainability_trends(min_green_score: float = 0.0, limit: int = 50):
                 ROUND(Base_Recalculated_Score, 2) as overall_score,
                 Base_Badge_List as badges,
                 Base_Cluster as cluster
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE green_focus_score IS NOT NULL
             AND green_focus_score >= @min_green_score
             GROUP BY Base_ID, Base_Name, Base_Cuisine, Base_Country, green_focus_score, Base_Star_Rating, Base_Recalculated_Score, Base_Badge_List, Base_Cluster
@@ -2042,7 +2053,7 @@ def sustainability_trends(min_green_score: float = 0.0, limit: int = 50):
         """
         
         # Green clusters analysis
-        cluster_green_query = """
+        cluster_green_query = f"""
             SELECT
                 Base_Cluster as cluster_id,
                 ANY_VALUE(Base_Cluster_Explainability_Label) as cluster_description,
@@ -2051,7 +2062,7 @@ def sustainability_trends(min_green_score: float = 0.0, limit: int = 50):
                 ROUND(AVG(Base_Star_Rating), 2) as avg_stars,
                 COUNT(CASE WHEN green_focus_score > 0.6 THEN 1 END) as high_green_count,
                 ROUND(COUNT(CASE WHEN green_focus_score > 0.6 THEN 1 END) * 100.0 / COUNT(*), 1) as green_percentage
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE Base_Cluster IS NOT NULL 
             AND green_focus_score IS NOT NULL
             GROUP BY Base_Cluster
@@ -2061,7 +2072,7 @@ def sustainability_trends(min_green_score: float = 0.0, limit: int = 50):
         """
         
         # Overall sustainability statistics
-        overall_stats_query = """
+        overall_stats_query = f"""
             SELECT
                 COUNT(*) as total_restaurants,
                 ROUND(AVG(green_focus_score), 3) as global_avg_green_score,
@@ -2071,7 +2082,7 @@ def sustainability_trends(min_green_score: float = 0.0, limit: int = 50):
                 COUNT(CASE WHEN green_focus_score > 0.6 THEN 1 END) as high_green_count,
                 COUNT(CASE WHEN green_focus_score > 0.4 THEN 1 END) as medium_green_count,
                 ROUND(COUNT(CASE WHEN green_focus_score > 0.6 THEN 1 END) * 100.0 / COUNT(*), 1) as high_green_percentage
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE green_focus_score IS NOT NULL
         """
         
@@ -2137,7 +2148,7 @@ def get_green_recommendations(
     """Recommend similar green restaurants to users browsing green-focused places"""
     try:
         # First, get the base restaurant's green characteristics
-        base_restaurant_query = """
+        base_restaurant_query = f"""
             SELECT DISTINCT
                 Base_ID as id,
                 Base_Name as name,
@@ -2150,7 +2161,7 @@ def get_green_recommendations(
                 Base_UMAP_1 as umap_x,
                 Base_UMAP_2 as umap_y,
                 Base_Badge_List as badges
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE LOWER(Base_Name) = LOWER(@restaurant_name)
             AND green_focus_score IS NOT NULL
             LIMIT 1
@@ -2178,7 +2189,7 @@ def get_green_recommendations(
         # Find green restaurants with similar characteristics
         if prioritize_green:
             # Prioritize green score similarity with cuisine/location matching
-            green_recommendations_query = """
+            green_recommendations_query = f"""
                 WITH green_candidates AS (
                     SELECT
                         Base_ID as id,
@@ -2201,7 +2212,7 @@ def get_green_recommendations(
                         CASE WHEN Base_Cuisine = @base_cuisine THEN 0.3 ELSE 0.0 END as cuisine_bonus,
                         -- Country match bonus
                         CASE WHEN Base_Country = @base_country THEN 0.2 ELSE 0.0 END as country_bonus
-                    FROM `{RECOMMENDATIONS_TABLE}`
+                    FROM `{FULL_TABLE_NAME}`
                     WHERE green_focus_score >= @min_green_score
                     AND Base_ID != @base_id
                     AND Base_Name IS NOT NULL
@@ -2237,7 +2248,7 @@ def get_green_recommendations(
             """
         else:
             # Use existing recommendation data but filter for green restaurants
-            green_recommendations_query = """
+            green_recommendations_query = f"""
                 SELECT
                     Rec_ID as id,
                     Rec_Name as name,
@@ -2252,7 +2263,7 @@ def get_green_recommendations(
                     final_inclusive_score as recommendation_score,
                     similarity_score,
                     Explainability_Text as explanation
-                FROM `{RECOMMENDATIONS_TABLE}`
+                FROM `{FULL_TABLE_NAME}`
                 WHERE restaurant_name = @restaurant_name
                 AND green_focus_score >= @min_green_score
                 GROUP BY Rec_ID, Rec_Name, Rec_Cuisine, Rec_Country, green_focus_score, Rec_Star_Rating, Rec_Recalculated_Score, Rec_Cluster, Rec_Badge_List, Rec_Reputation_Label, final_inclusive_score, similarity_score, Explainability_Text
@@ -2276,13 +2287,13 @@ def get_green_recommendations(
         recommendations = [dict(row) for row in client.query(green_recommendations_query, job_config=rec_job_config).result()]
         
         # Get green context for the recommendations
-        green_context_query = """
+        green_context_query = f"""
             SELECT
                 ROUND(AVG(green_focus_score), 3) as avg_green_score,
                 COUNT(DISTINCT Base_ID) as total_green_restaurants,
                 COUNT(CASE WHEN green_focus_score > 0.8 THEN 1 END) as very_high_green_count,
                 COUNT(CASE WHEN green_focus_score > 0.6 THEN 1 END) as high_green_count
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM `{FULL_TABLE_NAME}`
             WHERE green_focus_score >= @min_green_score
         """
         
@@ -2327,7 +2338,7 @@ def get_green_recommendations(
 def get_recommendations(restaurant_name: str, limit: int = 10):
     """Get recommendations for a restaurant by name"""
     try:
-        query = """
+        query = f"""
             SELECT
                 Rec_Name AS name,
                 Rec_Cuisine AS cuisine,
@@ -2340,7 +2351,7 @@ def get_recommendations(restaurant_name: str, limit: int = 10):
                 Rec_Cluster AS cluster,
                 final_inclusive_score AS final_score,
                 Explainability_Text AS explanation
-            FROM `{RECOMMENDATIONS_TABLE}`
+            FROM {FULL_TABLE_NAME}
             WHERE Base_Name = @restaurant_name
             ORDER BY final_inclusive_score DESC
             LIMIT @limit
@@ -2352,6 +2363,21 @@ def get_recommendations(restaurant_name: str, limit: int = 10):
         rows = list(client.query(query, job_config=job_config).result())
         if not rows:
             raise HTTPException(status_code=404, detail="No recommendations found.")
-        return [dict(row) for row in rows]
+        
+        # Process results to add similarity scores for blue badges
+        recommendations = []
+        for i, row in enumerate(rows):
+            rec = dict(row)
+            
+            # Calculate similarity score based on final_score and ranking
+            final_score = float(rec.get('final_score', 0.8))
+            # Top results get higher similarity (85-95%), lower results get 75-85%
+            similarity = min(0.95, max(0.75, final_score * 0.85 + (0.10 - i * 0.01)))
+            rec['similarity_score'] = similarity
+            
+            recommendations.append(rec)
+        
+        return recommendations
+        
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

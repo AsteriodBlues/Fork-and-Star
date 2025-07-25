@@ -1,3 +1,7 @@
+google-cloud-bigquery==3.35.0
+python-dotenv==1.1.1
+google-cloud-bigquery
+python-dotenv
 annotated-types==0.7.0
 anyio==4.9.0
 appnope==0.1.4
@@ -142,3 +146,6 @@ wcwidth==0.2.13
 webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
+google-cloud-bigquery==3.35.0
+google-cloud-bigquery-storage==2.32.0
+python-dotenv==1.1.1

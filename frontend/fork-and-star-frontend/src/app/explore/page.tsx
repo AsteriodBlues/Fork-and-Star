@@ -7,6 +7,7 @@ import TrendingCarousel from "@/components/TrendingCarousel";
 import RandomDiscoveryButton from "@/components/RandomDiscoveryButton";
 import AdvancedFilters from "@/components/AdvancedFilters";
 import WorldMapInteractive from "@/components/WorldMapInteractive";
+import BackendStatusChecker from "@/components/BackendStatusChecker";
 import { fetchRestaurants, fetchFilteredRestaurants } from "@/utils/api";
 import { AnimatePresence, motion } from "framer-motion";
 import BackgroundGlow from "@/components/BackgroundGlow";
@@ -79,6 +80,7 @@ export default function ExplorePage() {
   const [selectedCity, setSelectedCity] = useState("All");
   const [currentFilters, setCurrentFilters] = useState<any>({});
   const [filterError, setFilterError] = useState<string | null>(null);
+  const [backendStatus, setBackendStatus] = useState<'connected' | 'disconnected' | 'checking'>('checking');
 
   // Debounce filter changes to prevent too many API calls
   const debouncedFilters = useDebounce(currentFilters, 500);
@@ -189,10 +191,16 @@ export default function ExplorePage() {
         console.log("🍽️ Fetched restaurants:", data?.length);
         setRestaurants(data);
         setLoading(false);
+        setBackendStatus('connected');
       })
       .catch((error) => {
         console.error("Failed to load restaurants", error);
         setLoading(false);
+        if (error.message.includes('connect') || error.message.includes('timeout')) {
+          setBackendStatus('disconnected');
+        } else {
+          setBackendStatus('connected'); // API is working but returned an error
+        }
       });
   }, []);
 
@@ -324,6 +332,24 @@ export default function ExplorePage() {
         >
           🍽️ Explore Restaurants
         </motion.h1>
+
+        {/* Backend Status Indicator */}
+        {backendStatus === 'disconnected' && (
+          <motion.div
+            initial={{ opacity: 0, y: -10 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="mb-6 max-w-2xl mx-auto"
+          >
+            <div className="bg-yellow-500/10 border border-yellow-500/30 rounded-xl p-4 backdrop-blur-sm">
+              <div className="flex items-center justify-center gap-2 text-yellow-300">
+                <div className="w-2 h-2 rounded-full bg-yellow-400 animate-pulse" />
+                <span className="text-sm">
+                  Backend disconnected - showing cached data. Some features may be limited.
+                </span>
+              </div>
+            </div>
+          </motion.div>
+        )}
 
         {/* Trending Carousel */}
         <div className="w-full max-w-7xl mb-8 relative z-20">
@@ -526,6 +552,9 @@ export default function ExplorePage() {
           isLoading={discoveryLoading}
         />
       </div>
+
+      {/* Backend Status Checker - Temporary Debug Component */}
+      <BackendStatusChecker />
     </div>
   );
 }

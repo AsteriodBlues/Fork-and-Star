@@ -165,7 +165,7 @@ export default function AdvancedFilters({ onFiltersChange, isLoading = false }: 
                       <CustomSelect
                         value={filters.cuisine}
                         onChange={(value) => updateFilter("cuisine", value)}
-                        options={["All", ...(filterOptions?.cuisines || [])]}
+                        options={["All", ...((filterOptions?.cuisines || []).filter((c, i, arr) => c !== 'All' || arr.indexOf(c) === i))]}
                         placeholder="Select Cuisine"
                       />
                     </motion.div>
@@ -182,7 +182,7 @@ export default function AdvancedFilters({ onFiltersChange, isLoading = false }: 
                       <CustomSelect
                         value={filters.country}
                         onChange={(value) => updateFilter("country", value)}
-                        options={["All", ...(filterOptions?.countries || [])]}
+                        options={["All", ...((filterOptions?.countries || []).filter((c, i, arr) => c !== 'All' || arr.indexOf(c) === i))]}
                         placeholder="Select Country"
                       />
                     </motion.div>
@@ -199,7 +199,7 @@ export default function AdvancedFilters({ onFiltersChange, isLoading = false }: 
                       <CustomSelect
                         value={filters.reputation}
                         onChange={(value) => updateFilter("reputation", value)}
-                        options={["All", ...(filterOptions?.reputations || [])]}
+                        options={["All", ...((filterOptions?.reputations || []).filter((c, i, arr) => c !== 'All' || arr.indexOf(c) === i))]}
                         placeholder="Select Reputation"
                       />
                     </motion.div>
@@ -282,7 +282,7 @@ export default function AdvancedFilters({ onFiltersChange, isLoading = false }: 
                       <CustomSelect
                         value={filters.badge}
                         onChange={(value) => updateFilter("badge", value)}
-                        options={["All", ...(filterOptions?.badges || [])]}
+                        options={["All", ...((filterOptions?.badges || []).filter((c, i, arr) => c !== 'All' || arr.indexOf(c) === i))]}
                         placeholder="Select Badge"
                       />
                     </motion.div>

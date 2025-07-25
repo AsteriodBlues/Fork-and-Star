@@ -1,0 +1,69 @@
+.env
+.env.*
+.fork_env
+*.env
+.environment
+
+# Google Cloud & BigQuery Credentials (CRITICAL)
+*.json
+**/*.json
+*credentials*.json
+*service-account*.json
+service-account*.json
+gcp-*.json
+peppy-cosmos-*.json
+secrets/
+.secrets/
+credentials/
+.credentials/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+.ENV/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.temp/
