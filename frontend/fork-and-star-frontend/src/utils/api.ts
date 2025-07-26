@@ -810,7 +810,7 @@ export async function fetchFilteredRestaurants(filters: {
 
 export async function fetchFilterOptions() {
   try {
-    const res = await apiRequest(`${API_BASE_URL}/recommendations/filters/options`);
+    const res = await apiRequest(`${API_BASE_URL}/recommendations/filters/options`, {}, 20000); // 20 seconds
     return res.json();
   } catch (error: any) {
     console.error("Error fetching filter options:", error.message);
