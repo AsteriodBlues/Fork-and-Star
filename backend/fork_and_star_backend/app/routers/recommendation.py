@@ -912,7 +912,7 @@ def health_check():
         return {
             "status": "unhealthy",
             "bigquery_connection": "failed",
-            "error": str(e),
+            "error": "Database connection failed",
             "timestamp": time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
         }
 
