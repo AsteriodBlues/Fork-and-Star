@@ -506,7 +506,7 @@ function getFamousRestaurants(query: string) {
 
 export async function fetchTrendingRestaurants(limit: number = 10) {
   try {
-    const res = await apiRequest(`${API_BASE_URL}/recommendations/trending?limit=${limit}`);
+    const res = await apiRequest(`${API_BASE_URL}/recommendations/trending?limit=${limit}`, {}, 30000); // 30 second timeout for BigQuery
     const data = await res.json();
     
     return {

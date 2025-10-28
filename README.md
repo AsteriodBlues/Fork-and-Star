@@ -4,6 +4,36 @@
 
 A sophisticated full-stack application that provides personalized restaurant recommendations using advanced machine learning algorithms and BigQuery data analytics.
 
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge&logo=uvicorn&logoColor=white)
+
+### Database & Analytics
+![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### UI Libraries
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### Development Tools
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 ## 🌟 Features
 
 - **AI-Powered Recommendations**: Advanced machine learning with voice search support and similarity score matrices
@@ -15,13 +45,7 @@ A sophisticated full-stack application that provides personalized restaurant rec
 - **Advanced Exploration Tools**: Multi-dimensional filtering with beautiful loading screens
 - **Awards & Recognition Database**: World's Top 50, Michelin Stars, Green Stars, Bib Gourmand selections
 - **Sustainability Intelligence**: Global green scores, growth rates, and country sustainability rankings
-- **Beautiful UI/UX**: Soundscapes, confetti effects, and magical portal experiences# 🍴⭐ Fork & Star
-
-**Premium Restaurant Recommendation System**
-
-A sophisticated full-stack application that provides personalized restaurant recommendations using advanced machine learning algorithms and BigQuery data analytics.
-
-## 🌟 Features
+- **Beautiful UI/UX**: Soundscapes, confetti effects, and magical portal experiences
 
 - **AI-Powered Recommendations**: Advanced machine learning with voice search support and similarity score matrices
 - **10 Culinary Journey Portals**: Immersive cultural experiences with soundscapes (expanding collection)

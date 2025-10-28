@@ -554,7 +554,7 @@ export default function ExplorePage() {
       </div>
 
       {/* Backend Status Checker - Temporary Debug Component */}
-      <BackendStatusChecker />
+      {/* <BackendStatusChecker /> */}
     </div>
   );
 }

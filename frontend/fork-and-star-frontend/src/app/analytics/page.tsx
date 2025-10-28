@@ -132,34 +132,39 @@ const MetricCard = ({
       <AnimatePresence>
         {isHovered && (
           <>
-            {Array.from({ length: 8 }).map((_, i) => (
-              <motion.div
-                key={i}
-                className={`absolute w-1 h-1 ${scheme.particles} rounded-full opacity-70`}
-                style={{
-                  left: `${20 + i * 10}%`,
-                  top: `${30 + (i % 3) * 20}%`,
-                }}
-                initial={{ 
-                  opacity: 0, 
-                  scale: 0,
-                  x: 0,
-                  y: 0
-                }}
-                animate={{ 
-                  opacity: [0, 1, 0],
-                  scale: [0, 1, 0],
-                  x: [0, Math.random() * 40 - 20],
-                  y: [0, Math.random() * 40 - 20],
-                }}
-                transition={{
-                  duration: 2,
-                  repeat: Infinity,
-                  delay: i * 0.2,
-                  ease: "easeOut"
-                }}
-              />
-            ))}
+            {Array.from({ length: 8 }).map((_, i) => {
+              const xOffset = ((i * 31) % 40) - 20;
+              const yOffset = ((i * 47) % 40) - 20;
+
+              return (
+                <motion.div
+                  key={i}
+                  className={`absolute w-1 h-1 ${scheme.particles} rounded-full opacity-70`}
+                  style={{
+                    left: `${20 + i * 10}%`,
+                    top: `${30 + (i % 3) * 20}%`,
+                  }}
+                  initial={{
+                    opacity: 0,
+                    scale: 0,
+                    x: 0,
+                    y: 0
+                  }}
+                  animate={{
+                    opacity: [0, 1, 0],
+                    scale: [0, 1, 0],
+                    x: [0, xOffset],
+                    y: [0, yOffset],
+                  }}
+                  transition={{
+                    duration: 2,
+                    repeat: Infinity,
+                    delay: i * 0.2,
+                    ease: "easeOut"
+                  }}
+                />
+              );
+            })}
           </>
         )}
       </AnimatePresence>
@@ -979,28 +984,37 @@ if (loading && !analyticsData) {
         />
         
         {/* Floating data particles */}
-        {Array.from({ length: 15 }).map((_, i) => (
-          <motion.div
-            key={i}
-            className="absolute w-1 h-1 bg-gradient-to-r from-purple-400 to-pink-400 rounded-full"
-            style={{
-              left: `${Math.random() * 100}%`,
-              top: `${Math.random() * 100}%`,
-            }}
-            animate={{
-              y: [0, -100, 0],
-              x: [0, Math.random() * 50 - 25, 0],
-              opacity: [0, 1, 0],
-              scale: [0, 1.5, 0],
-            }}
-            transition={{
-              duration: 3 + Math.random() * 2,
-              repeat: Infinity,
-              delay: Math.random() * 2,
-              ease: "easeInOut"
-            }}
-          />
-        ))}
+        {Array.from({ length: 15 }).map((_, i) => {
+          // Use deterministic values based on index to avoid hydration mismatch
+          const leftPos = (i * 37 + 13) % 100;
+          const topPos = (i * 53 + 19) % 100;
+          const xOffset = ((i * 23) % 50) - 25;
+          const duration = 3 + ((i * 17) % 20) / 10;
+          const delay = (i * 13) % 20 / 10;
+
+          return (
+            <motion.div
+              key={i}
+              className="absolute w-1 h-1 bg-gradient-to-r from-purple-400 to-pink-400 rounded-full"
+              style={{
+                left: `${leftPos}%`,
+                top: `${topPos}%`,
+              }}
+              animate={{
+                y: [0, -100, 0],
+                x: [0, xOffset, 0],
+                opacity: [0, 1, 0],
+                scale: [0, 1.5, 0],
+              }}
+              transition={{
+                duration,
+                repeat: Infinity,
+                delay,
+                ease: "easeInOut"
+              }}
+            />
+          );
+        })}
       </div>
 
       {/* Main loading content */}
@@ -1159,22 +1173,7 @@ if (loading && !analyticsData) {
         </motion.div>
       </div>
 
-      {/* Scanning line effect */}
-      {/* Scanning line effect (client-only) */}
-      {typeof window !== "undefined" && (
-        <motion.div
-          className="absolute inset-0 bg-gradient-to-r from-transparent via-purple-500/10 to-transparent"
-          style={{ width: '2px' }}
-          animate={{
-            x: [-10, window.innerWidth + 10],
-          }}
-          transition={{
-            duration: 3,
-            repeat: Infinity,
-            ease: "linear"
-          }}
-        />
-      )}
+      {/* Scanning line effect - removed to fix hydration error */}
     </div>
   );
 }
